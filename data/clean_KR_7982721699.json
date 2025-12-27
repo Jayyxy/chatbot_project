@@ -1,0 +1,910 @@
+{
+    "match_id": "KR_7982721699",
+    "game_version": "Linux Version 15.24.734.7485 (Dec 19 2025/11:16:31) [PUBLIC] <Releases/15.24>",
+    "players": [
+        {
+            "placement": 1,
+            "level": 10,
+            "gold_left": 7,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Blacksmith",
+                    "level": 1
+                },
+                {
+                    "name": "Gunslinger",
+                    "level": 1
+                },
+                {
+                    "name": "Harvester",
+                    "level": 1
+                },
+                {
+                    "name": "HexMech",
+                    "level": 1
+                },
+                {
+                    "name": "Invoker",
+                    "level": 1
+                },
+                {
+                    "name": "Piltover",
+                    "level": 3
+                },
+                {
+                    "name": "Soulbound",
+                    "level": 1
+                },
+                {
+                    "name": "Warden",
+                    "level": 2
+                }
+            ],
+            "units": [
+                {
+                    "name": "Caitlyn",
+                    "tier": 3,
+                    "items": []
+                },
+                {
+                    "name": "Vi",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Orianna",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Loris",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Seraphine",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Braum",
+                    "tier": 2,
+                    "items": [
+                        "Redemption",
+                        "FrozenHeart",
+                        "SteraksGage"
+                    ]
+                },
+                {
+                    "name": "Ornn",
+                    "tier": 2,
+                    "items": [
+                        "Artifact_AegisOfDusk",
+                        "Artifact_AegisOfDusk"
+                    ]
+                },
+                {
+                    "name": "Fiddlesticks",
+                    "tier": 2,
+                    "items": [
+                        "Crownguard"
+                    ]
+                },
+                {
+                    "name": "Lucian",
+                    "tier": 2,
+                    "items": [
+                        "InvokerEmblemItem",
+                        "LastWhisper",
+                        "Deathblade"
+                    ]
+                },
+                {
+                    "name": "THex",
+                    "tier": 2,
+                    "items": [
+                        "PowerGauntlet",
+                        "Artifact_Mittens",
+                        "InfinityEdge"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 2,
+            "level": 9,
+            "gold_left": 4,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Defender",
+                    "level": 1
+                },
+                {
+                    "name": "Emperor",
+                    "level": 1
+                },
+                {
+                    "name": "Juggernaut",
+                    "level": 1
+                },
+                {
+                    "name": "Magus",
+                    "level": 1
+                },
+                {
+                    "name": "Piltover",
+                    "level": 1
+                },
+                {
+                    "name": "Shurima",
+                    "level": 2
+                },
+                {
+                    "name": "ShyvanaUnique",
+                    "level": 1
+                },
+                {
+                    "name": "Sorcerer",
+                    "level": 1
+                },
+                {
+                    "name": "SylasTrait",
+                    "level": 1
+                },
+                {
+                    "name": "Targon",
+                    "level": 1
+                },
+                {
+                    "name": "XerathUnique",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "Vi",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Seraphine",
+                    "tier": 2,
+                    "items": [
+                        "Morellonomicon"
+                    ]
+                },
+                {
+                    "name": "Diana",
+                    "tier": 2,
+                    "items": [
+                        "GuinsoosRageblade"
+                    ]
+                },
+                {
+                    "name": "Renekton",
+                    "tier": 2,
+                    "items": [
+                        "SteraksGage",
+                        "Bloodthirster",
+                        "Quicksilver"
+                    ]
+                },
+                {
+                    "name": "Swain",
+                    "tier": 2,
+                    "items": [
+                        "Redemption",
+                        "WarmogsArmor"
+                    ]
+                },
+                {
+                    "name": "Azir",
+                    "tier": 1,
+                    "items": [
+                        "GuinsoosRageblade",
+                        "NeedlesslyLargeRod"
+                    ]
+                },
+                {
+                    "name": "Shyvana",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "NightHarvester",
+                        "ArchangelsStaff"
+                    ]
+                },
+                {
+                    "name": "Sylas",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Xerath",
+                    "tier": 1,
+                    "items": [
+                        "ArchangelsStaff",
+                        "StatikkShiv",
+                        "OrnnHorizonFocus"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 3,
+            "level": 8,
+            "gold_left": 0,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Brawler",
+                    "level": 1
+                },
+                {
+                    "name": "Defender",
+                    "level": 1
+                },
+                {
+                    "name": "Freljord",
+                    "level": 1
+                },
+                {
+                    "name": "Invoker",
+                    "level": 1
+                },
+                {
+                    "name": "Ionia",
+                    "level": 1
+                },
+                {
+                    "name": "Rapidfire",
+                    "level": 1
+                },
+                {
+                    "name": "Targon",
+                    "level": 1
+                },
+                {
+                    "name": "Yordle",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "Ashe",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "Redemption",
+                        "TitansResolve"
+                    ]
+                },
+                {
+                    "name": "Sejuani",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "Crownguard",
+                        "GuinsoosRageblade"
+                    ]
+                },
+                {
+                    "name": "Kobuko",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Kennen",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "SteraksGage",
+                        "RabadonsDeathcap"
+                    ]
+                },
+                {
+                    "name": "Taric",
+                    "tier": 2,
+                    "items": [
+                        "SpectralGauntlet",
+                        "RedBuff",
+                        "NightHarvester"
+                    ]
+                },
+                {
+                    "name": "Lissandra",
+                    "tier": 2,
+                    "items": [
+                        "JeweledGauntlet",
+                        "Leviathan",
+                        "GuinsoosRageblade"
+                    ]
+                },
+                {
+                    "name": "Wukong",
+                    "tier": 1,
+                    "items": [
+                        "BFSword"
+                    ]
+                },
+                {
+                    "name": "Yunara",
+                    "tier": 2,
+                    "items": [
+                        "InfinityEdge",
+                        "RunaansHurricane",
+                        "RunaansHurricane"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 4,
+            "level": 9,
+            "gold_left": 1,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Bilgewater",
+                    "level": 2
+                },
+                {
+                    "name": "Blacksmith",
+                    "level": 1
+                },
+                {
+                    "name": "Brawler",
+                    "level": 1
+                },
+                {
+                    "name": "Glutton",
+                    "level": 1
+                },
+                {
+                    "name": "Gunslinger",
+                    "level": 1
+                },
+                {
+                    "name": "Harvester",
+                    "level": 1
+                },
+                {
+                    "name": "Juggernaut",
+                    "level": 1
+                },
+                {
+                    "name": "ShyvanaUnique",
+                    "level": 1
+                },
+                {
+                    "name": "Soulbound",
+                    "level": 1
+                },
+                {
+                    "name": "Warden",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "TwistedFate",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Nautilus",
+                    "tier": 3,
+                    "items": [
+                        "Redemption",
+                        "Crownguard",
+                        "GargoyleStoneplate"
+                    ]
+                },
+                {
+                    "name": "MissFortune",
+                    "tier": 2,
+                    "items": [
+                        "LastWhisper",
+                        "Deathblade",
+                        "Bilgewater_CaptainsBrew"
+                    ]
+                },
+                {
+                    "name": "Fizz",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "JeweledGauntlet",
+                        "RabadonsDeathcap"
+                    ]
+                },
+                {
+                    "name": "Ornn",
+                    "tier": 1,
+                    "items": [
+                        "Artifact_TalismanOfAscension",
+                        "GiantsBelt",
+                        "Artifact_AegisOfDusk"
+                    ]
+                },
+                {
+                    "name": "Fiddlesticks",
+                    "tier": 1,
+                    "items": [
+                        "ForceOfNature"
+                    ]
+                },
+                {
+                    "name": "Lucian",
+                    "tier": 1,
+                    "items": [
+                        "GuinsoosRageblade",
+                        "RapidFireCannon",
+                        "RunaansHurricane"
+                    ]
+                },
+                {
+                    "name": "Shyvana",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "AdaptiveHelm",
+                        "JeweledGauntlet"
+                    ]
+                },
+                {
+                    "name": "TahmKench",
+                    "tier": 1,
+                    "items": [
+                        "Bilgewater_PileOCitrus",
+                        "Bilgewater_FreebootersFrock"
+                    ]
+                },
+                {
+                    "name": "Volibear",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "InfinityEdge",
+                        "Bloodthirster"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 5,
+            "level": 10,
+            "gold_left": 0,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Blacksmith",
+                    "level": 1
+                },
+                {
+                    "name": "Brawler",
+                    "level": 1
+                },
+                {
+                    "name": "Chronokeeper",
+                    "level": 1
+                },
+                {
+                    "name": "DarkinWeapon",
+                    "level": 1
+                },
+                {
+                    "name": "Freljord",
+                    "level": 2
+                },
+                {
+                    "name": "Invoker",
+                    "level": 2
+                },
+                {
+                    "name": "KindredUnique",
+                    "level": 1
+                },
+                {
+                    "name": "Rapidfire",
+                    "level": 1
+                },
+                {
+                    "name": "Warden",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "Ashe",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Kobuko",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Milio",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Lissandra",
+                    "tier": 2,
+                    "items": [
+                        "SpearOfShojin",
+                        "JeweledGauntlet"
+                    ]
+                },
+                {
+                    "name": "Braum",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Ornn",
+                    "tier": 2,
+                    "items": [
+                        "DragonsClaw",
+                        "BrambleVest",
+                        "WarmogsArmor"
+                    ]
+                },
+                {
+                    "name": "Kindred",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Kindred",
+                    "tier": 2,
+                    "items": [
+                        "Deathblade",
+                        "FreljordEmblemItem",
+                        "TheDarkinStaff"
+                    ]
+                },
+                {
+                    "name": "Zilean",
+                    "tier": 1,
+                    "items": [
+                        "FreljordEmblemItem",
+                        "Artifact_BlightingJewel",
+                        "RecurveBow"
+                    ]
+                },
+                {
+                    "name": "Volibear",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGlovesRadiant",
+                        "InfinityEdgeRadiant",
+                        "MorellonomiconRadiant"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 6,
+            "level": 9,
+            "gold_left": 1,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Brawler",
+                    "level": 1
+                },
+                {
+                    "name": "Defender",
+                    "level": 1
+                },
+                {
+                    "name": "Freljord",
+                    "level": 1
+                },
+                {
+                    "name": "Invoker",
+                    "level": 1
+                },
+                {
+                    "name": "Ionia",
+                    "level": 1
+                },
+                {
+                    "name": "Rapidfire",
+                    "level": 1
+                },
+                {
+                    "name": "RuneMage",
+                    "level": 1
+                },
+                {
+                    "name": "Targon",
+                    "level": 1
+                },
+                {
+                    "name": "Yordle",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "Ashe",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Sejuani",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Kobuko",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Kennen",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Taric",
+                    "tier": 1,
+                    "items": [
+                        "RedBuff",
+                        "NegatronCloak",
+                        "SpectralGauntlet"
+                    ]
+                },
+                {
+                    "name": "Lissandra",
+                    "tier": 2,
+                    "items": [
+                        "Artifact_LudensTempest",
+                        "Artifact_LudensTempest",
+                        "RabadonsDeathcap"
+                    ]
+                },
+                {
+                    "name": "Wukong",
+                    "tier": 2,
+                    "items": [
+                        "Crownguard",
+                        "BrambleVest",
+                        "AdaptiveHelm"
+                    ]
+                },
+                {
+                    "name": "Yunara",
+                    "tier": 2,
+                    "items": [
+                        "Artifact_NavoriFlickerblades",
+                        "Artifact_NavoriFlickerblades",
+                        "Deathblade"
+                    ]
+                },
+                {
+                    "name": "Ryze",
+                    "tier": 1,
+                    "items": [
+                        "Artifact_LichBane",
+                        "GuinsoosRageblade"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 7,
+            "level": 9,
+            "gold_left": 5,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Brawler",
+                    "level": 1
+                },
+                {
+                    "name": "Defender",
+                    "level": 1
+                },
+                {
+                    "name": "Harvester",
+                    "level": 1
+                },
+                {
+                    "name": "Ionia",
+                    "level": 2
+                },
+                {
+                    "name": "Rapidfire",
+                    "level": 1
+                },
+                {
+                    "name": "Soulbound",
+                    "level": 1
+                },
+                {
+                    "name": "Yordle",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "Shen",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Sejuani",
+                    "tier": 2,
+                    "items": [
+                        "YordleEmblemItem"
+                    ]
+                },
+                {
+                    "name": "Ahri",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Kobuko",
+                    "tier": 2,
+                    "items": [
+                        "IxtalEmblemItem"
+                    ]
+                },
+                {
+                    "name": "Kennen",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Wukong",
+                    "tier": 1,
+                    "items": [
+                        "SpectralGauntlet",
+                        "Redemption",
+                        "RedBuff"
+                    ]
+                },
+                {
+                    "name": "Yunara",
+                    "tier": 2,
+                    "items": [
+                        "ShimmerscaleGamblersBlade",
+                        "RunaansHurricane",
+                        "RunaansHurricane"
+                    ]
+                },
+                {
+                    "name": "Fiddlesticks",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Lucian",
+                    "tier": 1,
+                    "items": [
+                        "MadredsBloodrazor",
+                        "HextechGunblade",
+                        "RapidfireEmblemItem"
+                    ]
+                }
+            ]
+        },
+        {
+            "placement": 8,
+            "level": 9,
+            "gold_left": 1,
+            "augments": [],
+            "traits": [
+                {
+                    "name": "Bilgewater",
+                    "level": 1
+                },
+                {
+                    "name": "Glutton",
+                    "level": 1
+                },
+                {
+                    "name": "Gunslinger",
+                    "level": 1
+                },
+                {
+                    "name": "Harvester",
+                    "level": 1
+                },
+                {
+                    "name": "Juggernaut",
+                    "level": 1
+                },
+                {
+                    "name": "ShyvanaUnique",
+                    "level": 1
+                },
+                {
+                    "name": "Soulbound",
+                    "level": 1
+                },
+                {
+                    "name": "Targon",
+                    "level": 1
+                }
+            ],
+            "units": [
+                {
+                    "name": "Graves",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "RapidFireCannon",
+                        "BlueBuff"
+                    ]
+                },
+                {
+                    "name": "MissFortune",
+                    "tier": 2,
+                    "items": [
+                        "SpearOfShojin",
+                        "LastWhisper",
+                        "InfinityEdge"
+                    ]
+                },
+                {
+                    "name": "Taric",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Fizz",
+                    "tier": 2,
+                    "items": [
+                        "ThiefsGloves",
+                        "PowerGauntlet",
+                        "BlueBuff"
+                    ]
+                },
+                {
+                    "name": "Swain",
+                    "tier": 2,
+                    "items": []
+                },
+                {
+                    "name": "Fiddlesticks",
+                    "tier": 1,
+                    "items": []
+                },
+                {
+                    "name": "Lucian",
+                    "tier": 1,
+                    "items": [
+                        "Morellonomicon"
+                    ]
+                },
+                {
+                    "name": "Shyvana",
+                    "tier": 1,
+                    "items": [
+                        "ThiefsGloves",
+                        "AdaptiveHelm",
+                        "WarmogsArmor"
+                    ]
+                },
+                {
+                    "name": "TahmKench",
+                    "tier": 1,
+                    "items": [
+                        "Bilgewater_PileOCitrus",
+                        "AdaptiveHelm",
+                        "WarmogsArmor"
+                    ]
+                }
+            ]
+        }
+    ]
+}
