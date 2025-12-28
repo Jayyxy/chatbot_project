@@ -1,0 +1,175 @@
+import json
+import time
+import os
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
+from tqdm import tqdm
+
+# ==========================================
+# [설정] 파일 경로
+# ==========================================
+INPUT_FILE = "data/lolchess_meta_list.json"  # 1단계에서 만든 JSON 파일
+OUTPUT_FILE = "data/lolchess_guide_structured.json" # 최종 결과 파일
+
+# ==========================================
+# [핵심] HTML 구조 파서 (구조적 데이터 추출)
+# ==========================================
+def parse_html_structure(container_html):
+    """
+    HTML 덩어리 안에서 H1(제목)과 P(내용) 관계를 구조화하여 딕셔너리로 반환
+    예: {"개요": ["난이도 보통", "빌드업 추천..."], "아이템": [...]}
+    """
+    if not container_html:
+        return {}
+
+    soup = BeautifulSoup(str(container_html), 'html.parser')
+    structured_data = {}
+    current_key = "General" # H1이 없는 경우를 대비한 기본 키
+
+    # challenger-comment 클래스 내부의 모든 자식 태그를 순서대로 순회
+    content_div = soup.find("div", class_="challenger-comment")
+    if not content_div:
+        return {"content": soup.get_text(strip=True)}
+
+    for element in content_div.children:
+        if element.name in ['h1', 'h2', 'h3', 'strong']: # 소제목 인식
+            current_key = element.get_text(strip=True)
+            if current_key not in structured_data:
+                structured_data[current_key] = []
+        elif element.name == 'p' or element.name == 'div': # 내용 인식
+            text = element.get_text(separator=" ", strip=True)
+            if text:
+                if current_key not in structured_data:
+                    structured_data[current_key] = []
+                structured_data[current_key].append(text)
+    
+    return structured_data
+
+def crawl_details():
+    # 1. 메타 데이터 로드
+    if not os.path.exists(INPUT_FILE):
+        print(f"❌ {INPUT_FILE} 파일이 없습니다. fetch_meta_data.py를 먼저 실행하세요.")
+        return
+
+    with open(INPUT_FILE, 'r', encoding='utf-8') as f:
+        meta_list = json.load(f)
+
+    print(f">>> 총 {len(meta_list)}개의 덱 상세 정보를 수집합니다.")
+
+    # 2. 브라우저 설정
+    chrome_options = Options()
+    chrome_options.add_argument("--headless") 
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    # 이미지 로딩 비활성화 (속도 향상)
+    chrome_options.add_argument("--blink-settings=imagesEnabled=false") 
+    
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+    
+    final_results = []
+
+    # 3. 크롤링 루프
+    for idx, deck in enumerate(tqdm(meta_list)):
+        url = deck.get('url')
+        if not url: continue
+
+        try:
+            driver.get(url)
+            # 페이지 로딩 대기 (가이드 박스가 뜰 때까지)
+            try:
+                WebDriverWait(driver, 5).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "challenger-comment"))
+                )
+            except:
+                pass # 가이드가 없는 덱일 수도 있음
+
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            
+            # --- 데이터 추출 시작 ---
+            
+            # 1. 가이드 박스들 찾기 (공략 & 증강체)
+            # css-1s5hngw 클래스가 가이드 박스 컨테이너 (변동 가능성 있으니 주의)
+            # 구조적으로 'h2' 태그가 직계 자식으로 있는 div를 찾는 것이 안전
+            guide_boxes = soup.find_all("div", class_=lambda x: x and "css-1s5hngw" in x)
+            
+            guide_structured = {}
+            augments_structured = {}
+            detail_deck_name = ""
+
+            for box in guide_boxes:
+                title_tag = box.find("h2")
+                if not title_tag: continue
+                title_text = title_tag.get_text(strip=True)
+
+                if "증강체" in title_text:
+                    # [증강체 파싱]
+                    augments_structured = parse_html_structure(box)
+                else:
+                    # [공략 파싱]
+                    # 첫 번째로 발견되는 일반 가이드 박스의 제목을 '상세 덱 이름'으로 간주
+                    if not detail_deck_name:
+                        detail_deck_name = title_text
+                    
+                    # 공략 내용 구조화 (h1 -> p)
+                    section_data = parse_html_structure(box)
+                    guide_structured.update(section_data)
+
+            # 2. 배치 정보 (이전 로직 유지)
+            positioning = []
+            board = soup.find("div", class_=lambda x: x and "css-y6vj5x" in x)
+            if board:
+                slots = board.find_all("div", class_=lambda x: x and "Slot" in x)
+                for i, slot in enumerate(slots):
+                    name_div = slot.select_one(".css-16jrvsm") or slot.find("div", class_=lambda x: x and "ed21b2i3" in x)
+                    if name_div:
+                        champ_name = name_div.get_text(strip=True)
+                        stars = len(slot.find_all("div", class_=lambda x: x and "bg-black" in x))
+                        
+                        items = []
+                        for img in slot.find_all("img", src=True):
+                            if "items" in img['src']:
+                                items.append(img['src'].split("/")[-1].split("_")[0].split(".")[0])
+                        
+                        row = (i // 7) + 1
+                        col = (i % 7) + 1
+                        positioning.append({
+                            "champion": champ_name,
+                            "star": stars if stars > 0 else 1,
+                            "items": items,
+                            "grid": [row, col] # 좌표 (1~4열)
+                        })
+
+            # 3. 최종 데이터 병합
+            deck_full_data = {
+                "meta_info": deck,             # 1단계 수집 정보 (hot, gold 등)
+                "detail_deck_name": detail_deck_name, # 상세 페이지 내부 덱 이름 (예: 슈리마 아지르 덱)
+                "guide": guide_structured,     # 구조화된 공략 (개요: [...], 아이템: [...])
+                "augments": augments_structured, # 구조화된 증강체 (실버: [...], 골드: [...])
+                "positioning": positioning     # 배치 정보
+            }
+            
+            final_results.append(deck_full_data)
+            # time.sleep(0.5) # 서버 부하 방지용 짧은 대기
+
+        except Exception as e:
+            print(f"Error processing {url}: {e}")
+            # 에러 나도 멈추지 않고 다음 덱으로 진행
+            continue
+
+    driver.quit()
+
+    # 4. 결과 저장
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(final_results, f, indent=4, ensure_ascii=False)
+    
+    print(f"\n✅ 크롤링 완료! {len(final_results)}개의 상세 데이터가 저장되었습니다.")
+    print(f"📂 파일 위치: {OUTPUT_FILE}")
+
+if __name__ == "__main__":
+    crawl_details()
