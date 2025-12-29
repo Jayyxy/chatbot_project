@@ -1,0 +1,1309 @@
+[
+    {
+        "champion": "럼블",
+        "cost": 1,
+        "traits": [
+            "엄호대",
+            "요들"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "40",
+        "mana": "40/110"
+    },
+    {
+        "champion": "룰루",
+        "cost": 1,
+        "traits": [
+            "비전 마법사",
+            "요들"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "15",
+        "mana": "20/70"
+    },
+    {
+        "champion": "브라이어",
+        "cost": 1,
+        "traits": [
+            "전쟁기계",
+            "녹서스",
+            "학살자"
+        ],
+        "role": "AD 근접 캐리",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "35",
+        "mana": "0/40"
+    },
+    {
+        "champion": "블리츠크랭크",
+        "cost": 1,
+        "traits": [
+            "전쟁기계",
+            "자운"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "40",
+        "mana": "60/120"
+    },
+    {
+        "champion": "비에고",
+        "cost": 1,
+        "traits": [
+            "기동타격대",
+            "그림자 군도"
+        ],
+        "role": "HFighter",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "35",
+        "mana": "0/30"
+    },
+    {
+        "champion": "소나",
+        "cost": 1,
+        "traits": [
+            "데마시아",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "15",
+        "mana": "0/30"
+    },
+    {
+        "champion": "쉔",
+        "cost": 1,
+        "traits": [
+            "난동꾼",
+            "아이오니아"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "40",
+        "mana": "30/90"
+    },
+    {
+        "champion": "애니비아",
+        "cost": 1,
+        "traits": [
+            "프렐요드",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "20",
+        "mana": "0/40"
+    },
+    {
+        "champion": "일라오이",
+        "cost": 1,
+        "traits": [
+            "빌지워터",
+            "난동꾼"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "40",
+        "mana": "40/100"
+    },
+    {
+        "champion": "자르반 4세",
+        "cost": 1,
+        "traits": [
+            "엄호대",
+            "데마시아"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "40",
+        "mana": "30/100"
+    },
+    {
+        "champion": "진",
+        "cost": 1,
+        "traits": [
+            "총잡이",
+            "아이오니아"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "24",
+        "mana": "0/70"
+    },
+    {
+        "champion": "케이틀린",
+        "cost": 1,
+        "traits": [
+            "원거리 사격",
+            "필트오버"
+        ],
+        "role": "ADCaster",
+        "attack_range": 5,
+        "attack_speed": "0.75",
+        "armor": "15",
+        "mana": "0/80"
+    },
+    {
+        "champion": "코그모",
+        "cost": 1,
+        "traits": [
+            "비전 마법사",
+            "원거리 사격",
+            "공허"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 5,
+        "attack_speed": "0.7",
+        "armor": "15",
+        "mana": "0/30"
+    },
+    {
+        "champion": "키아나",
+        "cost": 1,
+        "traits": [
+            "이쉬탈",
+            "학살자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "35",
+        "mana": "0/30"
+    },
+    {
+        "champion": "그레이브즈",
+        "cost": 2,
+        "traits": [
+            "빌지워터",
+            "총잡이"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.7",
+        "armor": "45",
+        "mana": "0/50"
+    },
+    {
+        "champion": "니코",
+        "cost": 2,
+        "traits": [
+            "비전 마법사",
+            "엄호대",
+            "이쉬탈"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "45",
+        "mana": "15/65"
+    },
+    {
+        "champion": "렉사이",
+        "cost": 2,
+        "traits": [
+            "토벌자",
+            "공허"
+        ],
+        "role": "AD 근접 캐리",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "45",
+        "mana": "0/30"
+    },
+    {
+        "champion": "바드",
+        "cost": 2,
+        "traits": [
+            "관리인"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/55"
+    },
+    {
+        "champion": "바이",
+        "cost": 2,
+        "traits": [
+            "엄호대",
+            "필트오버",
+            "자운"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "40",
+        "mana": "0/30"
+    },
+    {
+        "champion": "뽀삐",
+        "cost": 2,
+        "traits": [
+            "데마시아",
+            "전쟁기계",
+            "요들"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.7",
+        "armor": "45",
+        "mana": "40/80"
+    },
+    {
+        "champion": "사이온",
+        "cost": 2,
+        "traits": [
+            "난동꾼",
+            "녹서스"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "40",
+        "mana": "0/70"
+    },
+    {
+        "champion": "신 짜오",
+        "cost": 2,
+        "traits": [
+            "데마시아",
+            "아이오니아",
+            "파수꾼"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "45",
+        "mana": "15/70"
+    },
+    {
+        "champion": "아펠리오스",
+        "cost": 2,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/40"
+    },
+    {
+        "champion": "애쉬",
+        "cost": 2,
+        "traits": [
+            "프렐요드",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "20",
+        "mana": "20/80"
+    },
+    {
+        "champion": "야스오",
+        "cost": 2,
+        "traits": [
+            "아이오니아",
+            "학살자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.8",
+        "armor": "45",
+        "mana": "0/30"
+    },
+    {
+        "champion": "에코",
+        "cost": 2,
+        "traits": [
+            "방해꾼",
+            "자운"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "50",
+        "mana": "0/40"
+    },
+    {
+        "champion": "오리아나",
+        "cost": 2,
+        "traits": [
+            "기원자",
+            "필트오버"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "20",
+        "mana": "20/60"
+    },
+    {
+        "champion": "요릭",
+        "cost": 2,
+        "traits": [
+            "그림자 군도",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "45",
+        "mana": "15/75"
+    },
+    {
+        "champion": "초가스",
+        "cost": 2,
+        "traits": [
+            "전쟁기계",
+            "공허"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "45",
+        "mana": "40/100"
+    },
+    {
+        "champion": "트리스타나",
+        "cost": 2,
+        "traits": [
+            "총잡이",
+            "요들"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/50"
+    },
+    {
+        "champion": "트린다미어",
+        "cost": 2,
+        "traits": [
+            "프렐요드",
+            "학살자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "45",
+        "mana": "0/50"
+    },
+    {
+        "champion": "트위스티드 페이트",
+        "cost": 2,
+        "traits": [
+            "빌지워터",
+            "기동타격대"
+        ],
+        "role": "APSpecialist",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/3"
+    },
+    {
+        "champion": "티모",
+        "cost": 2,
+        "traits": [
+            "원거리 사격",
+            "요들"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 5,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/30"
+    },
+    {
+        "champion": "갱플랭크",
+        "cost": 3,
+        "traits": [
+            "빌지워터",
+            "학살자",
+            "토벌자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.8",
+        "armor": "55",
+        "mana": "0/50"
+    },
+    {
+        "champion": "그웬",
+        "cost": 3,
+        "traits": [
+            "방해꾼",
+            "그림자 군도"
+        ],
+        "role": "AP 전사",
+        "attack_range": 2,
+        "attack_speed": "0.8",
+        "armor": "55",
+        "mana": "0/30"
+    },
+    {
+        "champion": "노틸러스",
+        "cost": 3,
+        "traits": [
+            "빌지워터",
+            "전쟁기계",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "60/120"
+    },
+    {
+        "champion": "다리우스",
+        "cost": 3,
+        "traits": [
+            "엄호대",
+            "녹서스"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "50",
+        "mana": "15/75"
+    },
+    {
+        "champion": "드레이븐",
+        "cost": 3,
+        "traits": [
+            "녹서스",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "25",
+        "mana": "60/100"
+    },
+    {
+        "champion": "레오나",
+        "cost": 3,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "60",
+        "mana": "70/120"
+    },
+    {
+        "champion": "로리스",
+        "cost": 3,
+        "traits": [
+            "필트오버",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "70/140"
+    },
+    {
+        "champion": "르블랑",
+        "cost": 3,
+        "traits": [
+            "기원자",
+            "녹서스"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "25",
+        "mana": "0/60"
+    },
+    {
+        "champion": "말자하",
+        "cost": 3,
+        "traits": [
+            "방해꾼",
+            "공허"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "25",
+        "mana": "0/35"
+    },
+    {
+        "champion": "문도 박사",
+        "cost": 3,
+        "traits": [
+            "난동꾼",
+            "자운"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "0/60"
+    },
+    {
+        "champion": "밀리오",
+        "cost": 3,
+        "traits": [
+            "기원자",
+            "이쉬탈"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/60"
+    },
+    {
+        "champion": "베인",
+        "cost": 3,
+        "traits": [
+            "데마시아",
+            "원거리 사격"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 5,
+        "attack_speed": "0.9",
+        "armor": "25",
+        "mana": "0/40"
+    },
+    {
+        "champion": "세주아니",
+        "cost": 3,
+        "traits": [
+            "엄호대",
+            "프렐요드"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "40/80"
+    },
+    {
+        "champion": "아리",
+        "cost": 3,
+        "traits": [
+            "비전 마법사",
+            "아이오니아"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "25",
+        "mana": "0/30"
+    },
+    {
+        "champion": "조이",
+        "cost": 3,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "25",
+        "mana": "30/60"
+    },
+    {
+        "champion": "징크스",
+        "cost": 3,
+        "traits": [
+            "총잡이",
+            "자운"
+        ],
+        "role": "ADSpecialist",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "25",
+        "mana": "0/18"
+    },
+    {
+        "champion": "케넨",
+        "cost": 3,
+        "traits": [
+            "엄호대",
+            "아이오니아",
+            "요들"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "50",
+        "mana": "70/125"
+    },
+    {
+        "champion": "코부코와 유미",
+        "cost": 3,
+        "traits": [
+            "난동꾼",
+            "기원자",
+            "요들"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "50",
+        "mana": "30/90"
+    },
+    {
+        "champion": "가렌",
+        "cost": 4,
+        "traits": [
+            "엄호대",
+            "데마시아"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "60",
+        "mana": "50/130"
+    },
+    {
+        "champion": "나서스",
+        "cost": 4,
+        "traits": [
+            "슈리마"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "70",
+        "mana": "10/70"
+    },
+    {
+        "champion": "니달리",
+        "cost": 4,
+        "traits": [
+            "여사냥꾼",
+            "이쉬탈"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "0/40"
+    },
+    {
+        "champion": "다이애나",
+        "cost": 4,
+        "traits": [
+            "타곤"
+        ],
+        "role": "APReaper",
+        "attack_range": 1,
+        "attack_speed": "0.8",
+        "armor": "70",
+        "mana": "0/30"
+    },
+    {
+        "champion": "럭스",
+        "cost": 4,
+        "traits": [
+            "비전 마법사",
+            "데마시아"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/50"
+    },
+    {
+        "champion": "레넥톤",
+        "cost": 4,
+        "traits": [
+            "슈리마"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "0/30"
+    },
+    {
+        "champion": "리산드라",
+        "cost": 4,
+        "traits": [
+            "프렐요드",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "20/70"
+    },
+    {
+        "champion": "미스 포츈",
+        "cost": 4,
+        "traits": [
+            "빌지워터",
+            "총잡이"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/30"
+    },
+    {
+        "champion": "베이가",
+        "cost": 4,
+        "traits": [
+            "비전 마법사",
+            "요들"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/60"
+    },
+    {
+        "champion": "벨베스",
+        "cost": 4,
+        "traits": [
+            "학살자",
+            "공허"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.85",
+        "armor": "50",
+        "mana": "0/100"
+    },
+    {
+        "champion": "브라움",
+        "cost": 4,
+        "traits": [
+            "프렐요드",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "60",
+        "mana": "60/120"
+    },
+    {
+        "champion": "세라핀",
+        "cost": 4,
+        "traits": [
+            "방해꾼",
+            "필트오버"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/20"
+    },
+    {
+        "champion": "스웨인",
+        "cost": 4,
+        "traits": [
+            "비전 마법사",
+            "전쟁기계",
+            "녹서스"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "60",
+        "mana": "50/145"
+    },
+    {
+        "champion": "스카너",
+        "cost": 4,
+        "traits": [
+            "이쉬탈"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "70",
+        "mana": "60/120"
+    },
+    {
+        "champion": "신지드",
+        "cost": 4,
+        "traits": [
+            "전쟁기계",
+            "자운"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.7",
+        "armor": "60",
+        "mana": "0/80"
+    },
+    {
+        "champion": "암베사",
+        "cost": 4,
+        "traits": [
+            "녹서스",
+            "토벌자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "0/20"
+    },
+    {
+        "champion": "오공",
+        "cost": 4,
+        "traits": [
+            "난동꾼",
+            "아이오니아"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "60",
+        "mana": "30/60"
+    },
+    {
+        "champion": "요네",
+        "cost": 4,
+        "traits": [
+            "아이오니아",
+            "학살자"
+        ],
+        "role": "HFighter",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "30/100"
+    },
+    {
+        "champion": "워윅",
+        "cost": 4,
+        "traits": [
+            "기동타격대",
+            "자운"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "0/90"
+    },
+    {
+        "champion": "유나라",
+        "cost": 4,
+        "traits": [
+            "아이오니아",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/50"
+    },
+    {
+        "champion": "카이사",
+        "cost": 4,
+        "traits": [
+            "흡수자",
+            "원거리 사격",
+            "공허"
+        ],
+        "role": "ADCaster Form Swapper",
+        "attack_range": 5,
+        "attack_speed": "0.5",
+        "armor": "30",
+        "mana": "0/10"
+    },
+    {
+        "champion": "칼리스타",
+        "cost": 4,
+        "traits": [
+            "그림자 군도",
+            "토벌자"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "20/70"
+    },
+    {
+        "champion": "타릭",
+        "cost": 4,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "70",
+        "mana": "0/80"
+    },
+    {
+        "champion": "피즈",
+        "cost": 4,
+        "traits": [
+            "빌지워터",
+            "요들"
+        ],
+        "role": "APReaper",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "50",
+        "mana": "0/20"
+    },
+    {
+        "champion": "협곡의 전령",
+        "cost": 4,
+        "traits": [
+            "난동꾼",
+            "공허"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "60",
+        "mana": "60/125"
+    },
+    {
+        "champion": "T-헥스",
+        "cost": 5,
+        "traits": [
+            "총잡이",
+            "필트오버",
+            "마법공학기계"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "30/100"
+    },
+    {
+        "champion": "갈리오",
+        "cost": 5,
+        "traits": [
+            "데마시아",
+            "영웅"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "65",
+        "mana": "90/140"
+    },
+    {
+        "champion": "루시안과 세나",
+        "cost": 5,
+        "traits": [
+            "총잡이",
+            "영혼결속자"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "40",
+        "mana": "0/70"
+    },
+    {
+        "champion": "멜",
+        "cost": 5,
+        "traits": [
+            "방해꾼",
+            "녹서스"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/200"
+    },
+    {
+        "champion": "볼리베어",
+        "cost": 5,
+        "traits": [
+            "난동꾼",
+            "프렐요드"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "0/20"
+    },
+    {
+        "champion": "세트",
+        "cost": 5,
+        "traits": [
+            "아이오니아",
+            "우두머리"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "50",
+        "mana": "10/90"
+    },
+    {
+        "champion": "쉬바나",
+        "cost": 5,
+        "traits": [
+            "용족",
+            "전쟁기계"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.95",
+        "armor": "60",
+        "mana": "0/40"
+    },
+    {
+        "champion": "쓰레쉬",
+        "cost": 5,
+        "traits": [
+            "그림자 군도",
+            "파수꾼"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "75",
+        "mana": "0/40"
+    },
+    {
+        "champion": "아지르",
+        "cost": 5,
+        "traits": [
+            "방해꾼",
+            "황제",
+            "슈리마"
+        ],
+        "role": "APCarry",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "20/40"
+    },
+    {
+        "champion": "아트록스",
+        "cost": 5,
+        "traits": [
+            "다르킨",
+            "학살자",
+            "세계의 종결자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "55",
+        "mana": "0/30"
+    },
+    {
+        "champion": "애니",
+        "cost": 5,
+        "traits": [
+            "비전 마법사",
+            "어둠의 아이"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/170"
+    },
+    {
+        "champion": "오른",
+        "cost": 5,
+        "traits": [
+            "대장장이",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "55",
+        "mana": "50/150"
+    },
+    {
+        "champion": "제라스",
+        "cost": 5,
+        "traits": [
+            "초월체",
+            "슈리마"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/135"
+    },
+    {
+        "champion": "직스",
+        "cost": 5,
+        "traits": [
+            "원거리 사격",
+            "요들",
+            "자운"
+        ],
+        "role": "APCarry",
+        "attack_range": 5,
+        "attack_speed": "0.85",
+        "armor": "30",
+        "mana": "0/160"
+    },
+    {
+        "champion": "질리언",
+        "cost": 5,
+        "traits": [
+            "시간의 수호자",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.9",
+        "armor": "30",
+        "mana": "0/35"
+    },
+    {
+        "champion": "킨드레드",
+        "cost": 5,
+        "traits": [
+            "영겁",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.9",
+        "armor": "40",
+        "mana": "80/200"
+    },
+    {
+        "champion": "탐 켄치",
+        "cost": 5,
+        "traits": [
+            "빌지워터",
+            "난동꾼",
+            "대식가"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "60",
+        "mana": "10/90"
+    },
+    {
+        "champion": "피들스틱",
+        "cost": 5,
+        "traits": [
+            "수확자",
+            "토벌자"
+        ],
+        "role": "APReaper",
+        "attack_range": 2,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "30/70"
+    },
+    {
+        "champion": "내셔 남작",
+        "cost": 7,
+        "traits": [
+            "균열의 재앙",
+            "공허"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.5",
+        "armor": "85",
+        "mana": "0/50"
+    },
+    {
+        "champion": "라이즈",
+        "cost": 7,
+        "traits": [
+            "룬 마법사"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.9",
+        "armor": "40",
+        "mana": "0/45"
+    },
+    {
+        "champion": "브록",
+        "cost": 7,
+        "traits": [
+            "이쉬탈"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.5",
+        "armor": "60",
+        "mana": "40/100"
+    },
+    {
+        "champion": "사일러스",
+        "cost": 7,
+        "traits": [
+            "비전 마법사",
+            "사슬파괴자",
+            "엄호대"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "0/30"
+    },
+    {
+        "champion": "아우렐리온 솔",
+        "cost": 7,
+        "traits": [
+            "타곤",
+            "별의 창조자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "40",
+        "mana": "20/90"
+    },
+    {
+        "champion": "자헨",
+        "cost": 7,
+        "traits": [
+            "다르킨",
+            "불멸자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "1.1",
+        "armor": "80",
+        "mana": "0/40"
+    }
+]

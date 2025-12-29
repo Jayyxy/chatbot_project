@@ -14,8 +14,8 @@ from tqdm import tqdm
 # ==========================================
 # [설정] 파일 경로
 # ==========================================
-INPUT_FILE = "data/lolchess_meta_list.json"  # 1단계에서 만든 JSON 파일
-OUTPUT_FILE = "data/lolchess_guide_structured.json" # 최종 결과 파일
+INPUT_FILE = "data/meta/lolchess_meta_list.json"  # 1단계에서 만든 JSON 파일
+OUTPUT_FILE = "data/meta/lolchess_guide_structured.json" # 최종 결과 파일
 
 # ==========================================
 # [핵심] HTML 구조 파서 (구조적 데이터 추출)

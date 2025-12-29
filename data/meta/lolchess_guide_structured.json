@@ -68,9 +68,9 @@
                 "champion": "레넥톤",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -81,9 +81,9 @@
                 "champion": "티버",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "WarmogsArmor",
-                    "BrambleVest"
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -121,9 +121,9 @@
                 "champion": "아지르",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "ArcaneGauntlet",
-                    "Guardbreaker"
+                    "구인수의 격노검",
+                    "보석 건틀릿",
+                    "방패파괴자"
                 ],
                 "grid": [
                     4,
@@ -143,9 +143,9 @@
                 "champion": "제라스",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "ArcaneGauntlet",
-                    "NashorsTooth"
+                    "쇼진의 창",
+                    "보석 건틀릿",
+                    "내셔의 이빨"
                 ],
                 "grid": [
                     4,
@@ -156,9 +156,9 @@
                 "champion": "애니",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
+                    "쇼진의 창",
                     "AdaptiveHelm",
-                    "VoidStaff"
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -226,9 +226,9 @@
                 "champion": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "Fimbulwinter",
-                    "TFT16"
+                    "피바라기",
+                    "종말의 겨울",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     1,
@@ -239,9 +239,9 @@
                 "champion": "쉬바나",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -252,9 +252,9 @@
                 "champion": "노틸러스",
                 "star": 3,
                 "items": [
-                    "IronWill",
-                    "Evenshroud",
-                    "TFT16"
+                    "용의 발톱",
+                    "저녁갑주",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     1,
@@ -292,9 +292,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "SpearofShojin",
-                    "RedBuffItem"
+                    "무한의 대검",
+                    "쇼진의 창",
+                    "붉은 덩굴정령"
                 ],
                 "grid": [
                     4,
@@ -305,9 +305,9 @@
                 "champion": "미스 포츈",
                 "star": 2,
                 "items": [
-                    "TFT16",
-                    "TFT16",
-                    "TFT16"
+                    "시즌16 아이템",
+                    "시즌16 아이템",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     4,
@@ -383,9 +383,9 @@
                 "champion": "스카너",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "IronWill"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "용의 발톱"
                 ],
                 "grid": [
                     1,
@@ -414,7 +414,7 @@
                 "champion": "피들스틱",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     2,
@@ -425,9 +425,9 @@
                 "champion": "킨드레드",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "RunaansHurricane"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "루난의 허리케인"
                 ],
                 "grid": [
                     4,
@@ -447,9 +447,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "SpearofShojin",
-                    "Guardbreaker"
+                    "무한의 대검",
+                    "쇼진의 창",
+                    "방패파괴자"
                 ],
                 "grid": [
                     4,
@@ -526,7 +526,7 @@
                 "champion": "볼리베어",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     1,
@@ -537,9 +537,9 @@
                 "champion": "협곡의 전령",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Redemption",
-                    "BrambleVest"
+                    "태양불꽃 망토",
+                    "구원",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -550,9 +550,9 @@
                 "champion": "내셔 남작",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "Bloodthirster",
-                    "SteraksGage"
+                    "무한의 대검",
+                    "피바라기",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -590,9 +590,9 @@
                 "champion": "카이사",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "GuinsoosRageblade",
-                    "HextechGunblade"
+                    "구인수의 격노검",
+                    "구인수의 격노검",
+                    "헥스텍 총검"
                 ],
                 "grid": [
                     4,
@@ -661,9 +661,9 @@
                 "champion": "오공",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "WarmogsArmor"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -710,9 +710,9 @@
                 "champion": "유나라",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "InfinityEdge"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "무한의 대검"
                 ],
                 "grid": [
                     4,
@@ -723,9 +723,9 @@
                 "champion": "라이즈",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "ArcaneGauntlet",
-                    "VoidStaff"
+                    "쇼진의 창",
+                    "보석 건틀릿",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -736,8 +736,8 @@
                 "champion": "리산드라",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "LudensEcho",
+                    "쇼진의 창",
+                    "루덴의 폭풍",
                     "AdaptiveHelm"
                 ],
                 "grid": [
@@ -774,7 +774,7 @@
             ],
             "챔피언 & 아이템": [
                 "[트린다미어] 피해 흡혈 및 피해량 증가 아이템 추천",
-                "주요 아이템 · 피바라기 · 수은 · 구인수의 격노검 대체 아이템 · 다르킨의 낫 (유물) ↔ 피바라기 · 정의의 손길 ↔ 피바라기 · 거인의 결의 ↔ 수은",
+                "주요 아이템 · 피바라기 · 수은 · 구인수의 격노검 대체 아이템 · 정의의 손길 ↔ 피바라기 · 거인의 결의 ↔ 수은 *아래 유물 획득 시 아래 3신기를 권장 · 고속 연사포 (유물) / 다르킨의 낫 (유물) · 무한의 대검 · 수은",
                 "[애쉬] 공격속도 및 피해량 증가 아이템 추천",
                 "주요 아이템 · 구인수의 격노검 · 크라켄의 분노 · 거인 학살자 대체 아이템 · 붉은 덩굴정령 - 치감 템이 없을 때 · 최후의 속삭임 - 저녁갑주가 없을 때",
                 "[세주아니, 스웨인, 니코] 체력 증가 및 방어형/기능성 아이템 추천",
@@ -804,7 +804,7 @@
                 "champion": "니코",
                 "star": 3,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     1,
@@ -815,9 +815,9 @@
                 "champion": "세주아니",
                 "star": 3,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "Fimbulwinter"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -828,9 +828,9 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "Fimbulwinter",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "종말의 겨울",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -850,9 +850,9 @@
                 "champion": "트린다미어",
                 "star": 3,
                 "items": [
-                    "Bloodthirster",
-                    "GuinsoosRageblade",
-                    "Quicksilver"
+                    "피바라기",
+                    "구인수의 격노검",
+                    "수은"
                 ],
                 "grid": [
                     3,
@@ -872,9 +872,9 @@
                 "champion": "애쉬",
                 "star": 3,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "GiantSlayer"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -973,9 +973,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "BrambleVest"
+                    "용의 발톱",
+                    "구원",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -995,9 +995,9 @@
                 "champion": "자르반 4세",
                 "star": 3,
                 "items": [
-                    "Crownguard",
-                    "Evenshroud",
-                    "Fimbulwinter"
+                    "크라운가드",
+                    "저녁갑주",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -1008,7 +1008,7 @@
                 "champion": "피들스틱",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     2,
@@ -1019,9 +1019,9 @@
                 "champion": "T-헥스",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "Guardbreaker",
-                    "LordsEdge"
+                    "무한의 대검",
+                    "방패파괴자",
+                    "죽음의 검"
                 ],
                 "grid": [
                     2,
@@ -1041,9 +1041,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "SpearofShojin",
-                    "RedBuffItem"
+                    "무한의 대검",
+                    "쇼진의 창",
+                    "붉은 덩굴정령"
                 ],
                 "grid": [
                     4,
@@ -1102,9 +1102,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "WarmogsArmor",
-                    "Redemption"
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -1124,9 +1124,9 @@
                 "champion": "오른",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "Fimbulwinter"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -1164,7 +1164,7 @@
                 "champion": "볼리베어",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     2,
@@ -1175,9 +1175,9 @@
                 "champion": "트린다미어",
                 "star": 3,
                 "items": [
-                    "Bloodthirster",
-                    "GuinsoosRageblade",
-                    "Quicksilver"
+                    "피바라기",
+                    "구인수의 격노검",
+                    "수은"
                 ],
                 "grid": [
                     3,
@@ -1266,9 +1266,9 @@
                 "champion": "오공",
                 "star": 2,
                 "items": [
-                    "Evenshroud",
-                    "Fimbulwinter",
-                    "SteraksGage"
+                    "저녁갑주",
+                    "종말의 겨울",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -1279,9 +1279,9 @@
                 "champion": "세트",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "HandofJustice",
-                    "Guardbreaker"
+                    "보석 건틀릿",
+                    "정의의 손길",
+                    "방패파괴자"
                 ],
                 "grid": [
                     1,
@@ -1319,9 +1319,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "SpearofShojin",
-                    "RedBuffItem"
+                    "무한의 대검",
+                    "쇼진의 창",
+                    "붉은 덩굴정령"
                 ],
                 "grid": [
                     4,
@@ -1341,9 +1341,9 @@
                 "champion": "킨드레드",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "GiantSlayer"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -1354,9 +1354,9 @@
                 "champion": "유나라",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "InfinityEdge"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "무한의 대검"
                 ],
                 "grid": [
                     4,
@@ -1443,9 +1443,9 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "IonicSpark",
-                    "Fimbulwinter"
+                    "태양불꽃 망토",
+                    "이온 충격기",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -1456,9 +1456,9 @@
                 "champion": "가렌",
                 "star": 2,
                 "items": [
-                    "BrambleVest",
-                    "DragonsClaw",
-                    "Redemption"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -1478,7 +1478,7 @@
                 "champion": "갈리오",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     3,
@@ -1498,9 +1498,9 @@
                 "champion": "질리언",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "VoidStaff",
-                    "GiantSlayer"
+                    "쇼진의 창",
+                    "공허의 지팡이",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -1511,9 +1511,9 @@
                 "champion": "럭스",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "NashorsTooth",
-                    "Guardbreaker"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "방패파괴자"
                 ],
                 "grid": [
                     4,
@@ -1589,9 +1589,9 @@
                 "champion": "갱플랭크",
                 "star": 3,
                 "items": [
-                    "Quicksilver",
-                    "SteraksGage",
-                    "HandofJustice"
+                    "수은",
+                    "스테락의 도전",
+                    "정의의 손길"
                 ],
                 "grid": [
                     1,
@@ -1602,9 +1602,9 @@
                 "champion": "노틸러스",
                 "star": 3,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "Redemption"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -1624,9 +1624,9 @@
                 "champion": "드레이븐",
                 "star": 3,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "GiantSlayer"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -1726,9 +1726,9 @@
                 "champion": "쉬바나",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -1739,7 +1739,7 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "Fimbulwinter"
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -1750,9 +1750,9 @@
                 "champion": "다이애나",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "GuinsoosRageblade"
+                    "피바라기",
+                    "거인의 결의",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     1,
@@ -1763,9 +1763,9 @@
                 "champion": "타릭",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -1794,8 +1794,8 @@
                 "champion": "세라핀",
                 "star": 2,
                 "items": [
-                    "Morellonomicon",
-                    "VoidStaff",
+                    "모렐로노미콘",
+                    "공허의 지팡이",
                     "AdaptiveHelm"
                 ],
                 "grid": [
@@ -1893,9 +1893,9 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "IonicSpark",
-                    "Fimbulwinter"
+                    "태양불꽃 망토",
+                    "이온 충격기",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -1906,9 +1906,9 @@
                 "champion": "가렌",
                 "star": 2,
                 "items": [
-                    "BrambleVest",
-                    "DragonsClaw",
-                    "Redemption"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -1928,7 +1928,7 @@
                 "champion": "갈리오",
                 "star": 1,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     3,
@@ -1939,9 +1939,9 @@
                 "champion": "베인",
                 "star": 3,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "GiantSlayer"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -1961,9 +1961,9 @@
                 "champion": "럭스",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "NashorsTooth",
-                    "Guardbreaker"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "방패파괴자"
                 ],
                 "grid": [
                     4,
@@ -2022,9 +2022,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -2035,9 +2035,9 @@
                 "champion": "비에고",
                 "star": 3,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "GuardianAngel"
+                    "피바라기",
+                    "거인의 결의",
+                    "밤의 끝자락"
                 ],
                 "grid": [
                     1,
@@ -2048,9 +2048,9 @@
                 "champion": "쓰레쉬",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "Morellonomicon",
-                    "IonicSpark"
+                    "피바라기",
+                    "모렐로노미콘",
+                    "이온 충격기"
                 ],
                 "grid": [
                     1,
@@ -2097,9 +2097,9 @@
                 "champion": "칼리스타",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "LastWhisper",
-                    "Guardbreaker"
+                    "쇼진의 창",
+                    "최후의 속삭임",
+                    "방패파괴자"
                 ],
                 "grid": [
                     4,
@@ -2159,9 +2159,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Redemption",
-                    "BrambleVest"
+                    "태양불꽃 망토",
+                    "구원",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -2172,9 +2172,9 @@
                 "champion": "오른",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -2239,9 +2239,9 @@
                 "champion": "킨드레드",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "RunaansHurricane"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "루난의 허리케인"
                 ],
                 "grid": [
                     4,
@@ -2252,9 +2252,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "LastWhisper",
-                    "SpearofShojin"
+                    "무한의 대검",
+                    "최후의 속삭임",
+                    "쇼진의 창"
                 ],
                 "grid": [
                     4,
@@ -2317,9 +2317,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "WarmogsArmor",
-                    "Redemption"
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -2330,9 +2330,9 @@
                 "champion": "노틸러스",
                 "star": 2,
                 "items": [
-                    "TFT16",
-                    "IronWill",
-                    "Evenshroud"
+                    "시즌16 아이템",
+                    "용의 발톱",
+                    "저녁갑주"
                 ],
                 "grid": [
                     1,
@@ -2361,9 +2361,9 @@
                 "champion": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "Fimbulwinter",
-                    "TFT16"
+                    "피바라기",
+                    "종말의 겨울",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     2,
@@ -2383,9 +2383,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "SpearofShojin",
-                    "RedBuffItem"
+                    "무한의 대검",
+                    "쇼진의 창",
+                    "붉은 덩굴정령"
                 ],
                 "grid": [
                     4,
@@ -2405,9 +2405,9 @@
                 "champion": "킨드레드",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "GiantSlayer"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -2418,9 +2418,9 @@
                 "champion": "미스 포츈",
                 "star": 2,
                 "items": [
-                    "TFT16",
-                    "TFT16",
-                    "TFT16"
+                    "시즌16 아이템",
+                    "시즌16 아이템",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     4,
@@ -2481,7 +2481,7 @@
                 "champion": "아트록스",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     1,
@@ -2492,9 +2492,9 @@
                 "champion": "요네",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "GuinsoosRageblade",
-                    "Quicksilver"
+                    "피바라기",
+                    "구인수의 격노검",
+                    "수은"
                 ],
                 "grid": [
                     1,
@@ -2505,9 +2505,9 @@
                 "champion": "야스오",
                 "star": 3,
                 "items": [
-                    "InfinityEdge",
-                    "HandofJustice",
-                    "GuardianAngel"
+                    "무한의 대검",
+                    "정의의 손길",
+                    "밤의 끝자락"
                 ],
                 "grid": [
                     1,
@@ -2518,9 +2518,9 @@
                 "champion": "오공",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "Redemption"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -2540,7 +2540,7 @@
                 "champion": "세트",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     1,
@@ -2627,9 +2627,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -2676,9 +2676,9 @@
                 "champion": "볼리베어",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     2,
@@ -2707,8 +2707,8 @@
                 "champion": "리산드라",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "LudensEcho",
+                    "쇼진의 창",
+                    "루덴의 폭풍",
                     "AdaptiveHelm"
                 ],
                 "grid": [
@@ -2720,8 +2720,8 @@
                 "champion": "질리언",
                 "star": 2,
                 "items": [
-                    "Morellonomicon",
-                    "VoidStaff"
+                    "모렐로노미콘",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -2808,9 +2808,9 @@
                 "champion": "케넨",
                 "star": 3,
                 "items": [
-                    "BrambleVest",
-                    "DragonsClaw",
-                    "SunfireCape"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "태양불꽃 망토"
                 ],
                 "grid": [
                     1,
@@ -2830,9 +2830,9 @@
                 "champion": "피즈",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "HandofJustice",
-                    "RabadonsDeathcap"
+                    "보석 건틀릿",
+                    "정의의 손길",
+                    "라바돈의 죽음모자"
                 ],
                 "grid": [
                     1,
@@ -2843,8 +2843,8 @@
                 "champion": "베이가",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "RabadonsDeathcap"
+                    "쇼진의 창",
+                    "라바돈의 죽음모자"
                 ],
                 "grid": [
                     4,
@@ -2873,9 +2873,9 @@
                 "champion": "직스",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "NashorsTooth",
-                    "VoidStaff"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -2951,9 +2951,9 @@
                 "champion": "티버",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "WarmogsArmor",
-                    "BrambleVest"
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -2964,9 +2964,9 @@
                 "champion": "사일러스",
                 "star": 2,
                 "items": [
-                    "HextechGunblade",
-                    "ArcaneGauntlet",
-                    "Guardbreaker"
+                    "헥스텍 총검",
+                    "보석 건틀릿",
+                    "방패파괴자"
                 ],
                 "grid": [
                     1,
@@ -2986,9 +2986,9 @@
                 "champion": "세트",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "Guardbreaker",
-                    "HandofJustice"
+                    "보석 건틀릿",
+                    "방패파괴자",
+                    "정의의 손길"
                 ],
                 "grid": [
                     1,
@@ -2999,9 +2999,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "LastWhisper",
-                    "SpearofShojin"
+                    "무한의 대검",
+                    "최후의 속삭임",
+                    "쇼진의 창"
                 ],
                 "grid": [
                     4,
@@ -3022,8 +3022,320 @@
                 "star": 2,
                 "items": [
                     "AdaptiveHelm",
-                    "VoidStaff"
+                    "공허의 지팡이"
                 ],
+                "grid": [
+                    4,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "meta_info": {
+            "name": "4비전 마법사 밸류",
+            "is_hot": false,
+            "min_gold": "96",
+            "url": "https://lolchess.gg/builder/guide/5131155933d389460f0b2072c0c051214444584e?type=guide"
+        },
+        "detail_deck_name": "4비전 마법사 밸류 덱",
+        "guide": {
+            "개요": [
+                "· 덱 난이도: 어려움 · (8) 요들, 아이오니아 등 완성되는 시너지로 유연한 빌드업을 권장합니다. · 2-1 증강은 골드/경험치를 선택해 빠른 9레벨 도달 후 5단계 유닛을 선점하는 것을 권장합니다. · 초반 방어 아이템을 먼저 제작 후 2성 유닛에 장착하여 체력 관리하는 것을 권장합니다. · 여신의 눈물, B.F.대검이 많을 때 권장합니다. · 필트오버 모듈은 연속체 톱니바퀴 > 폭발 보호막 순으로 권장합니다."
+            ],
+            "수집 아이템 추천": [
+                "[딜러: 애니, 쉬바나, 루시안과 세나] · 푸른 파수꾼, 쇼진의 창, 공허의 지팡이, 적응형 투구의 조합 아이템인 여신의 눈물을 추천합니다. · 피바라기, 스테락의 도전, 무한의 대검의 조합 아이템인 B.F.대검을 추천합니다.",
+                "[탱커: 스웨인, 티버] · 가고일 돌갑옷, 덤불 조끼의 조합 아이템인 쇠사슬 조끼를 추천합니다. · 워모그의 갑옷, 정령의 형상의 조합 아이템인 거인의 허리띠를 추천합니다."
+            ],
+            "챔피언 & 아이템": [
+                "[애니] 마나 수급 아이템 추천",
+                "주요 아이템 · 쇼진의 창 · 적응형 투구 · 공허의 지팡이 대체 아이템 · 푸른 파수꾼 · 내셔의 이빨",
+                "[스웨인] → [티버] 체력 증가 및 방어형 아이템 추천",
+                "주요 아이템 · 가고일 돌갑옷 · 워모그의 갑옷 · 덤불 조끼 대체 아이템 · 수호자의 맹세 · 정령의 형상 · 굳건한 심장 · 용의 발톱 · 도적의 장갑 - 스웨인",
+                "[루시안과 세나] 마나 수급 및 치명타 피해량 증가 아이템 추천",
+                "주요 아이템 · 쇼진의 창 · 무한의 대검 · 최후의 속삭임 대체 아이템 · 거인 학살자 · 타격대의 철퇴 · 구인수의 격노검",
+                "[쉬바나] 피해 흡혈 및 피해량 증가 아이템 추천",
+                "주요 아이템 · 피바라기 · 거인의 결의 · 스테락의 도전 대체 아이템 · 정의의 손길 · 밤의 끝자락 · 도적의 장갑",
+                "[사일러스] *해금 필요 피해 흡혈 및 치명타 피해량 증가 아이템 추천",
+                "주요 아이템 · 보석 건틀릿 · 타격대의 철퇴 · 마법공학 총검 대체 아이템 · 피바라기 · 정의의 손길"
+            ],
+            "레벨 업 스테이지 추천": [
+                "· 2-1 or 2-3 ▶ 4레벨 (연승 or 연패)",
+                "· 2-5 or 3-1 ▶ 5레벨",
+                "· 3-2 ▶ 6레벨",
+                "· 3-5 ~ 4-1 ▶ 7레벨 · 4-2 ▶ 8레벨",
+                "· 5-2 ~ 5-5 ▶ 9레벨",
+                "· 여유 골드 ▶ 10레벨"
+            ]
+        },
+        "augments": {
+            "실버": [
+                "· 은수저 · 급매 · 전리품 I · 다 쓸 데가 있다니까 I · 후반 전문가 · 재생의 바람 · 흐르는 눈물 · 연속 주문 사용 · 위약 효과/위약 효과+"
+            ],
+            "골드": [
+                "· 돈벼락 · 수완가 · 예금 계좌 · 생일 모임 · 끈질긴 연구 · 어수선한 마음 · 재빠른 무장, 재빠른 무장+ · 새로운 시대, 새로운 시대+ · 폭발적인 성장/폭발적인 성장+ · 구원의 영혼 · 가시 박힌 갑옷 · 마지막 세이브 · 선물 꾸러미 · 큰 꾸러미 · 혼돈 마법 · 보석 연꽃 I · 얽힌 마법"
+            ],
+            "프리즘": [
+                "· 레벨 업! · 장기 투자 · 출세가도 · 헤지 펀드 · 후반 성장 · 보석 연꽃 II · 천상의 축복 III · 파묻힌 보물 III · 찬란한 유물"
+            ]
+        },
+        "positioning": [
+            {
+                "champion": "황제의 근위대",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "champion": "바이",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "champion": "쉬바나",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
+                ],
+                "grid": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "champion": "티버",
+                "star": 2,
+                "items": [
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "덤불 조끼"
+                ],
+                "grid": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "champion": "스웨인",
+                "star": 2,
+                "items": [
+                    "도적의 장갑"
+                ],
+                "grid": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "champion": "니코",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    6
+                ]
+            },
+            {
+                "champion": "황제의 근위대",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    7
+                ]
+            },
+            {
+                "champion": "루시안과 세나",
+                "star": 2,
+                "items": [
+                    "무한의 대검",
+                    "최후의 속삭임",
+                    "쇼진의 창"
+                ],
+                "grid": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "champion": "아지르",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "champion": "세라핀",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    4,
+                    5
+                ]
+            },
+            {
+                "champion": "애니",
+                "star": 2,
+                "items": [
+                    "쇼진의 창",
+                    "AdaptiveHelm",
+                    "공허의 지팡이"
+                ],
+                "grid": [
+                    4,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "meta_info": {
+            "name": "6비전 마법사 애니",
+            "is_hot": false,
+            "min_gold": "108",
+            "url": "https://lolchess.gg/builder/guide/92b2de04e6c4e6479ccbaf37dfda68a3dfc06ddb?type=guide"
+        },
+        "detail_deck_name": "6비전 마법사 애니 덱",
+        "guide": {
+            "개요": [
+                "· 덱 난이도: 어려움 · 빠른 8·9레벨 도달이 핵심으로 초·중반 빌드업이 중요합니다. · 골드를 획득하는 증강, 조우자일 때 권장합니다. · 여신의 눈물 아이템이 많을 때 권장합니다. · 사일러스의 해금 조건을 달성하기 위해서 자르반, 가렌, 럭스 2성작 후 판매를 해야 합니다. · 2성 유닛을 즉시 판매해 1성 사일러스를 사용했을 때, 사일러스가 죽으면 팀 전력이 아주 약해질 수 있습니다. · 9레벨까지 빌드업하거나 다른 메인 딜러/탱커 유닛을 전장에 배치할 수 있을 때 해금하는 것을 권장합니다."
+            ],
+            "수집 아이템 추천": [
+                "[딜러: 애니, 사일러스] · 쇼진의 창, 적응형 투구, 공허의 지팡이, 정의의 손길의 조합 아이템인 여신의 눈물을 추천합니다. · 마법공학 총검, 보석 건틀릿의 조합 아이템인 쓸데없이 큰 지팡이를 추천합니다.",
+                "[탱커: 스웨인, 티버] · 가고일 돌갑옷, 덤불 조끼의 조합 아이템인 쇠사슬 조끼를 추천합니다. ·워모그의 갑옷, 정령의 형상의 조합 아이템인 거인의 허리띠를 추천합니다."
+            ],
+            "챔피언 & 아이템": [
+                "[애니] 마나 수급 아이템 추천",
+                "주요 아이템 · 쇼진의 창 · 적응형 투구 · 공허의 지팡이 대체 아이템 · 푸른 파수꾼 · 내셔의 이빨",
+                "[스웨인, 티버] 체력 증가 및 방어형 아이템 추천",
+                "주요 아이템 · 가고일 돌갑옷 · 워모그의 갑옷 · 덤불 조끼 대체 아이템 · 굳건한 심장 · 정령의 형상 · 용의 발톱",
+                "[사일러스] *해금 필요 피해 흡혈 및 치명타 피해량 증가 아이템 추천",
+                "주요 아이템 · 보석 건틀릿 · 타격대의 철퇴 · 마법공학 총검 대체 아이템 · 정의의 손길 · 피바라기 · 밤의 끝자락",
+                "[쉬바나, 피들스틱] 잔여 아이템 추천",
+                "주요 아이템 · 도적의 장갑"
+            ],
+            "레벨 업 스테이지 추천": [
+                "· 2-1 or 2-3 ▶ 4레벨 (연승 or 연패)",
+                "· 2-5 or 3-1 ▶ 5레벨",
+                "· 3-2 ▶ 6레벨",
+                "· 3-5 ~ 4-1 ▶ 7레벨 · 4-2 ▶ 8레벨",
+                "· 5-2 ~ 5-5 ▶ 9레벨",
+                "· 여유 골드 ▶ 10레벨"
+            ]
+        },
+        "augments": {
+            "실버": [
+                "· 은수저 · 급매 · 전리품 I · 다 쓸 데가 있다니까 I · 후반 전문가 · 재생의 바람 · 흐르는 눈물 · 연속 주문 사용 · 위약 효과/위약 효과+"
+            ],
+            "골드": [
+                "· 돈벼락 · 수완가 · 예금 계좌 · 생일 모임 · 끈질긴 연구 · 어수선한 마음 · 재빠른 무장, 재빠른 무장+ · 새로운 시대, 새로운 시대+ · 폭발적인 성장/폭발적인 성장+ · 구원의 영혼 · 가시 박힌 갑옷 · 마지막 세이브 · 선물 꾸러미 · 큰 꾸러미 · 혼돈 마법 · 보석 연꽃 I · 얽힌 마법"
+            ],
+            "프리즘": [
+                "· 레벨 업! · 장기 투자 · 출세가도 · 헤지 펀드 · 보석 연꽃 II · 천상의 축복 III · 파묻힌 보물 III · 찬란한 유물"
+            ]
+        },
+        "positioning": [
+            {
+                "champion": "타릭",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "champion": "사일러스",
+                "star": 2,
+                "items": [
+                    "헥스텍 총검",
+                    "보석 건틀릿",
+                    "방패파괴자"
+                ],
+                "grid": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "champion": "티버",
+                "star": 2,
+                "items": [
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "덤불 조끼"
+                ],
+                "grid": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "champion": "스웨인",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "champion": "니코",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    6
+                ]
+            },
+            {
+                "champion": "쉬바나",
+                "star": 2,
+                "items": [
+                    "도적의 장갑"
+                ],
+                "grid": [
+                    1,
+                    7
+                ]
+            },
+            {
+                "champion": "피들스틱",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "champion": "애니",
+                "star": 2,
+                "items": [
+                    "쇼진의 창",
+                    "AdaptiveHelm",
+                    "공허의 지팡이"
+                ],
+                "grid": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "champion": "럭스",
+                "star": 2,
+                "items": [],
                 "grid": [
                     4,
                     7
@@ -3102,9 +3414,9 @@
                 "champion": "암베사",
                 "star": 2,
                 "items": [
-                    "SteraksGage",
-                    "HandofJustice",
-                    "Quicksilver"
+                    "스테락의 도전",
+                    "정의의 손길",
+                    "수은"
                 ],
                 "grid": [
                     1,
@@ -3115,9 +3427,9 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "Redemption"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "구원"
                 ],
                 "grid": [
                     1,
@@ -3146,9 +3458,9 @@
                 "champion": "아트록스",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "GuinsoosRageblade"
+                    "피바라기",
+                    "거인의 결의",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     1,
@@ -3159,9 +3471,9 @@
                 "champion": "벨베스",
                 "star": 2,
                 "items": [
-                    "GiantSlayer",
-                    "RunaansHurricane",
-                    "Quicksilver"
+                    "거인 학살자",
+                    "루난의 허리케인",
+                    "수은"
                 ],
                 "grid": [
                     2,
@@ -3247,9 +3559,9 @@
                 "champion": "사이온",
                 "star": 3,
                 "items": [
-                    "BrambleVest",
-                    "DragonsClaw",
-                    "SunfireCape"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "태양불꽃 망토"
                 ],
                 "grid": [
                     1,
@@ -3278,9 +3590,9 @@
                 "champion": "볼리베어",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     2,
@@ -3291,9 +3603,9 @@
                 "champion": "바드",
                 "star": 3,
                 "items": [
-                    "LudensEcho",
-                    "ArcaneGauntlet",
-                    "SpearofShojin"
+                    "루덴의 폭풍",
+                    "보석 건틀릿",
+                    "쇼진의 창"
                 ],
                 "grid": [
                     4,
@@ -3304,9 +3616,9 @@
                 "champion": "아펠리오스",
                 "star": 3,
                 "items": [
-                    "GuinsoosRageblade",
-                    "GiantSlayer",
-                    "RunaansHurricane"
+                    "구인수의 격노검",
+                    "거인 학살자",
+                    "루난의 허리케인"
                 ],
                 "grid": [
                     4,
@@ -3384,9 +3696,9 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "BrambleVest",
-                    "WarmogsArmor",
-                    "Fimbulwinter"
+                    "덤불 조끼",
+                    "워모그의 갑옷",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -3397,9 +3709,9 @@
                 "champion": "쉬바나",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -3428,9 +3740,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "LastWhisper",
-                    "RedBuffItem"
+                    "무한의 대검",
+                    "최후의 속삭임",
+                    "붉은 덩굴정령"
                 ],
                 "grid": [
                     4,
@@ -3536,9 +3848,9 @@
                 "champion": "니코",
                 "star": 3,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -3558,9 +3870,9 @@
                 "champion": "스카너",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -3571,9 +3883,9 @@
                 "champion": "밀리오",
                 "star": 3,
                 "items": [
-                    "SpearofShojin",
-                    "Morellonomicon",
-                    "VoidStaff"
+                    "쇼진의 창",
+                    "모렐로노미콘",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -3584,9 +3896,9 @@
                 "champion": "아리",
                 "star": 3,
                 "items": [
-                    "ArcaneGauntlet",
-                    "NashorsTooth",
-                    "Guardbreaker"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "방패파괴자"
                 ],
                 "grid": [
                     4,
@@ -3647,9 +3959,9 @@
                 "champion": "니코",
                 "star": 3,
                 "items": [
-                    "IronWill",
-                    "Crownguard",
-                    "SteadfastHeart"
+                    "용의 발톱",
+                    "크라운가드",
+                    "굳건한 심장"
                 ],
                 "grid": [
                     1,
@@ -3660,9 +3972,9 @@
                 "champion": "니달리",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "HandofJustice",
-                    "Guardbreaker"
+                    "보석 건틀릿",
+                    "정의의 손길",
+                    "방패파괴자"
                 ],
                 "grid": [
                     1,
@@ -3682,9 +3994,9 @@
                 "champion": "브록",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "SteraksGage",
-                    "GiantSlayer"
+                    "피바라기",
+                    "스테락의 도전",
+                    "거인 학살자"
                 ],
                 "grid": [
                     2,
@@ -3704,9 +4016,9 @@
                 "champion": "바드",
                 "star": 3,
                 "items": [
-                    "LudensEcho",
-                    "ArcaneGauntlet",
-                    "SpearofShojin"
+                    "루덴의 폭풍",
+                    "보석 건틀릿",
+                    "쇼진의 창"
                 ],
                 "grid": [
                     4,
@@ -3717,9 +4029,9 @@
                 "champion": "밀리오",
                 "star": 3,
                 "items": [
-                    "SpearofShojin",
-                    "Morellonomicon",
-                    "VoidStaff"
+                    "쇼진의 창",
+                    "모렐로노미콘",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -3804,9 +4116,9 @@
                 "champion": "다이애나",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "GuinsoosRageblade"
+                    "피바라기",
+                    "거인의 결의",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     1,
@@ -3817,9 +4129,9 @@
                 "champion": "나서스",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "WarmogsArmor",
-                    "BrambleVest"
+                    "태양불꽃 망토",
+                    "워모그의 갑옷",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -3830,9 +4142,9 @@
                 "champion": "스카너",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "WarmogsArmor",
-                    "BrambleVest"
+                    "용의 발톱",
+                    "워모그의 갑옷",
+                    "덤불 조끼"
                 ],
                 "grid": [
                     1,
@@ -3861,9 +4173,9 @@
                 "champion": "아우렐리온 솔",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "SpearofShojin",
-                    "GuinsoosRageblade"
+                    "쇼진의 창",
+                    "쇼진의 창",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     4,
@@ -3948,9 +4260,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "SteadfastHeart",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "굳건한 심장",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -3961,9 +4273,9 @@
                 "champion": "다이애나",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "GuinsoosRageblade"
+                    "피바라기",
+                    "거인의 결의",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     1,
@@ -3974,9 +4286,9 @@
                 "champion": "타릭",
                 "star": 2,
                 "items": [
-                    "BrambleVest",
-                    "DragonsClaw",
-                    "WarmogsArmor"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -4014,9 +4326,9 @@
                 "champion": "아우렐리온 솔",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "SpearofShojin",
-                    "GuinsoosRageblade"
+                    "쇼진의 창",
+                    "쇼진의 창",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     4,
@@ -4108,9 +4420,9 @@
                 "champion": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "TFT16",
-                    "Bloodthirster",
-                    "Fimbulwinter"
+                    "시즌16 아이템",
+                    "피바라기",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -4130,9 +4442,9 @@
                 "champion": "노틸러스",
                 "star": 3,
                 "items": [
-                    "IronWill",
-                    "Evenshroud",
-                    "TFT16"
+                    "용의 발톱",
+                    "저녁갑주",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     1,
@@ -4143,7 +4455,7 @@
                 "champion": "쉬바나",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     1,
@@ -4154,9 +4466,9 @@
                 "champion": "피즈",
                 "star": 2,
                 "items": [
-                    "ArcaneGauntlet",
-                    "HandofJustice",
-                    "TFT16"
+                    "보석 건틀릿",
+                    "정의의 손길",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     1,
@@ -4167,9 +4479,9 @@
                 "champion": "그레이브즈",
                 "star": 3,
                 "items": [
-                    "HandofJustice",
-                    "SteraksGage",
-                    "Quicksilver"
+                    "정의의 손길",
+                    "스테락의 도전",
+                    "수은"
                 ],
                 "grid": [
                     2,
@@ -4189,9 +4501,9 @@
                 "champion": "미스 포츈",
                 "star": 2,
                 "items": [
-                    "TFT16",
-                    "TFT16",
-                    "TFT16"
+                    "시즌16 아이템",
+                    "시즌16 아이템",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     4,
@@ -4202,8 +4514,8 @@
                 "champion": "트위스티드 페이트",
                 "star": 3,
                 "items": [
-                    "GuinsoosRageblade",
-                    "TFT16"
+                    "구인수의 격노검",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     4,
@@ -4272,9 +4584,9 @@
                 "champion": "볼리베어",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     1,
@@ -4285,9 +4597,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "Evenshroud",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "저녁갑주",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -4307,7 +4619,7 @@
                 "champion": "세트",
                 "star": 2,
                 "items": [
-                    "ThiefsGloves"
+                    "도적의 장갑"
                 ],
                 "grid": [
                     1,
@@ -4336,9 +4648,9 @@
                 "champion": "유나라",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "InfinityEdge"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "무한의 대검"
                 ],
                 "grid": [
                     4,
@@ -4349,9 +4661,9 @@
                 "champion": "리산드라",
                 "star": 2,
                 "items": [
-                    "SpearofShojin",
-                    "Morellonomicon",
-                    "VoidStaff"
+                    "쇼진의 창",
+                    "모렐로노미콘",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
@@ -4447,9 +4759,9 @@
                 "champion": "암베사",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "GuardianAngel"
+                    "피바라기",
+                    "거인의 결의",
+                    "밤의 끝자락"
                 ],
                 "grid": [
                     1,
@@ -4460,9 +4772,9 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "Fimbulwinter"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -4502,7 +4814,7 @@
                 "items": [
                     "AdaptiveHelm",
                     "AdaptiveHelm",
-                    "ArcaneGauntlet"
+                    "보석 건틀릿"
                 ],
                 "grid": [
                     4,
@@ -4531,9 +4843,9 @@
                 "champion": "아지르",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "VoidStaff",
-                    "GiantSlayer"
+                    "구인수의 격노검",
+                    "공허의 지팡이",
+                    "거인 학살자"
                 ],
                 "grid": [
                     4,
@@ -4593,9 +4905,9 @@
                 "champion": "브라움",
                 "star": 2,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -4624,9 +4936,9 @@
                 "champion": "워윅",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "TitansResolve",
-                    "SteraksGage"
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
                 ],
                 "grid": [
                     2,
@@ -4655,9 +4967,9 @@
                 "champion": "루시안과 세나",
                 "star": 2,
                 "items": [
-                    "InfinityEdge",
-                    "LastWhisper",
-                    "RedBuffItem"
+                    "무한의 대검",
+                    "최후의 속삭임",
+                    "붉은 덩굴정령"
                 ],
                 "grid": [
                     4,
@@ -4668,9 +4980,9 @@
                 "champion": "킨드레드",
                 "star": 2,
                 "items": [
-                    "GuinsoosRageblade",
-                    "RunaansHurricane",
-                    "RunaansHurricane"
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "루난의 허리케인"
                 ],
                 "grid": [
                     4,
@@ -4699,6 +5011,240 @@
     },
     {
         "meta_info": {
+            "name": "[황혼의 시험] 자헨",
+            "is_hot": false,
+            "min_gold": "108",
+            "url": "https://lolchess.gg/builder/guide/e23868211b8e23e8f140c5c7d6c72b680c664a34?type=guide"
+        },
+        "detail_deck_name": "",
+        "guide": {},
+        "augments": {},
+        "positioning": [
+            {
+                "champion": "야스오",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "champion": "아트록스",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "거인의 결의",
+                    "구인수의 격노검"
+                ],
+                "grid": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "champion": "오공",
+                "star": 2,
+                "items": [
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "구원"
+                ],
+                "grid": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "champion": "세트",
+                "star": 2,
+                "items": [
+                    "도적의 장갑"
+                ],
+                "grid": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "champion": "케넨",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    6
+                ]
+            },
+            {
+                "champion": "쉔",
+                "star": 2,
+                "items": [],
+                "grid": [
+                    1,
+                    7
+                ]
+            },
+            {
+                "champion": "자헨",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "거인의 결의",
+                    "스테락의 도전"
+                ],
+                "grid": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "champion": "유나라",
+                "star": 2,
+                "items": [
+                    "무한의 대검",
+                    "루난의 허리케인",
+                    "구인수의 격노검"
+                ],
+                "grid": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "champion": "킨드레드",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "루난의 허리케인",
+                    "거인 학살자"
+                ],
+                "grid": [
+                    4,
+                    2
+                ]
+            }
+        ]
+    },
+    {
+        "meta_info": {
+            "name": "[밴들 현상금] 10요들",
+            "is_hot": false,
+            "min_gold": "81",
+            "url": "https://lolchess.gg/builder/guide/f983df84aa9657e4df9d4d6c09e3e3ca46336090?type=guide"
+        },
+        "detail_deck_name": "",
+        "guide": {},
+        "augments": {},
+        "positioning": [
+            {
+                "champion": "뽀삐",
+                "star": 3,
+                "items": [],
+                "grid": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "champion": "피즈",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "정의의 손길",
+                    "수은"
+                ],
+                "grid": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "champion": "케넨",
+                "star": 3,
+                "items": [
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "워모그의 갑옷"
+                ],
+                "grid": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "champion": "코부코와 유미",
+                "star": 3,
+                "items": [],
+                "grid": [
+                    1,
+                    5
+                ]
+            },
+            {
+                "champion": "럼블",
+                "star": 3,
+                "items": [],
+                "grid": [
+                    1,
+                    6
+                ]
+            },
+            {
+                "champion": "베이가",
+                "star": 2,
+                "items": [
+                    "쇼진의 창",
+                    "라바돈의 죽음모자"
+                ],
+                "grid": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "champion": "룰루",
+                "star": 3,
+                "items": [],
+                "grid": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "champion": "티모",
+                "star": 3,
+                "items": [],
+                "grid": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "champion": "트리스타나",
+                "star": 3,
+                "items": [],
+                "grid": [
+                    4,
+                    6
+                ]
+            },
+            {
+                "champion": "직스",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "공허의 지팡이",
+                    "라바돈의 죽음모자"
+                ],
+                "grid": [
+                    4,
+                    7
+                ]
+            }
+        ]
+    },
+    {
+        "meta_info": {
             "name": "[믿음의 도약] 일라오이",
             "is_hot": false,
             "min_gold": "78",
@@ -4712,9 +5258,9 @@
                 "champion": "일라오이",
                 "star": 3,
                 "items": [
-                    "InfinityEdge",
-                    "HandofJustice",
-                    "TitansResolve"
+                    "무한의 대검",
+                    "정의의 손길",
+                    "거인의 결의"
                 ],
                 "grid": [
                     1,
@@ -4725,9 +5271,9 @@
                 "champion": "노틸러스",
                 "star": 2,
                 "items": [
-                    "SunfireCape",
-                    "Evenshroud",
-                    "IronWill"
+                    "태양불꽃 망토",
+                    "저녁갑주",
+                    "용의 발톱"
                 ],
                 "grid": [
                     1,
@@ -4738,9 +5284,9 @@
                 "champion": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "Bloodthirster",
-                    "Fimbulwinter",
-                    "TFT16"
+                    "피바라기",
+                    "종말의 겨울",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     1,
@@ -4751,7 +5297,7 @@
                 "champion": "스웨인",
                 "star": 2,
                 "items": [
-                    "Fimbulwinter"
+                    "종말의 겨울"
                 ],
                 "grid": [
                     1,
@@ -4789,9 +5335,9 @@
                 "champion": "미스 포츈",
                 "star": 2,
                 "items": [
-                    "TFT16",
-                    "TFT16",
-                    "TFT16"
+                    "시즌16 아이템",
+                    "시즌16 아이템",
+                    "시즌16 아이템"
                 ],
                 "grid": [
                     4,
@@ -4833,9 +5379,9 @@
                 "champion": "케넨",
                 "star": 3,
                 "items": [
-                    "BrambleVest",
-                    "DragonsClaw",
-                    "SunfireCape"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "태양불꽃 망토"
                 ],
                 "grid": [
                     1,
@@ -4846,9 +5392,9 @@
                 "champion": "뽀삐",
                 "star": 3,
                 "items": [
-                    "IronWill",
-                    "Redemption",
-                    "WarmogsArmor"
+                    "용의 발톱",
+                    "구원",
+                    "워모그의 갑옷"
                 ],
                 "grid": [
                     1,
@@ -4859,9 +5405,9 @@
                 "champion": "럼블",
                 "star": 3,
                 "items": [
-                    "LudensEcho",
-                    "GuinsoosRageblade",
-                    "GuinsoosRageblade"
+                    "루덴의 폭풍",
+                    "구인수의 격노검",
+                    "구인수의 격노검"
                 ],
                 "grid": [
                     4,
@@ -4872,9 +5418,9 @@
                 "champion": "티모",
                 "star": 3,
                 "items": [
-                    "ArcaneGauntlet",
-                    "NashorsTooth",
-                    "VoidStaff"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "공허의 지팡이"
                 ],
                 "grid": [
                     4,
