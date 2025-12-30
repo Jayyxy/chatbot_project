@@ -34,9 +34,10 @@ TRAIT_MAP = {
 CHAMP_MAP = {
     # (기존 챔피언 매핑 전체 포함 - 생략 없이 다 넣으세요)
     "Caitlyn": "케이틀린", "Garen": "가렌", "Illaoi": "일라오이", "Jarvan IV": "자르반 4세",
-    "Jax": "잭스", "Kog'Maw": "코그모", "Wukong": "오공", "Neeko": "니코",
+    "Jax": "잭스", "Kog'Maw": "코그모", "Wukong": "오공", "Neeko": "니코", "Briar" : "브라이언",
     "Poppy": "뽀삐", "Singed": "신지드", "Skarner": "스카너", "Swain": "스웨인",
-    "Vi": "바이", "Volibear": "볼리베어", "Warwick": "워윅", "Galio": "갈리오",
+    "Vi": "바이", "Volibear": "볼리베어", "Warwick": "워윅", "Galio": "갈리오", "Sion" : "사이온",
+    "Fizz" : "피즈", "Braum" : "브라움" , "Lissandra" : "리산드라",
     "Kennen": "케넨", "Senna": "세나", "Seraphine": "세라핀", "Shen": "쉔",
     "Taric": "타릭", "Yone": "요네", "Ahri": "아리", "Bard": "바드",
     "Ekko": "에코", "Lulu": "룰루", "Miss Fortune": "미스 포츈",
@@ -57,7 +58,8 @@ CHAMP_MAP = {
     "Ambessa": "암베사", "Mel": "멜", "Renekton": "레넥톤", "Leona": "레오나",
     "Cho'Gath": "초가스", "Dr. Mundo": "문도 박사", "Graves": "그레이브즈",
     "Bel'Veth": "벨베스", "Anivia": "애니비아", "Fiddlesticks": "피들스틱",
-    "Loris": "로리스", "Zaahen": "자헨", "Brock": "브록", "Yunara": "유나라", "Tibbers": "티버"
+    "Loris": "로리스", "Zaahen": "자헨", "Brock": "브록", "Yunara": "유나라", "Tibbers": "티버" ,"Azir" : "아지르",
+    "Aurelion Sol": "아우렐리온 솔", "Aatrox" :"아트록스"
 }
 
 ITEM_MAP = {

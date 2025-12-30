@@ -255,7 +255,7 @@
                 ]
             },
             {
-                "name": "Aatrox",
+                "name": "아트록스",
                 "star": 2,
                 "items": []
             },
@@ -344,7 +344,7 @@
                 "items": []
             },
             {
-                "name": "Briar",
+                "name": "브라이언",
                 "star": 2,
                 "items": []
             }
@@ -602,7 +602,7 @@
                 ]
             },
             {
-                "name": "Fizz",
+                "name": "피즈",
                 "star": 2,
                 "items": [
                     "보석 건틀릿",
@@ -639,7 +639,7 @@
     },
     {
         "tier": "S",
-        "name": "난동꾼 Sion",
+        "name": "난동꾼 사이온",
         "tags": [
             "lvl 6",
             "Easy"
@@ -649,7 +649,7 @@
         "top4_rate": "56.9%",
         "champions": [
             {
-                "name": "Sion",
+                "name": "사이온",
                 "star": 3,
                 "items": [
                     "덤불 조끼",
@@ -884,7 +884,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "가고일 돌갑옷",
@@ -1187,7 +1187,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "덤불 조끼",
@@ -1508,7 +1508,7 @@
                 "items": []
             },
             {
-                "name": "Briar",
+                "name": "브라이언",
                 "star": 2,
                 "items": []
             }
@@ -1583,7 +1583,7 @@
     },
     {
         "tier": "B",
-        "name": "프렐요드 Lissandra",
+        "name": "프렐요드 리산드라",
         "tags": [
             "Fast 8",
             "Easy"
@@ -1602,7 +1602,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "태양불꽃 망토",
@@ -1685,7 +1685,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "가고일 돌갑옷",
@@ -1783,12 +1783,12 @@
                 "items": []
             },
             {
-                "name": "Sion",
+                "name": "사이온",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "Briar",
+                "name": "브라이언",
                 "star": 2,
                 "items": []
             }
@@ -1796,7 +1796,7 @@
     },
     {
         "tier": "B",
-        "name": "파수꾼 Braum",
+        "name": "파수꾼 브라움",
         "tags": [
             "Standard",
             "Easy"
@@ -1806,7 +1806,7 @@
         "top4_rate": "48.6%",
         "champions": [
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "태양불꽃 망토",
@@ -1866,7 +1866,7 @@
     },
     {
         "tier": "B",
-        "name": "요들 Fizz",
+        "name": "요들 피즈",
         "tags": [
             "Fast 9",
             "Easy"
@@ -1876,7 +1876,7 @@
         "top4_rate": "47.7%",
         "champions": [
             {
-                "name": "Fizz",
+                "name": "피즈",
                 "star": 2,
                 "items": [
                     "이온 충격기",
@@ -2203,7 +2203,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": []
             },
@@ -2226,7 +2226,7 @@
     },
     {
         "tier": "B",
-        "name": "비전 마법사 애니 Azir",
+        "name": "비전 마법사 애니 아지르",
         "tags": [
             "Fast 9",
             "Hard"
@@ -2319,7 +2319,7 @@
                 ]
             },
             {
-                "name": "Aatrox",
+                "name": "아트록스",
                 "star": 2,
                 "items": [
                     "피바라기",
@@ -2366,7 +2366,7 @@
                 "items": []
             },
             {
-                "name": "Briar",
+                "name": "브라이언",
                 "star": 2,
                 "items": []
             }
@@ -2440,7 +2440,7 @@
     },
     {
         "tier": "C",
-        "name": "타곤 다이애나  Aurelion Sol",
+        "name": "타곤 다이애나  아우렐리온 솔",
         "tags": [
             "Standard",
             "Easy"
@@ -2450,7 +2450,7 @@
         "top4_rate": "42.9%",
         "champions": [
             {
-                "name": "Aurelion Sol",
+                "name": "아우렐리온 솔",
                 "star": 2,
                 "items": [
                     "구인수의 격노검",
@@ -2468,7 +2468,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "덤불 조끼",
@@ -2514,7 +2514,7 @@
     },
     {
         "tier": "C",
-        "name": "난동꾼 Lissandra",
+        "name": "난동꾼 리산드라",
         "tags": [
             "Fast 9",
             "Hard"
@@ -2875,7 +2875,7 @@
     },
     {
         "tier": "C",
-        "name": "난동꾼 Sion 볼리베어",
+        "name": "난동꾼 사이온 볼리베어",
         "tags": [
             "lvl 6",
             "Easy"
@@ -2885,7 +2885,7 @@
         "top4_rate": "43.0%",
         "champions": [
             {
-                "name": "Sion",
+                "name": "사이온",
                 "star": 3,
                 "items": [
                     "태양불꽃 망토",
@@ -3129,7 +3129,7 @@
                 ]
             },
             {
-                "name": "Fizz",
+                "name": "피즈",
                 "star": 2,
                 "items": [
                     "보석 건틀릿",
@@ -3161,7 +3161,7 @@
     },
     {
         "tier": "D",
-        "name": "기동타격대 유나라 Braum",
+        "name": "기동타격대 유나라 브라움",
         "tags": [
             "Fast 8",
             "Easy"
@@ -3180,7 +3180,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "가고일 돌갑옷",
@@ -3235,7 +3235,7 @@
     },
     {
         "tier": "D",
-        "name": "타곤 Aurelion Sol",
+        "name": "타곤 아우렐리온 솔",
         "tags": [
             "Standard",
             "Easy"
@@ -3245,7 +3245,7 @@
         "top4_rate": "38.0%",
         "champions": [
             {
-                "name": "Aurelion Sol",
+                "name": "아우렐리온 솔",
                 "star": 2,
                 "items": [
                     "구인수의 격노검",
@@ -3369,7 +3369,7 @@
     },
     {
         "tier": "D",
-        "name": "난동꾼 Sion 바드",
+        "name": "난동꾼 사이온 바드",
         "tags": [
             "lvl 6",
             "Easy"
@@ -3379,7 +3379,7 @@
         "top4_rate": "38.2%",
         "champions": [
             {
-                "name": "Sion",
+                "name": "사이온",
                 "star": 3,
                 "items": [
                     "덤불 조끼",
@@ -3535,7 +3535,7 @@
                 ]
             },
             {
-                "name": "Fizz",
+                "name": "피즈",
                 "star": 2,
                 "items": [
                     "Blackmarket Explosives",
@@ -3595,7 +3595,7 @@
                 ]
             },
             {
-                "name": "Sion",
+                "name": "사이온",
                 "star": 3,
                 "items": [
                     "덤불 조끼",
@@ -3637,7 +3637,7 @@
                 "items": []
             },
             {
-                "name": "Briar",
+                "name": "브라이언",
                 "star": 2,
                 "items": []
             }
@@ -3742,7 +3742,7 @@
                 ]
             },
             {
-                "name": "Aurelion Sol",
+                "name": "아우렐리온 솔",
                 "star": 2,
                 "items": [
                     "구인수의 격노검",
@@ -3765,7 +3765,7 @@
                 "items": []
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": []
             },
@@ -3876,7 +3876,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": [
                     "가고일 돌갑옷",
@@ -3986,7 +3986,7 @@
     },
     {
         "tier": "D",
-        "name": "기원자 Lissandra",
+        "name": "기원자 리산드라",
         "tags": [
             "Standard",
             "Medium"
@@ -4023,7 +4023,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": []
             },
@@ -4157,7 +4157,7 @@
                 ]
             },
             {
-                "name": "Braum",
+                "name": "브라움",
                 "star": 2,
                 "items": []
             },

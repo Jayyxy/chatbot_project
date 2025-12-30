@@ -130,7 +130,7 @@
         ]
     },
     {
-        "name": "Aatrox",
+        "name": "아트록스",
         "tier": "S",
         "avg_place": "3.77",
         "win_rate": "14.3%",
@@ -468,7 +468,7 @@
         ]
     },
     {
-        "name": "Braum",
+        "name": "브라움",
         "tier": "A",
         "avg_place": "4.40",
         "win_rate": "14.8%",
@@ -650,7 +650,7 @@
         ]
     },
     {
-        "name": "Briar",
+        "name": "브라이언",
         "tier": "B",
         "avg_place": "4.52",
         "win_rate": "9.5%",
@@ -858,7 +858,7 @@
         ]
     },
     {
-        "name": "Fizz",
+        "name": "피즈",
         "tier": "C",
         "avg_place": "4.68",
         "win_rate": "12.6%",
@@ -936,7 +936,7 @@
         ]
     },
     {
-        "name": "Aurelion Sol",
+        "name": "아우렐리온 솔",
         "tier": "C",
         "avg_place": "4.77",
         "win_rate": "9.8%",
@@ -1053,7 +1053,7 @@
         ]
     },
     {
-        "name": "Sion",
+        "name": "사이온",
         "tier": "D",
         "avg_place": "4.88",
         "win_rate": "7.8%",
