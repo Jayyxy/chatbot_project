@@ -27,7 +27,8 @@ COMPONENT_MAP = {
     "GiantsBelt": "거인의 허리띠",
     "Spatula": "뒤집개",
     "SparringGloves": "연습용 장갑",
-    "FryingPan": "프라이팬" # 최신 시즌 추가 아이템 대응
+    "FryingPan": "프라이팬", # 최신 시즌 추가 아이템 대응
+    "Tearofthegoddess" : "여신의 눈물"
 }
 
 def get_recipe_name_from_src(src):

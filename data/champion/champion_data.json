@@ -1,0 +1,2382 @@
+[
+    {
+        "cost": 1,
+        "traits": [
+            "엄호대",
+            "요들"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "40",
+        "mana": "40/110",
+        "name": "럼블",
+        "tier": "C",
+        "avg_place": "4.76",
+        "win_rate": "10.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "구인수의 격노검",
+            "정령의 형상"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "비전 마법사",
+            "요들"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "15",
+        "mana": "20/70",
+        "name": "룰루",
+        "tier": "C",
+        "avg_place": "4.71",
+        "win_rate": "11.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "보석 건틀릿",
+            "블루 버프",
+            "공허의 지팡이"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "전쟁기계",
+            "녹서스",
+            "학살자"
+        ],
+        "role": "AD 근접 캐리",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "35",
+        "mana": "0/40",
+        "name": "브라이어",
+        "tier": "Unranked",
+        "popular_items": []
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "전쟁기계",
+            "자운"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "40",
+        "mana": "60/120",
+        "name": "블리츠크랭크",
+        "tier": "D",
+        "avg_place": "5.25",
+        "win_rate": "2.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "기동타격대",
+            "그림자 군도"
+        ],
+        "role": "HFighter",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "35",
+        "mana": "0/30",
+        "name": "비에고",
+        "tier": "D",
+        "avg_place": "4.85",
+        "win_rate": "6.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "거인의 결의",
+            "밤의 끝자락",
+            "정의의 손길",
+            "구인수의 격노검"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "데마시아",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "15",
+        "mana": "0/30",
+        "name": "소나",
+        "tier": "D",
+        "avg_place": "4.90",
+        "win_rate": "7.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "내셔의 이빨",
+            "쇼진의 창",
+            "대천사의 지팡이",
+            "블루 버프"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "난동꾼",
+            "아이오니아"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "40",
+        "mana": "30/90",
+        "name": "쉔",
+        "tier": "B",
+        "avg_place": "4.49",
+        "win_rate": "11.9%",
+        "pick_rate": "-",
+        "popular_items": [
+            "태양불꽃 망토",
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "도적의 장갑"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "프렐요드",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "20",
+        "mana": "0/40",
+        "name": "애니비아",
+        "tier": "D",
+        "avg_place": "4.87",
+        "win_rate": "7.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "블루 버프",
+            "대천사의 지팡이",
+            "라바돈의 죽음모자"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "빌지워터",
+            "난동꾼"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "40",
+        "mana": "40/100",
+        "name": "일라오이",
+        "tier": "D",
+        "avg_place": "4.97",
+        "win_rate": "10.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "도적의 장갑",
+            "태양불꽃 망토",
+            "정령의 형상"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "엄호대",
+            "데마시아"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "40",
+        "mana": "30/100",
+        "name": "자르반 4세",
+        "tier": "B",
+        "avg_place": "4.49",
+        "win_rate": "12.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "수호자의 맹세",
+            "저녁갑주",
+            "크라운가드",
+            "태양불꽃 망토"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "총잡이",
+            "아이오니아"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "24",
+        "mana": "0/70",
+        "name": "진",
+        "tier": "B",
+        "avg_place": "4.44",
+        "win_rate": "14.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "무한의 대검",
+            "크라켄 학살자",
+            "거인 학살자",
+            "죽음의 검"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "원거리 사격",
+            "필트오버"
+        ],
+        "role": "ADCaster",
+        "attack_range": 5,
+        "attack_speed": "0.75",
+        "armor": "15",
+        "mana": "0/80",
+        "name": "케이틀린",
+        "tier": "B",
+        "avg_place": "4.45",
+        "win_rate": "18.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "무한의 대검",
+            "구인수의 격노검",
+            "죽음의 검",
+            "쇼진의 창",
+            "타격대의 철퇴"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "비전 마법사",
+            "원거리 사격",
+            "공허"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 5,
+        "attack_speed": "0.7",
+        "armor": "15",
+        "mana": "0/30",
+        "name": "코그모",
+        "tier": "B",
+        "avg_place": "4.57",
+        "win_rate": "14.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "보석 건틀릿",
+            "공허의 지팡이",
+            "쇼진의 창",
+            "블루 버프"
+        ]
+    },
+    {
+        "cost": 1,
+        "traits": [
+            "이쉬탈",
+            "학살자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "35",
+        "mana": "0/30",
+        "name": "키아나",
+        "tier": "D",
+        "avg_place": "6.30",
+        "win_rate": "4.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "정의의 손길",
+            "스테락의 도전",
+            "무한의 대검",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "빌지워터",
+            "총잡이"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.7",
+        "armor": "45",
+        "mana": "0/50",
+        "name": "그레이브즈",
+        "tier": "D",
+        "avg_place": "5.19",
+        "win_rate": "11.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "무한의 대검",
+            "정의의 손길",
+            "도적의 장갑",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "비전 마법사",
+            "엄호대",
+            "이쉬탈"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "45",
+        "mana": "15/65",
+        "name": "니코",
+        "tier": "D",
+        "avg_place": "4.84",
+        "win_rate": "9.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "정령의 형상",
+            "수호자의 맹세"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "토벌자",
+            "공허"
+        ],
+        "role": "AD 근접 캐리",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "45",
+        "mana": "0/30",
+        "name": "렉사이",
+        "tier": "C",
+        "avg_place": "4.63",
+        "win_rate": "14.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "정의의 손길",
+            "도적의 장갑",
+            "무한의 대검",
+            "스테락의 도전"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "관리인"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/55",
+        "name": "바드",
+        "tier": "D",
+        "avg_place": "5.24",
+        "win_rate": "7.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "대천사의 지팡이",
+            "블루 버프",
+            "구인수의 격노검"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "엄호대",
+            "필트오버",
+            "자운"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "40",
+        "mana": "0/30",
+        "name": "바이",
+        "tier": "C",
+        "avg_place": "4.67",
+        "win_rate": "13.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "도적의 장갑",
+            "피바라기",
+            "거인의 결의",
+            "가고일 돌갑옷",
+            "스테락의 도전"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "데마시아",
+            "전쟁기계",
+            "요들"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.7",
+        "armor": "45",
+        "mana": "40/80",
+        "name": "뽀삐",
+        "tier": "B",
+        "avg_place": "4.52",
+        "win_rate": "10.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "도적의 장갑",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "정령의 형상"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "난동꾼",
+            "녹서스"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "40",
+        "mana": "0/70",
+        "name": "사이온",
+        "tier": "D",
+        "avg_place": "4.88",
+        "win_rate": "7.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "태양불꽃 망토",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "가고일 돌갑옷",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "데마시아",
+            "아이오니아",
+            "파수꾼"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "45",
+        "mana": "15/70",
+        "name": "신 짜오",
+        "tier": "C",
+        "avg_place": "4.78",
+        "win_rate": "8.9%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "도적의 장갑",
+            "가고일 돌갑옷",
+            "거인의 결의",
+            "워모그의 갑옷"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/40",
+        "name": "아펠리오스",
+        "tier": "C",
+        "avg_place": "4.66",
+        "win_rate": "9.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "크라켄 학살자",
+            "무한의 대검",
+            "거인 학살자",
+            "죽음의 검"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "프렐요드",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "20",
+        "mana": "20/80",
+        "name": "애쉬",
+        "tier": "A",
+        "avg_place": "4.24",
+        "win_rate": "12.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "크라켄 학살자",
+            "거인 학살자",
+            "무한의 대검",
+            "최후의 속삭임"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "아이오니아",
+            "학살자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.8",
+        "armor": "45",
+        "mana": "0/30",
+        "name": "야스오",
+        "tier": "D",
+        "avg_place": "4.88",
+        "win_rate": "9.7%",
+        "pick_rate": "-",
+        "popular_items": [
+            "정의의 손길",
+            "피바라기",
+            "무한의 대검",
+            "밤의 끝자락",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "방해꾼",
+            "자운"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "50",
+        "mana": "0/40",
+        "name": "에코",
+        "tier": "D",
+        "avg_place": "5.14",
+        "win_rate": "3.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "정의의 손길",
+            "거인의 결의",
+            "보석 건틀릿",
+            "구인수의 격노검"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "기원자",
+            "필트오버"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.7",
+        "armor": "20",
+        "mana": "20/60",
+        "name": "오리아나",
+        "tier": "B",
+        "avg_place": "4.59",
+        "win_rate": "16.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "구인수의 격노검",
+            "공허의 지팡이",
+            "라바돈의 죽음모자"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "그림자 군도",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "45",
+        "mana": "15/75",
+        "name": "요릭",
+        "tier": "C",
+        "avg_place": "4.76",
+        "win_rate": "6.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "전쟁기계",
+            "공허"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "45",
+        "mana": "40/100",
+        "name": "초가스",
+        "tier": "C",
+        "avg_place": "4.67",
+        "win_rate": "13.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "도적의 장갑"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "총잡이",
+            "요들"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/50",
+        "name": "트리스타나",
+        "tier": "C",
+        "avg_place": "4.78",
+        "win_rate": "10.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "무한의 대검",
+            "구인수의 격노검",
+            "쇼진의 창",
+            "거인 학살자",
+            "크라켄 학살자"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "프렐요드",
+            "학살자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.75",
+        "armor": "45",
+        "mana": "0/50",
+        "name": "트린다미어",
+        "tier": "S",
+        "avg_place": "4.11",
+        "win_rate": "11.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "피바라기",
+            "수은",
+            "거인의 결의",
+            "정의의 손길"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "빌지워터",
+            "기동타격대"
+        ],
+        "role": "APSpecialist",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/3",
+        "name": "트위스티드 페이트",
+        "tier": "D",
+        "avg_place": "4.92",
+        "win_rate": "11.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "선장의 럼주",
+            "행운의 금화",
+            "보석 건틀릿",
+            "붉은 덩굴정령"
+        ]
+    },
+    {
+        "cost": 2,
+        "traits": [
+            "원거리 사격",
+            "요들"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 5,
+        "attack_speed": "0.75",
+        "armor": "20",
+        "mana": "0/30",
+        "name": "티모",
+        "tier": "C",
+        "avg_place": "4.64",
+        "win_rate": "11.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "보석 건틀릿",
+            "공허의 지팡이",
+            "블루 버프"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "빌지워터",
+            "학살자",
+            "토벌자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.8",
+        "armor": "55",
+        "mana": "0/50",
+        "name": "갱플랭크",
+        "tier": "D",
+        "avg_place": "4.98",
+        "win_rate": "9.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "정의의 손길",
+            "피바라기",
+            "스테락의 도전",
+            "행운의 금화",
+            "수은"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "방해꾼",
+            "그림자 군도"
+        ],
+        "role": "AP 전사",
+        "attack_range": 2,
+        "attack_speed": "0.8",
+        "armor": "55",
+        "mana": "0/30",
+        "name": "그웬",
+        "tier": "C",
+        "avg_place": "4.74",
+        "win_rate": "6.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "정의의 손길",
+            "피바라기",
+            "도적의 장갑",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "빌지워터",
+            "전쟁기계",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "60/120",
+        "name": "노틸러스",
+        "tier": "C",
+        "avg_place": "4.79",
+        "win_rate": "11.9%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "저녁갑주"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "엄호대",
+            "녹서스"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "50",
+        "mana": "15/75",
+        "name": "다리우스",
+        "tier": "Unranked",
+        "popular_items": []
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "녹서스",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "25",
+        "mana": "60/100",
+        "name": "드레이븐",
+        "tier": "A",
+        "avg_place": "4.33",
+        "win_rate": "12.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "무한의 대검",
+            "크라켄 학살자",
+            "거인 학살자",
+            "죽음의 검"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "60",
+        "mana": "70/120",
+        "name": "레오나",
+        "tier": "D",
+        "avg_place": "5.40",
+        "win_rate": "5.9%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "정령의 형상",
+            "용의 발톱"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "필트오버",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "70/140",
+        "name": "로리스",
+        "tier": "B",
+        "avg_place": "4.52",
+        "win_rate": "15.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "정령의 형상",
+            "저녁갑주"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "기원자",
+            "녹서스"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "25",
+        "mana": "0/60",
+        "name": "르블랑",
+        "tier": "D",
+        "avg_place": "5.14",
+        "win_rate": "7.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "블루 버프",
+            "쇼진의 창",
+            "대천사의 지팡이",
+            "라바돈의 죽음모자"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "방해꾼",
+            "공허"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "25",
+        "mana": "0/35",
+        "name": "말자하",
+        "tier": "B",
+        "avg_place": "4.54",
+        "win_rate": "15.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "블루 버프",
+            "쇼진의 창",
+            "공허의 지팡이",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "난동꾼",
+            "자운"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "0/60",
+        "name": "문도 박사",
+        "tier": "D",
+        "avg_place": "4.98",
+        "win_rate": "5.7%",
+        "pick_rate": "-",
+        "popular_items": [
+            "워모그의 갑옷",
+            "정령의 형상",
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "기원자",
+            "이쉬탈"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/60",
+        "name": "밀리오",
+        "tier": "D",
+        "avg_place": "5.83",
+        "win_rate": "7.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "공허의 지팡이",
+            "블루 버프",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "데마시아",
+            "원거리 사격"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 5,
+        "attack_speed": "0.9",
+        "armor": "25",
+        "mana": "0/40",
+        "name": "베인",
+        "tier": "B",
+        "avg_place": "4.44",
+        "win_rate": "8.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "크라켄 학살자",
+            "무한의 대검",
+            "거인 학살자",
+            "죽음의 검"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "엄호대",
+            "프렐요드"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "50",
+        "mana": "40/80",
+        "name": "세주아니",
+        "tier": "A",
+        "avg_place": "4.39",
+        "win_rate": "11.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "태양불꽃 망토",
+            "정령의 형상",
+            "워모그의 갑옷",
+            "가고일 돌갑옷",
+            "수호자의 맹세"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "비전 마법사",
+            "아이오니아"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "25",
+        "mana": "0/30",
+        "name": "아리",
+        "tier": "D",
+        "avg_place": "4.90",
+        "win_rate": "10.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "블루 버프",
+            "쇼진의 창",
+            "대천사의 지팡이",
+            "라바돈의 죽음모자"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "25",
+        "mana": "30/60",
+        "name": "조이",
+        "tier": "D",
+        "avg_place": "5.22",
+        "win_rate": "7.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "블루 버프",
+            "구인수의 격노검",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "총잡이",
+            "자운"
+        ],
+        "role": "ADSpecialist",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "25",
+        "mana": "0/18",
+        "name": "징크스",
+        "tier": "D",
+        "avg_place": "5.09",
+        "win_rate": "4.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "무한의 대검",
+            "크라켄 학살자",
+            "거인 학살자",
+            "죽음의 검"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "엄호대",
+            "아이오니아",
+            "요들"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "50",
+        "mana": "70/125",
+        "name": "케넨",
+        "tier": "B",
+        "avg_place": "4.46",
+        "win_rate": "12.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "용의 발톱"
+        ]
+    },
+    {
+        "cost": 3,
+        "traits": [
+            "난동꾼",
+            "기원자",
+            "요들"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "50",
+        "mana": "30/90",
+        "name": "코부코와 유미",
+        "tier": "A",
+        "avg_place": "4.23",
+        "win_rate": "13.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "도적의 장갑",
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "정령의 형상"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "엄호대",
+            "데마시아"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "60",
+        "mana": "50/130",
+        "name": "가렌",
+        "tier": "B",
+        "avg_place": "4.47",
+        "win_rate": "9.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "정령의 형상",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "슈리마"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "70",
+        "mana": "10/70",
+        "name": "나서스",
+        "tier": "C",
+        "avg_place": "4.69",
+        "win_rate": "9.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "정령의 형상",
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "여사냥꾼",
+            "이쉬탈"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "0/40",
+        "name": "니달리",
+        "tier": "Unranked",
+        "popular_items": []
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "타곤"
+        ],
+        "role": "APReaper",
+        "attack_range": 1,
+        "attack_speed": "0.8",
+        "armor": "70",
+        "mana": "0/30",
+        "name": "다이애나",
+        "tier": "B",
+        "avg_place": "4.57",
+        "win_rate": "9.7%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "구인수의 격노검",
+            "거인의 결의",
+            "정의의 손길",
+            "보석 건틀릿"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "비전 마법사",
+            "데마시아"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/50",
+        "name": "럭스",
+        "tier": "B",
+        "avg_place": "4.40",
+        "win_rate": "9.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "블루 버프",
+            "라바돈의 죽음모자",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "슈리마"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "0/30",
+        "name": "레넥톤",
+        "tier": "S",
+        "avg_place": "3.16",
+        "win_rate": "24.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "스테락의 도전",
+            "거인의 결의",
+            "정의의 손길",
+            "도적의 장갑"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "프렐요드",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "20/70",
+        "name": "리산드라",
+        "tier": "B",
+        "avg_place": "4.47",
+        "win_rate": "12.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "쇼진의 창",
+            "블루 버프",
+            "대천사의 지팡이",
+            "적응형 투구"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "빌지워터",
+            "총잡이"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/30",
+        "name": "미스 포츈",
+        "tier": "C",
+        "avg_place": "4.61",
+        "win_rate": "14.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "무한의 대검",
+            "쇼진의 창",
+            "일등항해사의 화승총",
+            "행운의 금화",
+            "망자의 단검"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "비전 마법사",
+            "요들"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/60",
+        "name": "베이가",
+        "tier": "S",
+        "avg_place": "4.13",
+        "win_rate": "15.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "블루 버프",
+            "보석 건틀릿",
+            "공허의 지팡이"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "학살자",
+            "공허"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.85",
+        "armor": "50",
+        "mana": "0/100",
+        "name": "벨베스",
+        "tier": "B",
+        "avg_place": "4.49",
+        "win_rate": "13.4%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "구인수의 격노검",
+            "정의의 손길",
+            "거인의 결의",
+            "수은"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "프렐요드",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "60",
+        "mana": "60/120",
+        "name": "브라움",
+        "tier": "A",
+        "avg_place": "4.40",
+        "win_rate": "14.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "방해꾼",
+            "필트오버"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.75",
+        "armor": "30",
+        "mana": "0/20",
+        "name": "세라핀",
+        "tier": "B",
+        "avg_place": "4.42",
+        "win_rate": "14.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "보석 건틀릿",
+            "모렐로노미콘",
+            "공허의 지팡이",
+            "블루 버프"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "비전 마법사",
+            "전쟁기계",
+            "녹서스"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "60",
+        "mana": "50/145",
+        "name": "스웨인",
+        "tier": "A",
+        "avg_place": "4.28",
+        "win_rate": "12.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "수호자의 맹세"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "이쉬탈"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "70",
+        "mana": "60/120",
+        "name": "스카너",
+        "tier": "B",
+        "avg_place": "4.56",
+        "win_rate": "14.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "태양불꽃 망토",
+            "저녁갑주"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "전쟁기계",
+            "자운"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.7",
+        "armor": "60",
+        "mana": "0/80",
+        "name": "신지드",
+        "tier": "D",
+        "avg_place": "5.01",
+        "win_rate": "3.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "모렐로노미콘",
+            "피바라기",
+            "정의의 손길",
+            "보석 건틀릿",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "녹서스",
+            "토벌자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "0/20",
+        "name": "암베사",
+        "tier": "B",
+        "avg_place": "4.44",
+        "win_rate": "12.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "정의의 손길",
+            "거인의 결의",
+            "스테락의 도전",
+            "도적의 장갑"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "난동꾼",
+            "아이오니아"
+        ],
+        "role": "AD 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "60",
+        "mana": "30/60",
+        "name": "오공",
+        "tier": "A",
+        "avg_place": "4.30",
+        "win_rate": "13.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "워모그의 갑옷",
+            "정령의 형상",
+            "저녁갑주"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "아이오니아",
+            "학살자"
+        ],
+        "role": "HFighter",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "30/100",
+        "name": "요네",
+        "tier": "S",
+        "avg_place": "4.12",
+        "win_rate": "13.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "구인수의 격노검",
+            "거인의 결의",
+            "정의의 손길",
+            "수은"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "기동타격대",
+            "자운"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "0/90",
+        "name": "워윅",
+        "tier": "D",
+        "avg_place": "4.81",
+        "win_rate": "3.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "거인의 결의",
+            "스테락의 도전",
+            "정의의 손길",
+            "구인수의 격노검"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "아이오니아",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/50",
+        "name": "유나라",
+        "tier": "A",
+        "avg_place": "4.26",
+        "win_rate": "13.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "무한의 대검",
+            "크라켄 학살자",
+            "거인 학살자",
+            "죽음의 검"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "흡수자",
+            "원거리 사격",
+            "공허"
+        ],
+        "role": "ADCaster Form Swapper",
+        "attack_range": 5,
+        "attack_speed": "0.5",
+        "armor": "30",
+        "mana": "0/10",
+        "name": "카이사",
+        "tier": "A",
+        "avg_place": "4.25",
+        "win_rate": "13.9%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "보석 건틀릿",
+            "헥스텍 총검",
+            "공허의 지팡이",
+            "거인 학살자"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "그림자 군도",
+            "토벌자"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "20/70",
+        "name": "칼리스타",
+        "tier": "C",
+        "avg_place": "4.67",
+        "win_rate": "6.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "무한의 대검",
+            "최후의 속삭임",
+            "구인수의 격노검",
+            "타격대의 철퇴"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "타곤"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.65",
+        "armor": "70",
+        "mana": "0/80",
+        "name": "타릭",
+        "tier": "A",
+        "avg_place": "4.30",
+        "win_rate": "14.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "태양불꽃 망토",
+            "정령의 형상",
+            "도적의 장갑"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "빌지워터",
+            "요들"
+        ],
+        "role": "APReaper",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "50",
+        "mana": "0/20",
+        "name": "피즈",
+        "tier": "C",
+        "avg_place": "4.68",
+        "win_rate": "12.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "정의의 손길",
+            "라바돈의 죽음모자",
+            "피바라기",
+            "구인수의 격노검"
+        ]
+    },
+    {
+        "cost": 4,
+        "traits": [
+            "난동꾼",
+            "공허"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.6",
+        "armor": "60",
+        "mana": "60/125",
+        "name": "협곡의 전령",
+        "tier": "B",
+        "avg_place": "4.57",
+        "win_rate": "14.0%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "태양불꽃 망토",
+            "정령의 형상",
+            "워모그의 갑옷",
+            "덤불 조끼"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "총잡이",
+            "필트오버",
+            "마법공학기계"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "30/100",
+        "name": "T-헥스",
+        "tier": "S",
+        "avg_place": "4.01",
+        "win_rate": "21.7%",
+        "pick_rate": "-",
+        "popular_items": [
+            "무한의 대검",
+            "타격대의 철퇴",
+            "죽음의 검",
+            "정의의 손길",
+            "거인 학살자"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "데마시아",
+            "영웅"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "65",
+        "mana": "90/140",
+        "name": "갈리오",
+        "tier": "S",
+        "avg_place": "3.86",
+        "win_rate": "11.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "도적의 장갑",
+            "용의 발톱",
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "정령의 형상"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "총잡이",
+            "영혼결속자"
+        ],
+        "role": "ADCaster",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "40",
+        "mana": "0/70",
+        "name": "루시안과 세나",
+        "tier": "S",
+        "avg_place": "3.59",
+        "win_rate": "22.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "무한의 대검",
+            "쇼진의 창",
+            "구인수의 격노검",
+            "최후의 속삭임",
+            "붉은 덩굴정령"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "방해꾼",
+            "녹서스"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/200",
+        "name": "멜",
+        "tier": "A",
+        "avg_place": "4.22",
+        "win_rate": "11.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "적응형 투구",
+            "보석 건틀릿",
+            "쇼진의 창",
+            "블루 버프",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "난동꾼",
+            "프렐요드"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "0/20",
+        "name": "볼리베어",
+        "tier": "S",
+        "avg_place": "3.39",
+        "win_rate": "20.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "스테락의 도전",
+            "도적의 장갑",
+            "거인의 결의",
+            "정의의 손길"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "아이오니아",
+            "우두머리"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "50",
+        "mana": "10/90",
+        "name": "세트",
+        "tier": "S",
+        "avg_place": "3.90",
+        "win_rate": "15.9%",
+        "pick_rate": "-",
+        "popular_items": [
+            "정의의 손길",
+            "보석 건틀릿",
+            "피바라기",
+            "거인의 결의",
+            "도적의 장갑"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "용족",
+            "전쟁기계"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.95",
+        "armor": "60",
+        "mana": "0/40",
+        "name": "쉬바나",
+        "tier": "S",
+        "avg_place": "3.83",
+        "win_rate": "18.5%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "도적의 장갑",
+            "스테락의 도전",
+            "거인의 결의",
+            "정의의 손길"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "그림자 군도",
+            "파수꾼"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.85",
+        "armor": "75",
+        "mana": "0/40",
+        "name": "쓰레쉬",
+        "tier": "A",
+        "avg_place": "4.38",
+        "win_rate": "7.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "모렐로노미콘",
+            "정의의 손길",
+            "보석 건틀릿",
+            "이온 충격기"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "방해꾼",
+            "황제",
+            "슈리마"
+        ],
+        "role": "APCarry",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "20/40",
+        "name": "아지르",
+        "tier": "S",
+        "avg_place": "4.16",
+        "win_rate": "14.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "보석 건틀릿",
+            "거인 학살자",
+            "공허의 지팡이",
+            "대천사의 지팡이"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "다르킨",
+            "학살자",
+            "세계의 종결자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "55",
+        "mana": "0/30",
+        "name": "아트록스",
+        "tier": "S",
+        "avg_place": "3.77",
+        "win_rate": "14.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "정의의 손길",
+            "거인의 결의",
+            "스테락의 도전",
+            "구인수의 격노검"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "비전 마법사",
+            "어둠의 아이"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/170",
+        "name": "애니",
+        "tier": "A",
+        "avg_place": "4.37",
+        "win_rate": "11.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "적응형 투구",
+            "공허의 지팡이",
+            "블루 버프",
+            "보석 건틀릿"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "대장장이",
+            "파수꾼"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "55",
+        "mana": "50/150",
+        "name": "오른",
+        "tier": "S",
+        "avg_place": "4.05",
+        "win_rate": "18.2%",
+        "pick_rate": "-",
+        "popular_items": [
+            "가고일 돌갑옷",
+            "워모그의 갑옷",
+            "도적의 장갑",
+            "태양불꽃 망토",
+            "정령의 형상"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "초월체",
+            "슈리마"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "30",
+        "mana": "0/135",
+        "name": "제라스",
+        "tier": "S",
+        "avg_place": "3.81",
+        "win_rate": "16.6%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "보석 건틀릿",
+            "대천사의 지팡이",
+            "블루 버프",
+            "적응형 투구"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "원거리 사격",
+            "요들",
+            "자운"
+        ],
+        "role": "APCarry",
+        "attack_range": 5,
+        "attack_speed": "0.85",
+        "armor": "30",
+        "mana": "0/160",
+        "name": "직스",
+        "tier": "S",
+        "avg_place": "3.44",
+        "win_rate": "20.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "라바돈의 죽음모자",
+            "쇼진의 창",
+            "보석 건틀릿",
+            "공허의 지팡이"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "시간의 수호자",
+            "기원자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.9",
+        "armor": "30",
+        "mana": "0/35",
+        "name": "질리언",
+        "tier": "S",
+        "avg_place": "4.05",
+        "win_rate": "17.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "보석 건틀릿",
+            "블루 버프",
+            "공허의 지팡이",
+            "적응형 투구"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "영겁",
+            "기동타격대"
+        ],
+        "role": "AD 캐리",
+        "attack_range": 4,
+        "attack_speed": "0.9",
+        "armor": "40",
+        "mana": "80/200",
+        "name": "킨드레드",
+        "tier": "S",
+        "avg_place": "3.76",
+        "win_rate": "17.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "구인수의 격노검",
+            "크라켄 학살자",
+            "무한의 대검",
+            "거인 학살자",
+            "최후의 속삭임"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "빌지워터",
+            "난동꾼",
+            "대식가"
+        ],
+        "role": "AP 탱커",
+        "attack_range": 1,
+        "attack_speed": "0.55",
+        "armor": "60",
+        "mana": "10/90",
+        "name": "탐 켄치",
+        "tier": "S",
+        "avg_place": "4.11",
+        "win_rate": "17.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "귤 더미",
+            "수호자의 맹세",
+            "피바라기",
+            "워모그의 갑옷",
+            "가고일 돌갑옷"
+        ]
+    },
+    {
+        "cost": 5,
+        "traits": [
+            "수확자",
+            "토벌자"
+        ],
+        "role": "APReaper",
+        "attack_range": 2,
+        "attack_speed": "0.9",
+        "armor": "60",
+        "mana": "30/70",
+        "name": "피들스틱",
+        "tier": "S",
+        "avg_place": "3.76",
+        "win_rate": "19.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "도적의 장갑",
+            "보석 건틀릿",
+            "정의의 손길",
+            "모렐로노미콘",
+            "라바돈의 죽음모자"
+        ]
+    },
+    {
+        "cost": 7,
+        "traits": [
+            "균열의 재앙",
+            "공허"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "0.5",
+        "armor": "85",
+        "mana": "0/50",
+        "name": "내셔 남작",
+        "tier": "S",
+        "avg_place": "2.75",
+        "win_rate": "30.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "스테락의 도전",
+            "무한의 대검",
+            "정의의 손길",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 7,
+        "traits": [
+            "룬 마법사"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.9",
+        "armor": "40",
+        "mana": "0/45",
+        "name": "라이즈",
+        "tier": "S",
+        "avg_place": "3.39",
+        "win_rate": "20.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "보석 건틀릿",
+            "공허의 지팡이",
+            "블루 버프",
+            "적응형 투구"
+        ]
+    },
+    {
+        "cost": 7,
+        "traits": [
+            "이쉬탈"
+        ],
+        "role": "AD 전사",
+        "attack_range": 1,
+        "attack_speed": "0.5",
+        "armor": "60",
+        "mana": "40/100",
+        "name": "브록",
+        "tier": "S",
+        "avg_place": "3.83",
+        "win_rate": "24.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "스테락의 도전",
+            "정의의 손길",
+            "무한의 대검",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 7,
+        "traits": [
+            "비전 마법사",
+            "사슬파괴자",
+            "엄호대"
+        ],
+        "role": "AP 전사",
+        "attack_range": 1,
+        "attack_speed": "0.9",
+        "armor": "70",
+        "mana": "0/30",
+        "name": "사일러스",
+        "tier": "S",
+        "avg_place": "3.72",
+        "win_rate": "17.3%",
+        "pick_rate": "-",
+        "popular_items": [
+            "보석 건틀릿",
+            "정의의 손길",
+            "피바라기",
+            "헥스텍 총검",
+            "거인의 결의"
+        ]
+    },
+    {
+        "cost": 7,
+        "traits": [
+            "타곤",
+            "별의 창조자"
+        ],
+        "role": "AP 캐스터",
+        "attack_range": 4,
+        "attack_speed": "0.8",
+        "armor": "40",
+        "mana": "20/90",
+        "name": "아우렐리온 솔",
+        "tier": "C",
+        "avg_place": "4.77",
+        "win_rate": "9.8%",
+        "pick_rate": "-",
+        "popular_items": [
+            "쇼진의 창",
+            "구인수의 격노검",
+            "블루 버프",
+            "보석 건틀릿",
+            "적응형 투구"
+        ]
+    },
+    {
+        "cost": 7,
+        "traits": [
+            "다르킨",
+            "불멸자"
+        ],
+        "role": "AD 전사",
+        "attack_range": 2,
+        "attack_speed": "1.1",
+        "armor": "80",
+        "mana": "0/40",
+        "name": "자헨",
+        "tier": "S",
+        "avg_place": "3.56",
+        "win_rate": "13.1%",
+        "pick_rate": "-",
+        "popular_items": [
+            "피바라기",
+            "거인의 결의",
+            "스테락의 도전",
+            "정의의 손길",
+            "무한의 대검"
+        ]
+    }
+]

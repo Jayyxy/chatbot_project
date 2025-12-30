@@ -33,7 +33,7 @@ TRAIT_MAP = {
 
 CHAMP_MAP = {
     # (기존 챔피언 매핑 전체 포함 - 생략 없이 다 넣으세요)
-    "Caitlyn": "케이틀린", "Garen": "가렌", "Illaoi": "일라오이", "Jarvan IV": "자르반 4세",
+    "Caitlyn": "케이틀린", "Garen": "가렌", "Illaoi": "일라오이", "Jarvan IV": "자르반 4세","Darius":"다리우스",
     "Jax": "잭스", "Kog'Maw": "코그모", "Wukong": "오공", "Neeko": "니코", "Briar" : "브라이언",
     "Poppy": "뽀삐", "Singed": "신지드", "Skarner": "스카너", "Swain": "스웨인",
     "Vi": "바이", "Volibear": "볼리베어", "Warwick": "워윅", "Galio": "갈리오", "Sion" : "사이온",
@@ -84,7 +84,7 @@ ITEM_MAP = {
     "Redemption": "구원", "RedBuff": "붉은 덩굴정령",
     "StatikkShiv": "스태틱의 단검", "SteadfastHeart": "굳건한 심장",
     "SteraksGage": "스테락의 도전", "SunfireCape": "태양불꽃 망토",
-    "TacticiansCrown": "전략가의 왕관", "ThiefsGloves": "도적의 장갑",
+    "TacticiansCrown": "전략가의 왕관", "ThiefsGloves": "도적의 장갑", 
     "TitansResolve": "거인의 결의", "WarmogsArmor": "워모그의 갑옷",
     "Evenshroud": "저녁갑주", "GuardianAngel": "밤의 끝자락"
 }
