@@ -1,24 +1,62 @@
 [
     {
         "tier": "S",
-        "name": "슈리마 레넥톤",
+        "name": "비전 마법사 아지르",
         "tags": [
             "Fast 9",
             "Hard"
         ],
-        "avg_place": "3.26",
-        "win_rate": "20.3%",
-        "top4_rate": "75.1%",
-        "champions": [
+        "avg_place": "3.73",
+        "win_rate": "16.2%",
+        "top4_rate": "65.6%",
+        "synergies": [
             {
-                "name": "레넥톤",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "거인의 결의"
-                ]
+                "name": "비전 마법사",
+                "count": "4",
+                "style": "silver"
             },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "슈리마",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "어둠의 아이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
             {
                 "name": "아지르",
                 "star": 2,
@@ -43,7 +81,16 @@
                 "items": [
                     "덤불 조끼",
                     "가고일 돌갑옷",
-                    "워모그의 갑옷"
+                    "굳건한 심장"
+                ]
+            },
+            {
+                "name": "레넥톤",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "스테락의 도전",
+                    "거인의 결의"
                 ]
             },
             {
@@ -80,9 +127,56 @@
             "Fast 9",
             "Hard"
         ],
-        "avg_place": "3.68",
-        "win_rate": "18.5%",
-        "top4_rate": "66.0%",
+        "avg_place": "3.88",
+        "win_rate": "15.9%",
+        "top4_rate": "62.0%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "아이오니아",
+                "count": "5",
+                "style": "silver"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "유나라",
@@ -90,7 +184,7 @@
                 "items": [
                     "구인수의 격노검",
                     "무한의 대검",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -112,12 +206,12 @@
                 ]
             },
             {
-                "name": "타릭",
+                "name": "킨드레드",
                 "star": 2,
                 "items": [
-                    "덤불 조끼",
-                    "태양불꽃 망토",
-                    "저녁갑주"
+                    "구인수의 격노검",
+                    "최후의 속삭임",
+                    "붉은 덩굴정령"
                 ]
             },
             {
@@ -126,12 +220,12 @@
                 "items": []
             },
             {
-                "name": "킨드레드",
+                "name": "루시안과 세나",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "루시안과 세나",
+                "name": "타릭",
                 "star": 2,
                 "items": []
             },
@@ -149,148 +243,56 @@
     },
     {
         "tier": "S",
-        "name": "데마시아 베인 카이사",
-        "tags": [
-            "lvl 7",
-            "Easy"
-        ],
-        "avg_place": "3.77",
-        "win_rate": "11.0%",
-        "top4_rate": "66.9%",
-        "champions": [
-            {
-                "name": "베인",
-                "star": 3,
-                "items": [
-                    "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "가렌",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "굳건한 심장",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "카이사",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "헥스텍 총검",
-                    "보석 건틀릿"
-                ]
-            },
-            {
-                "name": "럭스",
-                "star": 2,
-                "items": [
-                    "블루 버프",
-                    "보석 건틀릿",
-                    "거인 학살자"
-                ]
-            },
-            {
-                "name": "스웨인",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "뽀삐",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "신 짜오",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "자르반 4세",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "S",
-        "name": "아이오니아 야스오",
-        "tags": [
-            "lvl 6",
-            "Easy"
-        ],
-        "avg_place": "3.89",
-        "win_rate": "14.4%",
-        "top4_rate": "62.8%",
-        "champions": [
-            {
-                "name": "야스오",
-                "star": 3,
-                "items": [
-                    "밤의 끝자락",
-                    "무한의 대검",
-                    "정의의 손길"
-                ]
-            },
-            {
-                "name": "요네",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "구인수의 격노검",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "오공",
-                "star": 2,
-                "items": [
-                    "수호자의 맹세",
-                    "태양불꽃 망토",
-                    "저녁갑주"
-                ]
-            },
-            {
-                "name": "아트록스",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "세트",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "벨베스",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "아펠리오스",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "쉔",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "S",
         "name": "기동타격대 트린다미어",
         "tags": [
             "lvl 6",
             "Medium"
         ],
-        "avg_place": "3.92",
-        "win_rate": "12.2%",
-        "top4_rate": "63.0%",
+        "avg_place": "3.95",
+        "win_rate": "11.8%",
+        "top4_rate": "62.5%",
+        "synergies": [
+            {
+                "name": "기동타격대",
+                "count": "3",
+                "style": "silver"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "녹서스",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "학살자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "트린다미어",
@@ -307,7 +309,7 @@
                 "items": [
                     "거인 학살자",
                     "붉은 덩굴정령",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -357,9 +359,56 @@
             "Fast 9",
             "Hard"
         ],
-        "avg_place": "3.94",
-        "win_rate": "18.7%",
-        "top4_rate": "60.1%",
+        "avg_place": "4.02",
+        "win_rate": "17.5%",
+        "top4_rate": "58.7%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "녹서스",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "토벌자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "킨드레드",
@@ -367,7 +416,7 @@
                 "items": [
                     "구인수의 격노검",
                     "거인 학살자",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -392,9 +441,8 @@
                 "name": "피들스틱",
                 "star": 2,
                 "items": [
-                    "모렐로노미콘",
-                    "타격대의 철퇴",
-                    "정의의 손길"
+                    "보석 건틀릿",
+                    "모렐로노미콘"
                 ]
             },
             {
@@ -431,24 +479,81 @@
             "Fast 9",
             "Hard"
         ],
-        "avg_place": "4.00",
-        "win_rate": "18.5%",
-        "top4_rate": "57.9%",
+        "avg_place": "4.06",
+        "win_rate": "17.8%",
+        "top4_rate": "56.9%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "빌지워터",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "대식가",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "미스 포츈",
                 "star": 2,
                 "items": [
-                    "선장의 럼주",
+                    "선장의 술통",
                     "망자의 단검",
-                    "일등항해사의 화승총"
+                    "일등항해사의 머스킷"
                 ]
             },
             {
                 "name": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "귤 더미",
+                    "귤",
                     "피바라기",
                     "수호자의 맹세"
                 ]
@@ -457,7 +562,7 @@
                 "name": "노틸러스",
                 "star": 3,
                 "items": [
-                    "Barknuckles",
+                    "따개비 주먹",
                     "가고일 돌갑옷",
                     "저녁갑주"
                 ]
@@ -502,12 +607,59 @@
         "tier": "S",
         "name": "기동타격대 유나라",
         "tags": [
-            "Fast 8",
-            "Medium"
+            "Fast 9",
+            "Hard"
         ],
-        "avg_place": "4.08",
-        "win_rate": "15.5%",
-        "top4_rate": "58.0%",
+        "avg_place": "4.12",
+        "win_rate": "14.8%",
+        "top4_rate": "57.3%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "요들",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "룬 마법사",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "유나라",
@@ -515,7 +667,7 @@
                 "items": [
                     "구인수의 격노검",
                     "무한의 대검",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -579,9 +731,26 @@
             "Standard",
             "Easy"
         ],
-        "avg_place": "4.10",
-        "win_rate": "16.3%",
-        "top4_rate": "56.7%",
+        "avg_place": "4.14",
+        "win_rate": "15.8%",
+        "top4_rate": "56.1%",
+        "synergies": [
+            {
+                "name": "요들",
+                "count": "8",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
                 "name": "베이가",
@@ -613,7 +782,11 @@
             {
                 "name": "코부코와 유미",
                 "star": 3,
-                "items": []
+                "items": [
+                    "가고일 돌갑옷",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
             },
             {
                 "name": "뽀삐",
@@ -639,68 +812,216 @@
     },
     {
         "tier": "S",
-        "name": "난동꾼 사이온",
+        "name": "데마시아 베인",
         "tags": [
-            "lvl 6",
+            "lvl 7",
             "Easy"
         ],
-        "avg_place": "4.21",
-        "win_rate": "10.4%",
-        "top4_rate": "56.9%",
+        "avg_place": "4.16",
+        "win_rate": "8.9%",
+        "top4_rate": "58.6%",
+        "synergies": [
+            {
+                "name": "데마시아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "백발백중",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "정찰대",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영웅",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "사이온",
+                "name": "베인",
                 "star": 3,
+                "items": [
+                    "헥스텍 총검",
+                    "크라켄의 학살자",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "가렌",
+                "star": 2,
                 "items": [
                     "덤불 조끼",
-                    "용의 발톱",
-                    "태양불꽃 망토"
+                    "굳건한 심장",
+                    "정령의 형상"
                 ]
             },
             {
-                "name": "아펠리오스",
-                "star": 3,
+                "name": "럭스",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "보석 건틀릿",
+                    "라바돈의 죽음모자"
+                ]
+            },
+            {
+                "name": "카이사",
+                "star": 2,
                 "items": [
                     "구인수의 격노검",
-                    "거인 학살자",
-                    "크라켄 학살자"
+                    "헥스텍 총검",
+                    "보석 건틀릿"
                 ]
             },
             {
-                "name": "바드",
-                "star": 3,
+                "name": "갈리오",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "스웨인",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "뽀삐",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "신 짜오",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "자르반 4세",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "S",
+        "name": "필트오버 T-헥스 세라핀",
+        "tags": [
+            "Standard",
+            "Hard"
+        ],
+        "avg_place": "4.22",
+        "win_rate": "21.0%",
+        "top4_rate": "54.1%",
+        "synergies": [
+            {
+                "name": "필트오버",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "헥스 메카",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "T-헥스",
+                "star": 2,
                 "items": [
-                    "대천사의 지팡이",
-                    "보석 건틀릿",
+                    "죽음의 검",
+                    "무한의 대검",
+                    "타격대의 철퇴"
+                ]
+            },
+            {
+                "name": "세라핀",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "모렐로노미콘",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "루시안과 세나",
+                "star": 2,
+                "items": [
+                    "최후의 속삭임",
+                    "붉은 덩굴정령",
                     "쇼진의 창"
                 ]
             },
             {
-                "name": "오공",
+                "name": "로리스",
                 "star": 2,
                 "items": [
+                    "가고일 돌갑옷",
                     "태양불꽃 망토",
-                    "정령의 형상",
                     "워모그의 갑옷"
                 ]
             },
             {
-                "name": "볼리베어",
+                "name": "브라움",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "코부코와 유미",
+                "name": "타릭",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "일라오이",
-                "star": 3,
+                "name": "오리아나",
+                "star": 2,
                 "items": []
             },
             {
-                "name": "쉔",
+                "name": "바이",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "케이틀린",
                 "star": 3,
                 "items": []
             }
@@ -708,14 +1029,61 @@
     },
     {
         "tier": "A",
-        "name": "타곤 다이애나",
+        "name": "타곤 다이애나  타릭",
         "tags": [
             "Fast 8",
             "Medium"
         ],
-        "avg_place": "4.26",
-        "win_rate": "11.5%",
-        "top4_rate": "55.1%",
+        "avg_place": "4.25",
+        "win_rate": "11.3%",
+        "top4_rate": "55.3%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "슈리마",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "다이애나",
@@ -787,9 +1155,56 @@
             "Fast 8",
             "Easy"
         ],
-        "avg_place": "4.28",
-        "win_rate": "11.3%",
-        "top4_rate": "55.1%",
+        "avg_place": "4.30",
+        "win_rate": "10.8%",
+        "top4_rate": "54.8%",
+        "synergies": [
+            {
+                "name": "데마시아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "시간의 수호자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영웅",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "럭스",
@@ -828,6 +1243,11 @@
                 ]
             },
             {
+                "name": "오른",
+                "star": 2,
+                "items": []
+            },
+            {
                 "name": "질리언",
                 "star": 2,
                 "items": []
@@ -856,51 +1276,85 @@
     },
     {
         "tier": "A",
-        "name": "그림자 군도 칼리스타",
+        "name": "필트오버 T-헥스",
         "tags": [
             "Standard",
-            "Easy"
+            "Medium"
         ],
-        "avg_place": "4.29",
-        "win_rate": "9.3%",
-        "top4_rate": "54.7%",
+        "avg_place": "4.30",
+        "win_rate": "19.9%",
+        "top4_rate": "51.7%",
+        "synergies": [
+            {
+                "name": "필트오버",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "파수꾼",
+                "count": "3",
+                "style": "silver"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "헥스 메카",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "칼리스타",
+                "name": "T-헥스",
                 "star": 2,
                 "items": [
-                    "최후의 속삭임",
-                    "타격대의 철퇴",
-                    "쇼진의 창"
+                    "죽음의 검",
+                    "무한의 대검",
+                    "타격대의 철퇴"
                 ]
             },
             {
-                "name": "쓰레쉬",
+                "name": "로리스",
                 "star": 2,
                 "items": [
-                    "피바라기",
-                    "이온 충격기",
-                    "모렐로노미콘"
+                    "덤불 조끼",
+                    "정령의 형상",
+                    "저녁갑주"
                 ]
             },
             {
                 "name": "브라움",
                 "star": 2,
                 "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "정령의 형상"
                 ]
             },
             {
-                "name": "피들스틱",
+                "name": "세라핀",
                 "star": 2,
                 "items": [
-                    "크라운가드"
+                    "모렐로노미콘",
+                    "쇼진의 창",
+                    "공허의 지팡이"
                 ]
             },
             {
-                "name": "킨드레드",
+                "name": "루시안과 세나",
                 "star": 2,
                 "items": []
             },
@@ -910,17 +1364,17 @@
                 "items": []
             },
             {
-                "name": "그웬",
+                "name": "오리아나",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "요릭",
+                "name": "바이",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "비에고",
+                "name": "케이틀린",
                 "star": 3,
                 "items": []
             }
@@ -933,9 +1387,46 @@
             "Standard",
             "Medium"
         ],
-        "avg_place": "4.30",
-        "win_rate": "20.8%",
-        "top4_rate": "51.7%",
+        "avg_place": "4.31",
+        "win_rate": "20.9%",
+        "top4_rate": "51.6%",
+        "synergies": [
+            {
+                "name": "필트오버",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "헥스 메카",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "T-헥스",
@@ -1002,14 +1493,61 @@
     },
     {
         "tier": "A",
-        "name": "비전 마법사 다이애나",
+        "name": "비전 마법사 스웨인",
         "tags": [
             "Fast 8",
-            "Medium"
+            "Hard"
         ],
         "avg_place": "4.31",
-        "win_rate": "10.9%",
+        "win_rate": "11.2%",
         "top4_rate": "54.3%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "슈리마",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "다이애나",
@@ -1024,9 +1562,9 @@
                 "name": "스웨인",
                 "star": 2,
                 "items": [
+                    "덤불 조끼",
                     "수호자의 맹세",
-                    "정령의 형상",
-                    "워모그의 갑옷"
+                    "정령의 형상"
                 ]
             },
             {
@@ -1076,22 +1614,57 @@
     },
     {
         "tier": "A",
-        "name": "아이오니아 유나라",
+        "name": "난동꾼 사이온",
         "tags": [
-            "Fast 9",
-            "Hard"
+            "lvl 6",
+            "Easy"
         ],
-        "avg_place": "4.33",
-        "win_rate": "12.5%",
-        "top4_rate": "53.0%",
+        "avg_place": "4.32",
+        "win_rate": "9.7%",
+        "top4_rate": "54.8%",
+        "synergies": [
+            {
+                "name": "난동꾼",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "관리자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "유나라",
-                "star": 2,
+                "name": "사이온",
+                "star": 3,
+                "items": [
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "태양불꽃 망토"
+                ]
+            },
+            {
+                "name": "바드",
+                "star": 3,
+                "items": [
+                    "대천사의 지팡이",
+                    "보석 건틀릿",
+                    "쇼진의 창"
+                ]
+            },
+            {
+                "name": "아펠리오스",
+                "star": 3,
                 "items": [
                     "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
+                    "거인 학살자",
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -1100,31 +1673,203 @@
                 "items": [
                     "태양불꽃 망토",
                     "정령의 형상",
-                    "저녁갑주"
+                    "워모그의 갑옷"
                 ]
             },
             {
-                "name": "세트",
+                "name": "볼리베어",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "코부코와 유미",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "일라오이",
+                "star": 3,
+                "items": []
+            },
+            {
+                "name": "쉔",
+                "star": 3,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "A",
+        "name": "그림자 군도 칼리스타",
+        "tags": [
+            "Standard",
+            "Easy"
+        ],
+        "avg_place": "4.33",
+        "win_rate": "8.9%",
+        "top4_rate": "53.9%",
+        "synergies": [
+            {
+                "name": "그림자 군도",
+                "count": "5",
+                "style": "gold"
+            },
+            {
+                "name": "파수꾼",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "토벌자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "칼리스타",
                 "star": 2,
                 "items": [
-                    "보석 건틀릿",
-                    "라바돈의 죽음모자",
-                    "정의의 손길"
+                    "최후의 속삭임",
+                    "타격대의 철퇴",
+                    "쇼진의 창"
+                ]
+            },
+            {
+                "name": "쓰레쉬",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "이온 충격기",
+                    "모렐로노미콘"
+                ]
+            },
+            {
+                "name": "브라움",
+                "star": 2,
+                "items": [
+                    "가고일 돌갑옷",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "피들스틱",
+                "star": 2,
+                "items": [
+                    "적응형 투구"
                 ]
             },
             {
                 "name": "킨드레드",
                 "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "거인 학살자",
-                    "크라켄 학살자"
-                ]
+                "items": []
             },
             {
                 "name": "오른",
                 "star": 2,
                 "items": []
+            },
+            {
+                "name": "그웬",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "요릭",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "비에고",
+                "star": 3,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "A",
+        "name": "아이오니아 유나라 야스오",
+        "tags": [
+            "Standard",
+            "Easy"
+        ],
+        "avg_place": "4.39",
+        "win_rate": "15.8%",
+        "top4_rate": "51.3%",
+        "synergies": [
+            {
+                "name": "아이오니아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "학살자",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
+        "champions": [
+            {
+                "name": "유나라",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "최후의 속삭임"
+                ]
+            },
+            {
+                "name": "야스오",
+                "star": 3,
+                "items": [
+                    "밤의 끝자락",
+                    "무한의 대검",
+                    "정의의 손길"
+                ]
+            },
+            {
+                "name": "오공",
+                "star": 2,
+                "items": [
+                    "수호자의 맹세",
+                    "태양불꽃 망토",
+                    "저녁갑주"
+                ]
+            },
+            {
+                "name": "요네",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "구인수의 격노검",
+                    "거인의 결의"
+                ]
             },
             {
                 "name": "아리",
@@ -1138,7 +1883,7 @@
             },
             {
                 "name": "신 짜오",
-                "star": 2,
+                "star": 3,
                 "items": []
             },
             {
@@ -1150,96 +1895,77 @@
     },
     {
         "tier": "A",
-        "name": "필트오버 T-헥스",
+        "name": "아이오니아 야스오",
         "tags": [
-            "Standard",
-            "Medium"
+            "lvl 6",
+            "Easy"
         ],
-        "avg_place": "4.36",
-        "win_rate": "18.7%",
-        "top4_rate": "50.8%",
-        "champions": [
+        "avg_place": "4.46",
+        "win_rate": "9.3%",
+        "top4_rate": "52.1%",
+        "synergies": [
             {
-                "name": "T-헥스",
-                "star": 2,
-                "items": [
-                    "죽음의 검",
-                    "무한의 대검",
-                    "타격대의 철퇴"
-                ]
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
             },
             {
-                "name": "로리스",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "정령의 형상",
-                    "저녁갑주"
-                ]
+                "name": "아이오니아",
+                "count": "5",
+                "style": "silver"
             },
             {
-                "name": "세라핀",
-                "star": 2,
-                "items": [
-                    "모렐로노미콘",
-                    "쇼진의 창",
-                    "공허의 지팡이"
-                ]
+                "name": "학살자",
+                "count": "4",
+                "style": "silver"
             },
             {
-                "name": "브라움",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "용의 발톱",
-                    "정령의 형상"
-                ]
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
             },
             {
-                "name": "루시안과 세나",
-                "star": 2,
-                "items": []
+                "name": "다르킨의 검",
+                "count": "1",
+                "style": "bronze"
             },
             {
-                "name": "오른",
-                "star": 2,
-                "items": []
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
             },
             {
-                "name": "오리아나",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "바이",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "케이틀린",
-                "star": 3,
-                "items": []
+                "name": "세계의 종결자",
+                "count": "1",
+                "style": "unique"
             }
-        ]
-    },
-    {
-        "tier": "A",
-        "name": "난동꾼 오공",
-        "tags": [
-            "Fast 9",
-            "Hard"
         ],
-        "avg_place": "4.36",
-        "win_rate": "13.7%",
-        "top4_rate": "52.2%",
         "champions": [
+            {
+                "name": "야스오",
+                "star": 3,
+                "items": [
+                    "밤의 끝자락",
+                    "무한의 대검",
+                    "정의의 손길"
+                ]
+            },
+            {
+                "name": "요네",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "구인수의 격노검",
+                    "거인의 결의"
+                ]
+            },
             {
                 "name": "오공",
                 "star": 2,
                 "items": [
-                    "덤불 조끼",
                     "태양불꽃 망토",
-                    "정령의 형상"
+                    "정령의 형상",
+                    "저녁갑주"
                 ]
             },
             {
@@ -1252,12 +1978,115 @@
                 ]
             },
             {
+                "name": "아트록스",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "벨베스",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "아펠리오스",
+                "star": 3,
+                "items": []
+            },
+            {
+                "name": "쉔",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "A",
+        "name": "난동꾼 오공 세트",
+        "tags": [
+            "Fast 9",
+            "Hard"
+        ],
+        "avg_place": "4.49",
+        "win_rate": "12.3%",
+        "top4_rate": "49.9%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "자운",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "백발백중",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "요들",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "룬 마법사",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "오공",
+                "star": 2,
+                "items": [
+                    "덤불 조끼",
+                    "굳건한 심장",
+                    "정령의 형상"
+                ]
+            },
+            {
                 "name": "라이즈",
                 "star": 2,
                 "items": [
                     "모렐로노미콘",
                     "쇼진의 창",
                     "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "세트",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "거인의 결의",
+                    "정의의 손길"
                 ]
             },
             {
@@ -1293,97 +2122,50 @@
         ]
     },
     {
-        "tier": "A",
-        "name": "전쟁기계 스웨인",
-        "tags": [
-            "Fast 9",
-            "Easy"
-        ],
-        "avg_place": "4.38",
-        "win_rate": "13.0%",
-        "top4_rate": "51.9%",
-        "champions": [
-            {
-                "name": "스웨인",
-                "star": 2,
-                "items": [
-                    "태양불꽃 망토",
-                    "정령의 형상",
-                    "저녁갑주"
-                ]
-            },
-            {
-                "name": "킨드레드",
-                "star": 2,
-                "items": [
-                    "죽음의 검",
-                    "구인수의 격노검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "루시안과 세나",
-                "star": 2,
-                "items": [
-                    "무한의 대검",
-                    "최후의 속삭임",
-                    "쇼진의 창"
-                ]
-            },
-            {
-                "name": "쉬바나",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "사일러스",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "피들스틱",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "타릭",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "Darius",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "드레이븐",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "A",
+        "tier": "B",
         "name": "공허 카이사",
         "tags": [
             "Fast 9",
             "Hard"
         ],
-        "avg_place": "4.41",
-        "win_rate": "15.6%",
-        "top4_rate": "49.7%",
+        "avg_place": "4.53",
+        "win_rate": "14.4%",
+        "top4_rate": "47.7%",
+        "synergies": [
+            {
+                "name": "공허",
+                "count": "9",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "백발백중",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "정찰대",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "내셔 남작",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "카이사",
                 "star": 2,
                 "items": [
                     "구인수의 격노검",
-                    "헥스텍 총검",
-                    "보석 건틀릿"
+                    "보석 건틀릿",
+                    "공허의 지팡이"
                 ]
             },
             {
@@ -1396,6 +2178,15 @@
                 ]
             },
             {
+                "name": "벨베스",
+                "star": 2,
+                "items": [
+                    "거인 학살자",
+                    "수은",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
                 "name": "내셔 남작",
                 "star": 2,
                 "items": [
@@ -1405,21 +2196,7 @@
                 ]
             },
             {
-                "name": "벨베스",
-                "star": 2,
-                "items": [
-                    "거인 학살자",
-                    "수은",
-                    "크라켄 학살자"
-                ]
-            },
-            {
                 "name": "볼리베어",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "스웨인",
                 "star": 2,
                 "items": []
             },
@@ -1446,15 +2223,173 @@
         ]
     },
     {
-        "tier": "A",
+        "tier": "B",
+        "name": "아이오니아 스카너",
+        "tags": [
+            "Fast 9",
+            "Hard"
+        ],
+        "avg_place": "4.53",
+        "win_rate": "11.3%",
+        "top4_rate": "49.5%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "아이오니아",
+                "count": "5",
+                "style": "silver"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "스카너",
+                "star": 2,
+                "items": [
+                    "덤불 조끼",
+                    "가고일 돌갑옷",
+                    "정령의 형상"
+                ]
+            },
+            {
+                "name": "유나라",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "세트",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "타격대의 철퇴",
+                    "정의의 손길"
+                ]
+            },
+            {
+                "name": "킨드레드",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "루시안과 세나",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "타릭",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "오공",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "진",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "쉔",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "B",
         "name": "토벌자 드레이븐",
         "tags": [
             "lvl 7",
             "Easy"
         ],
-        "avg_place": "4.42",
-        "win_rate": "8.7%",
-        "top4_rate": "53.2%",
+        "avg_place": "4.55",
+        "win_rate": "7.9%",
+        "top4_rate": "51.1%",
+        "synergies": [
+            {
+                "name": "빌지워터",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "녹서스",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "학살자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "토벌자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
                 "name": "드레이븐",
@@ -1462,7 +2397,7 @@
                 "items": [
                     "구인수의 격노검",
                     "거인 학살자",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -1516,81 +2451,36 @@
     },
     {
         "tier": "B",
-        "name": "데마시아 베인",
-        "tags": [
-            "lvl 7",
-            "Easy"
-        ],
-        "avg_place": "4.50",
-        "win_rate": "7.8%",
-        "top4_rate": "51.7%",
-        "champions": [
-            {
-                "name": "베인",
-                "star": 3,
-                "items": [
-                    "죽음의 검",
-                    "구인수의 격노검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "가렌",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "럭스",
-                "star": 2,
-                "items": [
-                    "블루 버프",
-                    "보석 건틀릿",
-                    "라바돈의 죽음모자"
-                ]
-            },
-            {
-                "name": "갈리오",
-                "star": 2,
-                "items": [
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "뽀삐",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "신 짜오",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "자르반 4세",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "소나",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "B",
         "name": "프렐요드 리산드라",
         "tags": [
             "Fast 8",
             "Easy"
         ],
-        "avg_place": "4.51",
-        "win_rate": "10.1%",
-        "top4_rate": "49.8%",
+        "avg_place": "4.58",
+        "win_rate": "9.3%",
+        "top4_rate": "48.4%",
+        "synergies": [
+            {
+                "name": "프렐요드",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "기원자",
+                "count": "4",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "시간의 수호자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "리산드라",
@@ -1623,8 +2513,8 @@
                 "name": "질리언",
                 "star": 2,
                 "items": [
-                    "블루 버프",
                     "모렐로노미콘",
+                    "쇼진의 창",
                     "공허의 지팡이"
                 ]
             },
@@ -1662,9 +2552,31 @@
             "lvl 6",
             "Medium"
         ],
-        "avg_place": "4.56",
-        "win_rate": "9.1%",
-        "top4_rate": "49.6%",
+        "avg_place": "4.61",
+        "win_rate": "8.8%",
+        "top4_rate": "48.8%",
+        "synergies": [
+            {
+                "name": "프렐요드",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "트린다미어",
@@ -1681,24 +2593,24 @@
                 "items": [
                     "구인수의 격노검",
                     "최후의 속삭임",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "브라움",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
+                    "크라켄의 학살자"
                 ]
             },
             {
                 "name": "세주아니",
                 "star": 2,
                 "items": [
+                    "수호자의 맹세",
                     "태양불꽃 망토",
-                    "정령의 형상",
+                    "저녁갑주"
+                ]
+            },
+            {
+                "name": "브라움",
+                "star": 2,
+                "items": [
+                    "태양불꽃 망토",
+                    "저녁갑주",
                     "워모그의 갑옷"
                 ]
             },
@@ -1726,84 +2638,61 @@
     },
     {
         "tier": "B",
-        "name": "녹서스 암베사",
-        "tags": [
-            "Fast 8",
-            "Easy"
-        ],
-        "avg_place": "4.59",
-        "win_rate": "9.4%",
-        "top4_rate": "47.5%",
-        "champions": [
-            {
-                "name": "스웨인",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "태양불꽃 망토",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "암베사",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "멜",
-                "star": 2,
-                "items": [
-                    "블루 버프",
-                    "보석 건틀릿",
-                    "공허의 지팡이"
-                ]
-            },
-            {
-                "name": "아지르",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "피들스틱",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "드레이븐",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "르블랑",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "사이온",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "브라이언",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "B",
         "name": "파수꾼 브라움",
         "tags": [
             "Standard",
             "Easy"
         ],
-        "avg_place": "4.59",
-        "win_rate": "8.6%",
-        "top4_rate": "48.6%",
+        "avg_place": "4.67",
+        "win_rate": "7.9%",
+        "top4_rate": "47.2%",
+        "synergies": [
+            {
+                "name": "파수꾼",
+                "count": "3",
+                "style": "silver"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "브라움",
@@ -1811,7 +2700,7 @@
                 "items": [
                     "태양불꽃 망토",
                     "정령의 형상",
-                    "저녁갑주"
+                    "워모그의 갑옷"
                 ]
             },
             {
@@ -1819,8 +2708,8 @@
                 "star": 2,
                 "items": [
                     "구인수의 격노검",
-                    "크라켄 학살자",
-                    "크라켄 학살자"
+                    "거인 학살자",
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -1829,7 +2718,7 @@
                 "items": [
                     "무한의 대검",
                     "최후의 속삭임",
-                    "붉은 덩굴정령"
+                    "쇼진의 창"
                 ]
             },
             {
@@ -1866,162 +2755,41 @@
     },
     {
         "tier": "B",
-        "name": "요들 피즈",
-        "tags": [
-            "Fast 9",
-            "Easy"
-        ],
-        "avg_place": "4.60",
-        "win_rate": "12.1%",
-        "top4_rate": "47.7%",
-        "champions": [
-            {
-                "name": "피즈",
-                "star": 2,
-                "items": [
-                    "이온 충격기",
-                    "보석 건틀릿",
-                    "정의의 손길"
-                ]
-            },
-            {
-                "name": "케넨",
-                "star": 3,
-                "items": [
-                    "덤불 조끼",
-                    "태양불꽃 망토",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "직스",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "보석 건틀릿",
-                    "공허의 지팡이"
-                ]
-            },
-            {
-                "name": "코부코와 유미",
-                "star": 3,
-                "items": [
-                    "가고일 돌갑옷",
-                    "태양불꽃 망토",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "뽀삐",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "티모",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "트리스타나",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "룰루",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "럼블",
-                "star": 3,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "B",
-        "name": "아이오니아 유나라 스카너",
-        "tags": [
-            "Fast 9",
-            "Hard"
-        ],
-        "avg_place": "4.62",
-        "win_rate": "10.9%",
-        "top4_rate": "48.0%",
-        "champions": [
-            {
-                "name": "유나라",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "스카너",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "가고일 돌갑옷",
-                    "저녁갑주"
-                ]
-            },
-            {
-                "name": "세트",
-                "star": 2,
-                "items": [
-                    "보석 건틀릿",
-                    "타격대의 철퇴",
-                    "정의의 손길"
-                ]
-            },
-            {
-                "name": "킨드레드",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "루시안과 세나",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "타릭",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "오공",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "진",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "쉔",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "B",
         "name": "기원자 소나",
         "tags": [
             "lvl 5",
             "Easy"
         ],
-        "avg_place": "4.69",
-        "win_rate": "4.7%",
-        "top4_rate": "47.4%",
+        "avg_place": "4.70",
+        "win_rate": "4.4%",
+        "top4_rate": "47.3%",
+        "synergies": [
+            {
+                "name": "기원자",
+                "count": "4",
+                "style": "gold"
+            },
+            {
+                "name": "엄호대",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "데마시아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "요들",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
                 "name": "소나",
@@ -2036,7 +2804,7 @@
                 "name": "애니비아",
                 "star": 3,
                 "items": [
-                    "거인 학살자",
+                    "헥스텍 총검",
                     "라바돈의 죽음모자",
                     "쇼진의 창"
                 ]
@@ -2083,88 +2851,26 @@
     },
     {
         "tier": "B",
-        "name": "슈리마 나서스  다이애나",
-        "tags": [
-            "Fast 8",
-            "Medium"
-        ],
-        "avg_place": "4.70",
-        "win_rate": "7.9%",
-        "top4_rate": "46.3%",
-        "champions": [
-            {
-                "name": "다이애나",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "구인수의 격노검",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "나서스",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "태양불꽃 망토",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "아지르",
-                "star": 2,
-                "items": [
-                    "대천사의 지팡이",
-                    "구인수의 격노검",
-                    "라바돈의 죽음모자"
-                ]
-            },
-            {
-                "name": "세라핀",
-                "star": 2,
-                "items": [
-                    "모렐로노미콘",
-                    "쇼진의 창",
-                    "공허의 지팡이"
-                ]
-            },
-            {
-                "name": "쉬바나",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "스웨인",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "타릭",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "니코",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "바이",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "B",
         "name": "그림자 군도 비에고",
         "tags": [
             "lvl 5",
             "Easy"
         ],
-        "avg_place": "4.71",
-        "win_rate": "6.0%",
-        "top4_rate": "47.2%",
+        "avg_place": "4.73",
+        "win_rate": "5.6%",
+        "top4_rate": "46.9%",
+        "synergies": [
+            {
+                "name": "그림자 군도",
+                "count": "5",
+                "style": "gold"
+            },
+            {
+                "name": "파수꾼",
+                "count": "5",
+                "style": "gold"
+            }
+        ],
         "champions": [
             {
                 "name": "비에고",
@@ -2226,88 +2932,152 @@
     },
     {
         "tier": "B",
-        "name": "비전 마법사 애니 아지르",
+        "name": "요들 피즈",
         "tags": [
             "Fast 9",
-            "Hard"
+            "Easy"
         ],
-        "avg_place": "4.74",
-        "win_rate": "9.7%",
-        "top4_rate": "45.3%",
+        "avg_place": "4.73",
+        "win_rate": "11.4%",
+        "top4_rate": "45.2%",
+        "synergies": [
+            {
+                "name": "요들",
+                "count": "8",
+                "style": "gold"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "백발백중",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
-                "name": "애니",
+                "name": "피즈",
                 "star": 2,
                 "items": [
-                    "적응형 투구",
-                    "쇼진의 창",
-                    "공허의 지팡이"
-                ]
-            },
-            {
-                "name": "아지르",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
                     "보석 건틀릿",
-                    "거인 학살자"
+                    "거인 학살자",
+                    "정의의 손길"
                 ]
             },
             {
-                "name": "티버",
-                "star": 2,
+                "name": "케넨",
+                "star": 3,
                 "items": [
                     "덤불 조끼",
-                    "가고일 돌갑옷",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "스웨인",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
                     "태양불꽃 망토",
                     "정령의 형상"
                 ]
             },
             {
-                "name": "쉬바나",
+                "name": "직스",
                 "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "보석 건틀릿",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "코부코와 유미",
+                "star": 3,
+                "items": [
+                    "가고일 돌갑옷",
+                    "태양불꽃 망토",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "뽀삐",
+                "star": 3,
                 "items": []
             },
             {
-                "name": "레넥톤",
-                "star": 2,
+                "name": "티모",
+                "star": 3,
                 "items": []
             },
             {
-                "name": "세라핀",
-                "star": 2,
+                "name": "트리스타나",
+                "star": 3,
                 "items": []
             },
             {
-                "name": "니코",
-                "star": 2,
+                "name": "룰루",
+                "star": 3,
                 "items": []
             },
             {
-                "name": "바이",
-                "star": 2,
+                "name": "럼블",
+                "star": 3,
                 "items": []
             }
         ]
     },
     {
-        "tier": "B",
+        "tier": "C",
         "name": "학살자 벨베스",
         "tags": [
             "Fast 8",
             "Easy"
         ],
-        "avg_place": "4.74",
-        "win_rate": "6.3%",
-        "top4_rate": "46.1%",
+        "avg_place": "4.79",
+        "win_rate": "6.0%",
+        "top4_rate": "45.0%",
+        "synergies": [
+            {
+                "name": "전쟁기계",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "학살자",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "토벌자",
+                "count": "3",
+                "style": "silver"
+            },
+            {
+                "name": "녹서스",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "공허",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "다르킨의 검",
+                "count": "1",
+                "style": "bronze"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "세계의 종결자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "벨베스",
@@ -2315,7 +3085,7 @@
                 "items": [
                     "거인 학살자",
                     "수은",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -2374,154 +3144,56 @@
     },
     {
         "tier": "C",
-        "name": "슈리마 나서스",
+        "name": "난동꾼 오공",
         "tags": [
             "Fast 9",
             "Hard"
-        ],
-        "avg_place": "4.79",
-        "win_rate": "12.2%",
-        "top4_rate": "42.5%",
-        "champions": [
-            {
-                "name": "나서스",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "가고일 돌갑옷",
-                    "태양불꽃 망토"
-                ]
-            },
-            {
-                "name": "아지르",
-                "star": 2,
-                "items": [
-                    "대천사의 지팡이",
-                    "구인수의 격노검",
-                    "헥스텍 총검"
-                ]
-            },
-            {
-                "name": "티버",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "애니",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "쉬바나",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "세라핀",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "스웨인",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "니코",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "바이",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "C",
-        "name": "타곤 다이애나  아우렐리온 솔",
-        "tags": [
-            "Standard",
-            "Easy"
         ],
         "avg_place": "4.80",
-        "win_rate": "9.0%",
-        "top4_rate": "42.9%",
-        "champions": [
+        "win_rate": "10.9%",
+        "top4_rate": "44.2%",
+        "synergies": [
             {
-                "name": "아우렐리온 솔",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "쇼진의 창",
-                    "쇼진의 창"
-                ]
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
             },
             {
-                "name": "다이애나",
-                "star": 2,
-                "items": [
-                    "보석 건틀릿",
-                    "거인의 결의",
-                    "정의의 손길"
-                ]
+                "name": "난동꾼",
+                "count": "4",
+                "style": "silver"
             },
             {
-                "name": "브라움",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "가고일 돌갑옷",
-                    "워모그의 갑옷"
-                ]
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
             },
             {
-                "name": "타릭",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
             },
             {
-                "name": "오른",
-                "star": 2,
-                "items": []
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
             },
             {
-                "name": "리산드라",
-                "star": 2,
-                "items": []
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
             },
             {
-                "name": "레오나",
-                "star": 2,
-                "items": []
+                "name": "요들",
+                "count": "2",
+                "style": "bronze"
             },
             {
-                "name": "조이",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "애니비아",
-                "star": 2,
-                "items": []
+                "name": "룬 마법사",
+                "count": "1",
+                "style": "unique"
             }
-        ]
-    },
-    {
-        "tier": "C",
-        "name": "난동꾼 리산드라",
-        "tags": [
-            "Fast 9",
-            "Hard"
         ],
-        "avg_place": "4.83",
-        "win_rate": "11.2%",
-        "top4_rate": "43.5%",
         "champions": [
             {
                 "name": "오공",
@@ -2536,9 +3208,9 @@
                 "name": "리산드라",
                 "star": 2,
                 "items": [
-                    "대천사의 지팡이",
-                    "보석 건틀릿",
-                    "내셔의 이빨"
+                    "적응형 투구",
+                    "라바돈의 죽음모자",
+                    "쇼진의 창"
                 ]
             },
             {
@@ -2546,8 +3218,8 @@
                 "star": 2,
                 "items": [
                     "보석 건틀릿",
-                    "내셔의 이빨",
-                    "쇼진의 창"
+                    "쇼진의 창",
+                    "공허의 지팡이"
                 ]
             },
             {
@@ -2588,15 +3260,297 @@
     },
     {
         "tier": "C",
-        "name": "비전 마법사 애니",
+        "name": "아이오니아 유나라",
+        "tags": [
+            "Fast 8",
+            "Easy"
+        ],
+        "avg_place": "4.80",
+        "win_rate": "10.2%",
+        "top4_rate": "43.7%",
+        "synergies": [
+            {
+                "name": "아이오니아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "유나라",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "거인 학살자"
+                ]
+            },
+            {
+                "name": "오공",
+                "star": 2,
+                "items": [
+                    "가고일 돌갑옷",
+                    "태양불꽃 망토",
+                    "정령의 형상"
+                ]
+            },
+            {
+                "name": "세트",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "거인의 결의",
+                    "정의의 손길"
+                ]
+            },
+            {
+                "name": "킨드레드",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "거인 학살자",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "오른",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "아리",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "케넨",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "신 짜오",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "쉔",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "C",
+        "name": "녹서스 스웨인",
+        "tags": [
+            "Standard",
+            "Easy"
+        ],
+        "avg_place": "4.83",
+        "win_rate": "8.4%",
+        "top4_rate": "42.6%",
+        "synergies": [
+            {
+                "name": "녹서스",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "토벌자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "스웨인",
+                "star": 2,
+                "items": [
+                    "덤불 조끼",
+                    "태양불꽃 망토",
+                    "저녁갑주"
+                ]
+            },
+            {
+                "name": "암베사",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "스테락의 도전",
+                    "거인의 결의"
+                ]
+            },
+            {
+                "name": "멜",
+                "star": 2,
+                "items": [
+                    "적응형 투구",
+                    "블루 버프",
+                    "보석 건틀릿"
+                ]
+            },
+            {
+                "name": "드레이븐",
+                "star": 2,
+                "items": [
+                    "죽음의 검",
+                    "구인수의 격노검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "아지르",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "피들스틱",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "르블랑",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "사이온",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "브라이언",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "C",
+        "name": "슈리마 나서스",
         "tags": [
             "Fast 9",
             "Hard"
         ],
-        "avg_place": "4.89",
-        "win_rate": "8.0%",
-        "top4_rate": "42.3%",
+        "avg_place": "4.85",
+        "win_rate": "10.8%",
+        "top4_rate": "41.7%",
+        "synergies": [
+            {
+                "name": "비전 마법사",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "슈리마",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "어둠의 아이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
+            {
+                "name": "나서스",
+                "star": 2,
+                "items": [
+                    "덤불 조끼",
+                    "가고일 돌갑옷",
+                    "태양불꽃 망토"
+                ]
+            },
+            {
+                "name": "아지르",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "보석 건틀릿",
+                    "거인 학살자"
+                ]
+            },
             {
                 "name": "애니",
                 "star": 2,
@@ -2609,32 +3563,122 @@
             {
                 "name": "티버",
                 "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
+                "items": []
             },
             {
-                "name": "사일러스",
+                "name": "쉬바나",
                 "star": 2,
-                "items": [
-                    "헥스텍 총검",
-                    "보석 건틀릿",
-                    "정의의 손길"
-                ]
+                "items": []
+            },
+            {
+                "name": "세라핀",
+                "star": 2,
+                "items": []
             },
             {
                 "name": "스웨인",
                 "star": 2,
+                "items": []
+            },
+            {
+                "name": "니코",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "바이",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "C",
+        "name": "타곤 다이애나",
+        "tags": [
+            "Fast 9",
+            "Hard"
+        ],
+        "avg_place": "4.88",
+        "win_rate": "6.1%",
+        "top4_rate": "43.2%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "어둠의 아이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "다이애나",
+                "star": 2,
                 "items": [
-                    "수호자의 맹세",
-                    "가고일 돌갑옷",
-                    "정령의 형상"
+                    "피바라기",
+                    "구인수의 격노검",
+                    "거인의 결의"
                 ]
             },
             {
-                "name": "피들스틱",
+                "name": "아지르",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "거인 학살자",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "애니",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "쇼진의 창",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "티버",
                 "star": 2,
                 "items": []
             },
@@ -2644,12 +3688,12 @@
                 "items": []
             },
             {
-                "name": "럭스",
+                "name": "세라핀",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "타릭",
+                "name": "스웨인",
                 "star": 2,
                 "items": []
             },
@@ -2657,19 +3701,71 @@
                 "name": "니코",
                 "star": 2,
                 "items": []
+            },
+            {
+                "name": "바이",
+                "star": 2,
+                "items": []
             }
         ]
     },
     {
         "tier": "C",
-        "name": "엄호대 가렌",
+        "name": "엄호대 라이즈",
         "tags": [
             "Fast 9",
-            "Hard"
+            "Easy"
         ],
-        "avg_place": "4.89",
-        "win_rate": "12.0%",
-        "top4_rate": "41.5%",
+        "avg_place": "4.90",
+        "win_rate": "11.6%",
+        "top4_rate": "41.3%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "데마시아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "슈리마",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "요들",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "룬 마법사",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "라이즈",
@@ -2686,7 +3782,7 @@
                 "items": [
                     "덤불 조끼",
                     "태양불꽃 망토",
-                    "정령의 형상"
+                    "워모그의 갑옷"
                 ]
             },
             {
@@ -2741,9 +3837,41 @@
             "lvl 6",
             "Easy"
         ],
-        "avg_place": "4.90",
-        "win_rate": "3.5%",
-        "top4_rate": "43.5%",
+        "avg_place": "4.92",
+        "win_rate": "3.2%",
+        "top4_rate": "43.3%",
+        "synergies": [
+            {
+                "name": "전쟁기계",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "자운",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
                 "name": "에코",
@@ -2805,49 +3933,95 @@
     },
     {
         "tier": "C",
-        "name": "타곤 타릭",
+        "name": "비전 마법사 애니",
         "tags": [
             "Fast 9",
-            "Easy"
+            "Hard"
         ],
-        "avg_place": "4.92",
-        "win_rate": "9.0%",
-        "top4_rate": "41.4%",
+        "avg_place": "4.94",
+        "win_rate": "7.6%",
+        "top4_rate": "41.3%",
+        "synergies": [
+            {
+                "name": "비전 마법사",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "추방자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "어둠의 아이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "타릭",
+                "name": "애니",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "쇼진의 창",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "티버",
+                "star": 2,
+                "items": [
+                    "가고일 돌갑옷",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "스웨인",
                 "star": 2,
                 "items": [
                     "수호자의 맹세",
-                    "태양불꽃 망토",
-                    "정령의 형상"
+                    "가고일 돌갑옷",
+                    "워모그의 갑옷"
                 ]
             },
             {
-                "name": "킨드레드",
+                "name": "사일러스",
                 "star": 2,
                 "items": [
-                    "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "루시안과 세나",
-                "star": 2,
-                "items": [
-                    "무한의 대검",
-                    "최후의 속삭임",
-                    "쇼진의 창"
+                    "헥스텍 총검",
+                    "보석 건틀릿",
+                    "정의의 손길"
                 ]
             },
             {
                 "name": "피들스틱",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "세트",
                 "star": 2,
                 "items": []
             },
@@ -2857,12 +4031,138 @@
                 "items": []
             },
             {
-                "name": "스웨인",
+                "name": "럭스",
                 "star": 2,
                 "items": []
             },
             {
+                "name": "타릭",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "니코",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "C",
+        "name": "기동타격대 유나라 스웨인",
+        "tags": [
+            "Fast 9",
+            "Easy"
+        ],
+        "avg_place": "4.96",
+        "win_rate": "8.0%",
+        "top4_rate": "41.2%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "우두머리",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
                 "name": "유나라",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "스웨인",
+                "star": 2,
+                "items": [
+                    "덤불 조끼",
+                    "태양불꽃 망토",
+                    "저녁갑주"
+                ]
+            },
+            {
+                "name": "킨드레드",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "세트",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "거인의 결의",
+                    "정의의 손길"
+                ]
+            },
+            {
+                "name": "피들스틱",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "루시안과 세나",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "쉬바나",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "타릭",
                 "star": 2,
                 "items": []
             },
@@ -2875,88 +4175,46 @@
     },
     {
         "tier": "C",
-        "name": "난동꾼 사이온 볼리베어",
-        "tags": [
-            "lvl 6",
-            "Easy"
-        ],
-        "avg_place": "4.92",
-        "win_rate": "7.0%",
-        "top4_rate": "43.0%",
-        "champions": [
-            {
-                "name": "사이온",
-                "star": 3,
-                "items": [
-                    "태양불꽃 망토",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "볼리베어",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "유나라",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "문도 박사",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "태양불꽃 망토",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "킨드레드",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "오공",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "드레이븐",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "코부코와 유미",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "쉔",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "C",
         "name": "자운 워윅",
         "tags": [
             "Standard",
             "Easy"
         ],
-        "avg_place": "4.94",
-        "win_rate": "2.7%",
-        "top4_rate": "42.2%",
+        "avg_place": "4.97",
+        "win_rate": "2.6%",
+        "top4_rate": "41.4%",
+        "synergies": [
+            {
+                "name": "자운",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "워윅",
@@ -2980,8 +4238,8 @@
                 "name": "문도 박사",
                 "star": 2,
                 "items": [
-                    "덤불 조끼",
                     "가고일 돌갑옷",
+                    "정령의 형상",
                     "워모그의 갑옷"
                 ]
             },
@@ -3023,35 +4281,101 @@
     },
     {
         "tier": "C",
-        "name": "자운 징크스",
+        "name": "타곤 타릭",
         "tags": [
-            "lvl 7",
+            "Fast 9",
             "Easy"
         ],
-        "avg_place": "4.99",
-        "win_rate": "2.6%",
-        "top4_rate": "41.1%",
+        "avg_place": "5.00",
+        "win_rate": "8.6%",
+        "top4_rate": "40.1%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "녹서스",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기동타격대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "추방자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "징크스",
-                "star": 3,
+                "name": "타릭",
+                "star": 2,
+                "items": [
+                    "굳건한 심장",
+                    "태양불꽃 망토",
+                    "정령의 형상"
+                ]
+            },
+            {
+                "name": "킨드레드",
+                "star": 2,
                 "items": [
                     "구인수의 격노검",
                     "무한의 대검",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
-                "name": "문도 박사",
-                "star": 3,
+                "name": "루시안과 세나",
+                "star": 2,
                 "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "타격대의 철퇴"
                 ]
             },
             {
-                "name": "워윅",
+                "name": "쉬바나",
                 "star": 2,
                 "items": [
                     "피바라기",
@@ -3060,54 +4384,148 @@
                 ]
             },
             {
-                "name": "신지드",
-                "star": 2,
-                "items": [
-                    "보석 건틀릿",
-                    "모렐로노미콘",
-                    "정의의 손길"
-                ]
-            },
-            {
-                "name": "루시안과 세나",
+                "name": "사일러스",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "에코",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "바이",
+                "name": "피들스틱",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "블리츠크랭크",
+                "name": "스웨인",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "다리우스",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "드레이븐",
                 "star": 2,
                 "items": []
             }
         ]
     },
     {
-        "tier": "C",
+        "tier": "D",
+        "name": "타곤 아우렐리온 솔",
+        "tags": [
+            "Standard",
+            "Easy"
+        ],
+        "avg_place": "5.00",
+        "win_rate": "9.1%",
+        "top4_rate": "38.6%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "성위",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "아우렐리온 솔",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "쇼진의 창",
+                    "쇼진의 창"
+                ]
+            },
+            {
+                "name": "다이애나",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "구인수의 격노검",
+                    "거인의 결의"
+                ]
+            },
+            {
+                "name": "타릭",
+                "star": 2,
+                "items": [
+                    "가고일 돌갑옷",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "레오나",
+                "star": 2,
+                "items": [
+                    "덤불 조끼",
+                    "가고일 돌갑옷",
+                    "정령의 형상"
+                ]
+            },
+            {
+                "name": "피들스틱",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "스카너",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "조이",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "아펠리오스",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "D",
         "name": "요들 트리스타나",
         "tags": [
             "lvl 6",
             "Easy"
         ],
-        "avg_place": "5.00",
-        "win_rate": "7.6%",
-        "top4_rate": "40.5%",
+        "avg_place": "5.03",
+        "win_rate": "7.3%",
+        "top4_rate": "39.9%",
+        "synergies": [
+            {
+                "name": "요들",
+                "count": "8",
+                "style": "gold"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
                 "name": "트리스타나",
                 "star": 3,
                 "items": [
                     "죽음의 검",
-                    "무한의 대검",
-                    "쇼진의 창"
+                    "구인수의 격노검",
+                    "무한의 대검"
                 ]
             },
             {
@@ -3161,27 +4579,49 @@
     },
     {
         "tier": "D",
-        "name": "기동타격대 유나라 브라움",
+        "name": "자운 징크스",
         "tags": [
-            "Fast 8",
+            "lvl 7",
             "Easy"
         ],
-        "avg_place": "5.02",
-        "win_rate": "7.2%",
+        "avg_place": "5.04",
+        "win_rate": "2.4%",
         "top4_rate": "40.0%",
+        "synergies": [
+            {
+                "name": "자운",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "용족",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "유나라",
-                "star": 2,
+                "name": "징크스",
+                "star": 3,
                 "items": [
                     "구인수의 격노검",
                     "무한의 대검",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
-                "name": "브라움",
-                "star": 2,
+                "name": "문도 박사",
+                "star": 3,
                 "items": [
                     "가고일 돌갑옷",
                     "정령의 형상",
@@ -3189,114 +4629,40 @@
                 ]
             },
             {
-                "name": "리산드라",
+                "name": "워윅",
                 "star": 2,
                 "items": [
-                    "모렐로노미콘",
-                    "쇼진의 창",
-                    "공허의 지팡이"
+                    "피바라기",
+                    "스테락의 도전",
+                    "거인의 결의"
                 ]
             },
             {
-                "name": "킨드레드",
+                "name": "신지드",
                 "star": 2,
                 "items": [
-                    "구인수의 격노검",
-                    "거인 학살자",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "볼리베어",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "세주아니",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "애쉬",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "트린다미어",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "애니비아",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "D",
-        "name": "타곤 아우렐리온 솔",
-        "tags": [
-            "Standard",
-            "Easy"
-        ],
-        "avg_place": "5.05",
-        "win_rate": "8.8%",
-        "top4_rate": "38.0%",
-        "champions": [
-            {
-                "name": "아우렐리온 솔",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "쇼진의 창",
-                    "쇼진의 창"
-                ]
-            },
-            {
-                "name": "다이애나",
-                "star": 2,
-                "items": [
-                    "밤의 끝자락",
                     "보석 건틀릿",
+                    "모렐로노미콘",
                     "정의의 손길"
                 ]
             },
             {
-                "name": "레오나",
-                "star": 2,
-                "items": [
-                    "덤불 조끼",
-                    "가고일 돌갑옷",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "타릭",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "피들스틱",
+                "name": "루시안과 세나",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "스카너",
+                "name": "에코",
+                "star": 3,
+                "items": []
+            },
+            {
+                "name": "바이",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "조이",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "아펠리오스",
+                "name": "블리츠크랭크",
                 "star": 2,
                 "items": []
             }
@@ -3304,31 +4670,43 @@
     },
     {
         "tier": "D",
-        "name": "아이오니아 유나라 아리",
+        "name": "아이오니아 아리",
         "tags": [
-            "Standard",
+            "lvl 7",
             "Easy"
         ],
         "avg_place": "5.09",
-        "win_rate": "7.2%",
-        "top4_rate": "38.3%",
+        "win_rate": "6.6%",
+        "top4_rate": "38.5%",
+        "synergies": [
+            {
+                "name": "아이오니아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
+            {
+                "name": "아리",
+                "star": 3,
+                "items": [
+                    "블루 버프",
+                    "보석 건틀릿",
+                    "공허의 지팡이"
+                ]
+            },
             {
                 "name": "유나라",
                 "star": 2,
                 "items": [
                     "구인수의 격노검",
                     "무한의 대검",
-                    "최후의 속삭임"
-                ]
-            },
-            {
-                "name": "아리",
-                "star": 2,
-                "items": [
-                    "블루 버프",
-                    "보석 건틀릿",
-                    "공허의 지팡이"
+                    "타격대의 철퇴"
                 ]
             },
             {
@@ -3369,14 +4747,127 @@
     },
     {
         "tier": "D",
-        "name": "난동꾼 사이온 바드",
+        "name": "기동타격대 유나라 브라움",
+        "tags": [
+            "Fast 8",
+            "Easy"
+        ],
+        "avg_place": "5.10",
+        "win_rate": "6.9%",
+        "top4_rate": "38.5%",
+        "synergies": [
+            {
+                "name": "프렐요드",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "기동타격대",
+                "count": "3",
+                "style": "silver"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영겁",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "유나라",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "브라움",
+                "star": 2,
+                "items": [
+                    "태양불꽃 망토",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "리산드라",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "보석 건틀릿",
+                    "라바돈의 죽음모자"
+                ]
+            },
+            {
+                "name": "킨드레드",
+                "star": 2,
+                "items": [
+                    "죽음의 검",
+                    "구인수의 격노검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "볼리베어",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "세주아니",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "애쉬",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "트린다미어",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "애니비아",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "D",
+        "name": "난동꾼 사이온 볼리베어",
         "tags": [
             "lvl 6",
             "Easy"
         ],
-        "avg_place": "5.14",
-        "win_rate": "6.1%",
-        "top4_rate": "38.2%",
+        "avg_place": "5.13",
+        "win_rate": "5.8%",
+        "top4_rate": "38.8%",
+        "synergies": [
+            {
+                "name": "난동꾼",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "관리자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "사이온",
@@ -3385,24 +4876,6 @@
                     "덤불 조끼",
                     "용의 발톱",
                     "태양불꽃 망토"
-                ]
-            },
-            {
-                "name": "바드",
-                "star": 3,
-                "items": [
-                    "대천사의 지팡이",
-                    "보석 건틀릿",
-                    "쇼진의 창"
-                ]
-            },
-            {
-                "name": "문도 박사",
-                "star": 3,
-                "items": [
-                    "가고일 돌갑옷",
-                    "태양불꽃 망토",
-                    "정령의 형상"
                 ]
             },
             {
@@ -3415,6 +4888,24 @@
                 ]
             },
             {
+                "name": "유나라",
+                "star": 2,
+                "items": [
+                    "구인수의 격노검",
+                    "무한의 대검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "문도 박사",
+                "star": 2,
+                "items": [
+                    "태양불꽃 망토",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
                 "name": "오공",
                 "star": 2,
                 "items": []
@@ -3425,7 +4916,7 @@
                 "items": []
             },
             {
-                "name": "일라오이",
+                "name": "바드",
                 "star": 3,
                 "items": []
             },
@@ -3438,69 +4929,91 @@
     },
     {
         "tier": "D",
-        "name": "비전 마법사 아리",
+        "name": "필트오버 T-헥스 미스 포츈",
         "tags": [
-            "lvl 7",
-            "Medium"
+            "Standard",
+            "Easy"
         ],
         "avg_place": "5.16",
-        "win_rate": "7.2%",
-        "top4_rate": "38.5%",
+        "win_rate": "6.5%",
+        "top4_rate": "35.1%",
+        "synergies": [
+            {
+                "name": "필트오버",
+                "count": "6",
+                "style": "gold"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "헥스 메카",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "아리",
-                "star": 3,
+                "name": "T-헥스",
+                "star": 2,
                 "items": [
-                    "보석 건틀릿",
-                    "내셔의 이빨",
+                    "죽음의 검",
+                    "무한의 대검",
                     "타격대의 철퇴"
                 ]
             },
             {
-                "name": "밀리오",
-                "star": 3,
+                "name": "미스 포츈",
+                "star": 2,
                 "items": [
-                    "모렐로노미콘",
-                    "쇼진의 창",
-                    "공허의 지팡이"
+                    "무한의 대검",
+                    "최후의 속삭임",
+                    "붉은 덩굴정령"
                 ]
             },
             {
-                "name": "스카너",
+                "name": "로리스",
                 "star": 2,
                 "items": [
                     "가고일 돌갑옷",
-                    "정령의 형상",
+                    "굳건한 심장",
                     "워모그의 갑옷"
                 ]
             },
             {
-                "name": "오공",
+                "name": "브라움",
                 "star": 2,
                 "items": [
-                    "가고일 돌갑옷",
-                    "이온 충격기",
-                    "태양불꽃 망토"
+                    "덤불 조끼",
+                    "용의 발톱",
+                    "워모그의 갑옷"
                 ]
             },
             {
-                "name": "타릭",
+                "name": "세라핀",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "케넨",
+                "name": "오리아나",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "코부코와 유미",
+                "name": "바이",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "니코",
-                "star": 2,
+                "name": "케이틀린",
+                "star": 3,
                 "items": []
             }
         ]
@@ -3512,33 +5025,55 @@
             "Standard",
             "Easy"
         ],
-        "avg_place": "5.17",
-        "win_rate": "11.7%",
-        "top4_rate": "35.7%",
+        "avg_place": "5.18",
+        "win_rate": "11.9%",
+        "top4_rate": "35.4%",
+        "synergies": [
+            {
+                "name": "빌지워터",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사격수",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대식가",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "미스 포츈",
                 "star": 2,
                 "items": [
                     "망자의 단검",
-                    "일등항해사의 화승총",
-                    "행운의 금화"
+                    "일등항해사의 머스킷",
+                    "행운의 주화"
                 ]
             },
             {
                 "name": "노틸러스",
                 "star": 3,
                 "items": [
-                    "Barknuckles",
-                    "덤불 조끼",
-                    "용의 발톱"
+                    "따개비 주먹",
+                    "가고일 돌갑옷",
+                    "정령의 형상"
                 ]
             },
             {
                 "name": "피즈",
                 "star": 2,
                 "items": [
-                    "Blackmarket Explosives",
+                    "암시장 폭발물",
                     "보석 건틀릿",
                     "정의의 손길"
                 ]
@@ -3547,8 +5082,8 @@
                 "name": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "Barknuckles",
-                    "귤 더미",
+                    "따개비 주먹",
+                    "귤",
                     "워모그의 갑옷"
                 ]
             },
@@ -3576,68 +5111,110 @@
     },
     {
         "tier": "D",
-        "name": "녹서스 드레이븐",
+        "name": "비전 마법사 아리",
         "tags": [
-            "Standard",
-            "Easy"
+            "lvl 7",
+            "Medium"
         ],
-        "avg_place": "5.18",
-        "win_rate": "6.3%",
-        "top4_rate": "35.8%",
+        "avg_place": "5.19",
+        "win_rate": "7.1%",
+        "top4_rate": "37.7%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "아이오니아",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "이쉬탈",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "요들",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
         "champions": [
             {
-                "name": "드레이븐",
-                "star": 2,
+                "name": "아리",
+                "star": 3,
                 "items": [
-                    "죽음의 검",
-                    "구인수의 격노검",
-                    "크라켄 학살자"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "타격대의 철퇴"
                 ]
             },
             {
-                "name": "사이온",
+                "name": "밀리오",
                 "star": 3,
                 "items": [
+                    "모렐로노미콘",
+                    "쇼진의 창",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "스카너",
+                "star": 2,
+                "items": [
                     "덤불 조끼",
-                    "태양불꽃 망토",
+                    "가고일 돌갑옷",
                     "정령의 형상"
                 ]
             },
             {
-                "name": "스웨인",
+                "name": "오공",
                 "star": 2,
                 "items": [
+                    "용의 발톱",
                     "가고일 돌갑옷",
-                    "정령의 형상",
                     "워모그의 갑옷"
                 ]
             },
             {
-                "name": "암베사",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "정의의 손길"
-                ]
-            },
-            {
-                "name": "멜",
+                "name": "타릭",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "Darius",
+                "name": "케넨",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "르블랑",
+                "name": "코부코와 유미",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "브라이언",
+                "name": "니코",
                 "star": 2,
                 "items": []
             }
@@ -3650,17 +5227,54 @@
             "Standard",
             "Easy"
         ],
-        "avg_place": "5.22",
-        "win_rate": "3.9%",
-        "top4_rate": "35.7%",
+        "avg_place": "5.29",
+        "win_rate": "3.6%",
+        "top4_rate": "34.3%",
+        "synergies": [
+            {
+                "name": "그림자 군도",
+                "count": "5",
+                "style": "gold"
+            },
+            {
+                "name": "파수꾼",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "토벌자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "영혼결속자",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "칼리스타",
                 "star": 2,
                 "items": [
+                    "블루 버프",
                     "무한의 대검",
-                    "타격대의 철퇴",
-                    "쇼진의 창"
+                    "타격대의 철퇴"
                 ]
             },
             {
@@ -3685,13 +5299,18 @@
                 "name": "요릭",
                 "star": 2,
                 "items": [
-                    "가고일 돌갑옷",
+                    "덤불 조끼",
                     "태양불꽃 망토",
-                    "저녁갑주"
+                    "워모그의 갑옷"
                 ]
             },
             {
                 "name": "피들스틱",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "오른",
                 "star": 2,
                 "items": []
             },
@@ -3714,14 +5333,209 @@
     },
     {
         "tier": "D",
+        "name": "기원자 리산드라 스카너",
+        "tags": [
+            "Standard",
+            "Medium"
+        ],
+        "avg_place": "5.32",
+        "win_rate": "12.1%",
+        "top4_rate": "34.5%",
+        "synergies": [
+            {
+                "name": "이쉬탈",
+                "count": "5",
+                "style": "silver"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사냥꾼",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "리산드라",
+                "star": 2,
+                "items": [
+                    "적응형 투구",
+                    "블루 버프",
+                    "보석 건틀릿"
+                ]
+            },
+            {
+                "name": "스카너",
+                "star": 2,
+                "items": [
+                    "가고일 돌갑옷",
+                    "저녁갑주",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "밀리오",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "쇼진의 창"
+                ]
+            },
+            {
+                "name": "브라움",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "니달리",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "세주아니",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "니코",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "키아나",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "D",
+        "name": "녹서스 드레이븐",
+        "tags": [
+            "Standard",
+            "Easy"
+        ],
+        "avg_place": "5.36",
+        "win_rate": "5.4%",
+        "top4_rate": "32.7%",
+        "synergies": [
+            {
+                "name": "녹서스",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
+        "champions": [
+            {
+                "name": "드레이븐",
+                "star": 2,
+                "items": [
+                    "죽음의 검",
+                    "구인수의 격노검",
+                    "크라켄의 학살자"
+                ]
+            },
+            {
+                "name": "사이온",
+                "star": 3,
+                "items": [
+                    "덤불 조끼",
+                    "태양불꽃 망토",
+                    "정령의 형상"
+                ]
+            },
+            {
+                "name": "암베사",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "스테락의 도전",
+                    "정의의 손길"
+                ]
+            },
+            {
+                "name": "르블랑",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "헥스텍 총검",
+                    "보석 건틀릿"
+                ]
+            },
+            {
+                "name": "멜",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "스웨인",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "다리우스",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "브라이언",
+                "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "D",
         "name": "타곤 아펠리오스",
         "tags": [
             "lvl 6",
             "Easy"
         ],
-        "avg_place": "5.27",
-        "win_rate": "4.5%",
-        "top4_rate": "34.8%",
+        "avg_place": "5.37",
+        "win_rate": "3.9%",
+        "top4_rate": "33.0%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            },
+            {
+                "name": "파수꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "대장장이",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "성위",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "아펠리오스",
@@ -3729,7 +5543,7 @@
                 "items": [
                     "구인수의 격노검",
                     "무한의 대검",
-                    "크라켄 학살자"
+                    "크라켄의 학살자"
                 ]
             },
             {
@@ -3745,16 +5559,16 @@
                 "name": "아우렐리온 솔",
                 "star": 2,
                 "items": [
-                    "구인수의 격노검",
-                    "쇼진의 창",
-                    "쇼진의 창"
+                    "적응형 투구",
+                    "블루 버프",
+                    "보석 건틀릿"
                 ]
             },
             {
                 "name": "다이애나",
                 "star": 2,
                 "items": [
-                    "밤의 끝자락",
+                    "이온 충격기",
                     "보석 건틀릿",
                     "정의의 손길"
                 ]
@@ -3776,36 +5590,130 @@
             },
             {
                 "name": "조이",
-                "star": 2,
+                "star": 3,
                 "items": []
             }
         ]
     },
     {
         "tier": "D",
-        "name": "타곤 레오나",
+        "name": "데마시아 베인 자르반 4세",
         "tags": [
             "lvl 7",
             "Easy"
         ],
-        "avg_place": "5.34",
-        "win_rate": "5.3%",
-        "top4_rate": "33.9%",
+        "avg_place": "5.42",
+        "win_rate": "5.2%",
+        "top4_rate": "34.6%",
+        "synergies": [
+            {
+                "name": "데마시아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "영웅",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "레오나",
+                "name": "베인",
+                "star": 3,
+                "items": [
+                    "죽음의 검",
+                    "구인수의 격노검",
+                    "무한의 대검"
+                ]
+            },
+            {
+                "name": "자르반 4세",
                 "star": 3,
                 "items": [
                     "덤불 조끼",
                     "가고일 돌갑옷",
-                    "정령의 형상"
+                    "태양불꽃 망토"
                 ]
             },
             {
-                "name": "레오나",
+                "name": "럭스",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "보석 건틀릿",
+                    "라바돈의 죽음모자"
+                ]
+            },
+            {
+                "name": "가렌",
+                "star": 2,
+                "items": [
+                    "가고일 돌갑옷",
+                    "정령의 형상",
+                    "워모그의 갑옷"
+                ]
+            },
+            {
+                "name": "갈리오",
                 "star": 2,
                 "items": []
             },
+            {
+                "name": "스웨인",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "뽀삐",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "신 짜오",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "소나",
+                "star": 3,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "D",
+        "name": "타곤 조이",
+        "tags": [
+            "lvl 7",
+            "Easy"
+        ],
+        "avg_place": "5.44",
+        "win_rate": "4.0%",
+        "top4_rate": "32.3%",
+        "synergies": [
+            {
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
+            }
+        ],
+        "champions": [
             {
                 "name": "조이",
                 "star": 3,
@@ -3821,12 +5729,26 @@
                 "items": []
             },
             {
+                "name": "레오나",
+                "star": 3,
+                "items": [
+                    "덤불 조끼",
+                    "가고일 돌갑옷",
+                    "정령의 형상"
+                ]
+            },
+            {
+                "name": "레오나",
+                "star": 2,
+                "items": []
+            },
+            {
                 "name": "다이애나",
                 "star": 2,
                 "items": [
-                    "밤의 끝자락",
-                    "보석 건틀릿",
-                    "정의의 손길"
+                    "피바라기",
+                    "구인수의 격노검",
+                    "거인의 결의"
                 ]
             },
             {
@@ -3848,14 +5770,46 @@
     },
     {
         "tier": "D",
-        "name": "프렐요드 세주아니",
+        "name": "기원자 리산드라",
         "tags": [
             "Standard",
             "Easy"
         ],
-        "avg_place": "5.36",
-        "win_rate": "4.5%",
-        "top4_rate": "33.5%",
+        "avg_place": "5.57",
+        "win_rate": "2.5%",
+        "top4_rate": "29.4%",
+        "synergies": [
+            {
+                "name": "기원자",
+                "count": "4",
+                "style": "gold"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "녹서스",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "전쟁기계",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "용의 혈통",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "리산드라",
@@ -3870,41 +5824,37 @@
                 "name": "세주아니",
                 "star": 2,
                 "items": [
-                    "태양불꽃 망토",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "브라움",
-                "star": 2,
-                "items": [
+                    "수호자의 맹세",
                     "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
+                    "태양불꽃 망토"
                 ]
             },
             {
-                "name": "볼리베어",
-                "star": 2,
+                "name": "르블랑",
+                "star": 3,
                 "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "거인의 결의"
+                    "보석 건틀릿",
+                    "내셔의 이빨",
+                    "쇼진의 창"
                 ]
             },
             {
-                "name": "가렌",
+                "name": "쉬바나",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "애쉬",
+                "name": "스웨인",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "트린다미어",
+                "name": "코부코와 유미",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "사이온",
                 "star": 2,
                 "items": []
             },
@@ -3917,225 +5867,58 @@
     },
     {
         "tier": "D",
-        "name": "아이오니아 야스오 유나라",
-        "tags": [
-            "Standard",
-            "Easy"
-        ],
-        "avg_place": "5.38",
-        "win_rate": "11.0%",
-        "top4_rate": "32.5%",
-        "champions": [
-            {
-                "name": "유나라",
-                "star": 2,
-                "items": [
-                    "구인수의 격노검",
-                    "무한의 대검",
-                    "크라켄 학살자"
-                ]
-            },
-            {
-                "name": "야스오",
-                "star": 3,
-                "items": [
-                    "피바라기",
-                    "스테락의 도전",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "오공",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "태양불꽃 망토",
-                    "정령의 형상"
-                ]
-            },
-            {
-                "name": "아리",
-                "star": 2,
-                "items": [
-                    "블루 버프",
-                    "보석 건틀릿",
-                    "라바돈의 죽음모자"
-                ]
-            },
-            {
-                "name": "케넨",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "신 짜오",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "진",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "쉔",
-                "star": 3,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "D",
-        "name": "기원자 리산드라",
+        "name": "이쉬탈 니달리",
         "tags": [
             "Standard",
             "Medium"
         ],
-        "avg_place": "5.41",
-        "win_rate": "11.4%",
-        "top4_rate": "32.9%",
+        "avg_place": "5.66",
+        "win_rate": "8.4%",
+        "top4_rate": "28.6%",
+        "synergies": [
+            {
+                "name": "이쉬탈",
+                "count": "5",
+                "style": "silver"
+            },
+            {
+                "name": "프렐요드",
+                "count": "3",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "사냥꾼",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "리산드라",
+                "name": "니달리",
                 "star": 2,
                 "items": [
                     "보석 건틀릿",
                     "내셔의 이빨",
-                    "공허의 지팡이"
+                    "정의의 손길"
                 ]
-            },
-            {
-                "name": "스카너",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
-            },
-            {
-                "name": "밀리오",
-                "star": 2,
-                "items": [
-                    "보석 건틀릿",
-                    "내셔의 이빨",
-                    "쇼진의 창"
-                ]
-            },
-            {
-                "name": "브라움",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "Nidalee",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "세주아니",
-                "star": 2,
-                "items": []
             },
             {
                 "name": "니코",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "키아나",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "D",
-        "name": "아이오니아 야스오 요네",
-        "tags": [
-            "lvl 6",
-            "Easy"
-        ],
-        "avg_place": "5.47",
-        "win_rate": "4.1%",
-        "top4_rate": "32.7%",
-        "champions": [
-            {
-                "name": "야스오",
                 "star": 3,
                 "items": [
-                    "피바라기",
-                    "거인 학살자",
-                    "스테락의 도전"
-                ]
-            },
-            {
-                "name": "요네",
-                "star": 2,
-                "items": [
-                    "피바라기",
-                    "구인수의 격노검",
-                    "거인의 결의"
-                ]
-            },
-            {
-                "name": "신 짜오",
-                "star": 3,
-                "items": [
-                    "태양불꽃 망토",
-                    "정령의 형상",
-                    "저녁갑주"
-                ]
-            },
-            {
-                "name": "아리",
-                "star": 2,
-                "items": [
-                    "대천사의 지팡이",
-                    "블루 버프",
-                    "보석 건틀릿"
-                ]
-            },
-            {
-                "name": "오공",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "케넨",
-                "star": 2,
-                "items": []
-            },
-            {
-                "name": "진",
-                "star": 3,
-                "items": []
-            },
-            {
-                "name": "쉔",
-                "star": 2,
-                "items": []
-            }
-        ]
-    },
-    {
-        "tier": "D",
-        "name": "이쉬탈 밀리오",
-        "tags": [
-            "Standard",
-            "Medium"
-        ],
-        "avg_place": "5.85",
-        "win_rate": "8.1%",
-        "top4_rate": "25.9%",
-        "champions": [
-            {
-                "name": "Nidalee",
-                "star": 2,
-                "items": [
-                    "보석 건틀릿",
-                    "라바돈의 죽음모자",
-                    "정의의 손길"
+                    "가고일 돌갑옷",
+                    "이온 충격기",
+                    "태양불꽃 망토"
                 ]
             },
             {
@@ -4172,34 +5955,61 @@
                 "items": []
             },
             {
-                "name": "니코",
-                "star": 3,
-                "items": []
-            },
-            {
                 "name": "키아나",
-                "star": 2,
+                "star": 3,
                 "items": []
             }
         ]
     },
     {
         "tier": "D",
-        "name": "이쉬탈 니코",
+        "name": "이쉬탈 바드",
         "tags": [
             "lvl 6",
             "Easy"
         ],
-        "avg_place": "6.01",
+        "avg_place": "6.03",
         "win_rate": "5.9%",
-        "top4_rate": "23.0%",
+        "top4_rate": "22.8%",
+        "synergies": [
+            {
+                "name": "이쉬탈",
+                "count": "5",
+                "style": "silver"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "기원자",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "관리자",
+                "count": "1",
+                "style": "unique"
+            },
+            {
+                "name": "사냥꾼",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
                 "name": "바드",
                 "star": 3,
                 "items": [
-                    "대천사의 지팡이",
                     "보석 건틀릿",
+                    "내셔의 이빨",
                     "쇼진의 창"
                 ]
             },
@@ -4213,21 +6023,21 @@
                 ]
             },
             {
-                "name": "Nidalee",
-                "star": 2,
-                "items": [
-                    "보석 건틀릿",
-                    "타격대의 철퇴",
-                    "정의의 손길"
-                ]
-            },
-            {
                 "name": "밀리오",
                 "star": 3,
                 "items": [
                     "모렐로노미콘",
                     "쇼진의 창",
                     "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "니달리",
+                "star": 2,
+                "items": [
+                    "보석 건틀릿",
+                    "타격대의 철퇴",
+                    "정의의 손길"
                 ]
             },
             {
@@ -4254,26 +6064,49 @@
     },
     {
         "tier": "D",
-        "name": "공허 협곡의 전령",
+        "name": "타곤 레오나",
         "tags": [
             "Standard",
             "Easy"
         ],
-        "avg_place": "6.20",
-        "win_rate": "2.1%",
-        "top4_rate": "18.9%",
-        "champions": [
+        "avg_place": "6.05",
+        "win_rate": "2.0%",
+        "top4_rate": "21.4%",
+        "synergies": [
             {
-                "name": "협곡의 전령",
-                "star": 2,
-                "items": [
-                    "가고일 돌갑옷",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
+                "name": "타곤",
+                "count": "1",
+                "style": "gold"
             },
             {
-                "name": "벨베스",
+                "name": "비전 마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "엄호대",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "마법사",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "필트오버",
+                "count": "2",
+                "style": "bronze"
+            },
+            {
+                "name": "황제",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
+        "champions": [
+            {
+                "name": "다이애나",
                 "star": 2,
                 "items": [
                     "피바라기",
@@ -4282,21 +6115,30 @@
                 ]
             },
             {
-                "name": "말자하",
+                "name": "레오나",
                 "star": 2,
                 "items": [
-                    "보석 건틀릿",
-                    "내셔의 이빨",
-                    "쇼진의 창"
+                    "덤불 조끼",
+                    "태양불꽃 망토",
+                    "워모그의 갑옷"
                 ]
             },
             {
-                "name": "코그모",
+                "name": "세라핀",
                 "star": 2,
                 "items": [
-                    "블루 버프",
+                    "보석 건틀릿",
+                    "모렐로노미콘",
+                    "공허의 지팡이"
+                ]
+            },
+            {
+                "name": "아지르",
+                "star": 2,
+                "items": [
+                    "대천사의 지팡이",
                     "구인수의 격노검",
-                    "보석 건틀릿"
+                    "공허의 지팡이"
                 ]
             },
             {
@@ -4305,17 +6147,17 @@
                 "items": []
             },
             {
-                "name": "오공",
+                "name": "타릭",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "초가스",
+                "name": "니코",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "렉사이",
+                "name": "바이",
                 "star": 2,
                 "items": []
             }
@@ -4323,68 +6165,164 @@
     },
     {
         "tier": "D",
-        "name": "녹서스 드레이븐 스웨인",
+        "name": "이쉬탈 스카너",
         "tags": [
             "Standard",
-            "Easy"
+            "Medium"
         ],
-        "avg_place": "6.44",
-        "win_rate": "1.8%",
-        "top4_rate": "14.5%",
+        "avg_place": "6.25",
+        "win_rate": "7.7%",
+        "top4_rate": "20.2%",
+        "synergies": [
+            {
+                "name": "이쉬탈",
+                "count": "5",
+                "style": "silver"
+            },
+            {
+                "name": "비전 마법사",
+                "count": "4",
+                "style": "silver"
+            },
+            {
+                "name": "어둠의 아이",
+                "count": "1",
+                "style": "unique"
+            }
+        ],
         "champions": [
             {
-                "name": "드레이븐",
+                "name": "스카너",
                 "star": 2,
                 "items": [
-                    "죽음의 검",
-                    "구인수의 격노검",
-                    "크라켄 학살자"
+                    "가고일 돌갑옷",
+                    "태양불꽃 망토",
+                    "저녁갑주"
                 ]
+            },
+            {
+                "name": "밀리오",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "보석 건틀릿",
+                    "라바돈의 죽음모자"
+                ]
+            },
+            {
+                "name": "브록",
+                "star": 2,
+                "items": [
+                    "피바라기",
+                    "스테락의 도전",
+                    "거인의 결의"
+                ]
+            },
+            {
+                "name": "니코",
+                "star": 2,
+                "items": [
+                    "전술가의 방패"
+                ]
+            },
+            {
+                "name": "티버",
+                "star": 2,
+                "items": []
+            },
+            {
+                "name": "애니",
+                "star": 2,
+                "items": []
             },
             {
                 "name": "스웨인",
                 "star": 2,
-                "items": [
-                    "태양불꽃 망토",
-                    "정령의 형상",
-                    "워모그의 갑옷"
-                ]
+                "items": []
             },
             {
-                "name": "킨드레드",
+                "name": "키아나",
                 "star": 2,
+                "items": []
+            }
+        ]
+    },
+    {
+        "tier": "D",
+        "name": "아이오니아 진",
+        "tags": [
+            "lvl 5",
+            "Easy"
+        ],
+        "avg_place": "6.57",
+        "win_rate": "1.7%",
+        "top4_rate": "14.6%",
+        "synergies": [
+            {
+                "name": "아이오니아",
+                "count": "7",
+                "style": "gold"
+            },
+            {
+                "name": "난동꾼",
+                "count": "2",
+                "style": "bronze"
+            }
+        ],
+        "champions": [
+            {
+                "name": "진",
+                "star": 3,
                 "items": [
                     "죽음의 검",
                     "구인수의 격노검",
-                    "크라켄 학살자"
+                    "무한의 대검"
                 ]
             },
             {
-                "name": "타릭",
-                "star": 2,
+                "name": "야스오",
+                "star": 3,
                 "items": [
-                    "태양불꽃 망토",
-                    "정령의 형상",
+                    "피바라기",
+                    "밤의 끝자락",
+                    "스테락의 도전"
+                ]
+            },
+            {
+                "name": "쉔",
+                "star": 3,
+                "items": [
+                    "덤불 조끼",
+                    "용의 발톱",
                     "워모그의 갑옷"
                 ]
             },
             {
-                "name": "피들스틱",
+                "name": "아리",
+                "star": 2,
+                "items": [
+                    "블루 버프",
+                    "보석 건틀릿",
+                    "라바돈의 죽음모자"
+                ]
+            },
+            {
+                "name": "오공",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "루시안과 세나",
+                "name": "유나라",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "쉬바나",
+                "name": "케넨",
                 "star": 2,
                 "items": []
             },
             {
-                "name": "암베사",
+                "name": "신 짜오",
                 "star": 2,
                 "items": []
             }

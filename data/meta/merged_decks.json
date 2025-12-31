@@ -645,7 +645,7 @@
                 "name": "노틸러스",
                 "star": 3,
                 "items": [
-                    "Barknuckles",
+                    "따개비 주먹",
                     "가고일 돌갑옷",
                     "저녁갑주"
                 ]
@@ -1876,7 +1876,7 @@
                 "items": []
             },
             {
-                "name": "Darius",
+                "name": "다리우스",
                 "star": 2,
                 "items": []
             },
@@ -4768,7 +4768,7 @@
                 "name": "노틸러스",
                 "star": 3,
                 "items": [
-                    "Barknuckles",
+                    "따개비 주먹",
                     "덤불 조끼",
                     "용의 발톱"
                 ]
@@ -4777,7 +4777,7 @@
                 "name": "피즈",
                 "star": 2,
                 "items": [
-                    "Blackmarket Explosives",
+                    "암시장 폭발물",
                     "보석 건틀릿",
                     "정의의 손길"
                 ]
@@ -4786,7 +4786,7 @@
                 "name": "탐 켄치",
                 "star": 2,
                 "items": [
-                    "Barknuckles",
+                    "따개비 주먹",
                     "귤 더미",
                     "워모그의 갑옷"
                 ]
@@ -4873,7 +4873,7 @@
                 "items": []
             },
             {
-                "name": "Darius",
+                "name": "다리우스",
                 "star": 2,
                 "items": []
             },
@@ -5384,7 +5384,7 @@
                 "items": []
             },
             {
-                "name": "Nidalee",
+                "name": "니달리",
                 "star": 2,
                 "items": []
             },
@@ -5496,7 +5496,7 @@
         "top4_rate": "25.9%",
         "champions": [
             {
-                "name": "Nidalee",
+                "name": "니달리",
                 "star": 2,
                 "items": [
                     "보석 건틀릿",
@@ -5584,7 +5584,7 @@
                 ]
             },
             {
-                "name": "Nidalee",
+                "name": "니달리",
                 "star": 2,
                 "items": [
                     "보석 건틀릿",
