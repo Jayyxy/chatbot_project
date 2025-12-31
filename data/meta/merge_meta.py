@@ -10,6 +10,7 @@ METATFT_FILE = "data/meta/metatft_comps_final.json"
 OUTPUT_FILE = "data/meta/merged_decks.json"
 
 SIMILARITY_THRESHOLD = 0.60  # 60% 이상 일치하면 같은 덱으로 간주
+SIMILARITY_THRESHOLD = 0.60  # 60% 이상 일치하면 같은 덱으로 간주
 
 # 비교 시 무시할 유닛 (소환물, 아이템 등)
 IGNORE_LIST = [
@@ -71,6 +72,21 @@ def clean_champion_list(champs):
             cleaned.append(c)
     return cleaned
 
+# ★ [추가됨] 시너지 리스트 정제 함수
+def clean_synergy_list(synergies):
+    """
+    시너지 리스트에서 유효하지 않은 데이터(이름 없음, Unknown 등)를 제거합니다.
+    """
+    if not synergies: return []
+    
+    cleaned = []
+    for s in synergies:
+        name = s.get("name", "")
+        # 이름이 존재하고, 'Unknown'이 아닌 경우만 포함
+        if name and name.lower() != "unknown":
+            cleaned.append(s)
+    return cleaned
+
 def main():
     print(">>> 🚀 MetaTFT 기준 병합 프로세스 시작...\n")
     
@@ -105,12 +121,16 @@ def main():
                 best_score = score
                 best_match_idx = idx
         
-        # 2. 결과 객체 생성 (MetaTFT 원본 유지)
+        # 2. 결과 객체 생성 (MetaTFT 원본 유지 -> 시너지 포함됨)
         final_deck = meta_deck.copy()
         
-        # 챔피언 리스트 청소 (소환수 제거)
+        # [데이터 정제 1] 챔피언 리스트 청소 (소환수 제거)
         if "champions" in final_deck:
             final_deck["champions"] = clean_champion_list(final_deck["champions"])
+
+        # [데이터 정제 2] ★ 시너지 리스트 청소 (기능 추가됨)
+        if "synergies" in final_deck:
+            final_deck["synergies"] = clean_synergy_list(final_deck["synergies"])
 
         # 3. 유사도가 기준을 넘으면 -> 가이드 & HOT 여부만 가져옴
         if best_score >= SIMILARITY_THRESHOLD:
@@ -145,8 +165,6 @@ def main():
             final_deck["data_source"] = ["MetaTFT"]
             final_deck["guide"] = None
             final_deck["is_hot"] = False
-            
-            # print(f"ℹ️ [단독] {meta_deck.get('name')} (매칭 없음)")
 
         merged_results.append(final_deck)
 
