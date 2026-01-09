@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 # [설정]
 # ==========================================
 TARGET_URL = "https://lolchess.gg/champions/set16/stats"
-OUTPUT_FILE = "lolchess_champion_stats.json"
+OUTPUT_FILE = "lolchess_champion_info.json"
 
 def get_role_from_img(img_tag):
     if not img_tag:
